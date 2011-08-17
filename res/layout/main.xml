@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:weightSum="1" android:orientation="horizontal">
+    <RelativeLayout android:id="@+id/relativeLayout1" android:layout_height="fill_parent" android:layout_width="fill_parent">
+        <ExpandableListView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@+id/spinner1" android:id="@+id/barList">
+            <!-- Preview: listitem=@android:layout/simple_expandable_list_item_2 -->
+        </ExpandableListView>
+        <Spinner android:id="@+id/spinner1" android:layout_height="wrap_content" android:layout_alignParentTop="true" android:layout_alignParentLeft="true" android:layout_width="150dp"></Spinner>
+        <Spinner android:id="@+id/spinner2" android:layout_width="150dp" android:layout_height="wrap_content" android:layout_alignParentTop="true" android:layout_toRightOf="@+id/spinner1"></Spinner>
+    </RelativeLayout>
+</LinearLayout>

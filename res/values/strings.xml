@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MadisonBarSpecialsActivity!</string>
+    <string name="app_name">MadisonBarSpecials</string>
+    <string name="myClickHandler">myClickHandler</string>
+    <color name="badger">#810541</color>
+</resources>
