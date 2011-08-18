@@ -15,36 +15,36 @@ import java.util.HashMap;
 
 public class ExpList extends ExpandableListActivity
 {
-    static final String colors[] = {
+    static final String bars[] = {
 	  "Jordan's Big 10 Pub",
 	  "Lucky's",
 	  "Wando's",
 	  "Brothers"
 	};
 
-	static final String shades[][] = {
+	static final String specials[][] = {
 // Jordan's Specials
 	  {
-		"2-for-1 Rails","",
-		"PBR","$1"
+		"2-for-1 Rails",
+		"$1 PBR"
 	  },
 // Lucky's Specials
 	  {
-		"dodgerblue 2","#1C86EE",
-		"steelblue 2","#5CACEE",
-		"powderblue","#B0E0E6"
+		"dodgerblue 2",
+		"steelblue 2",
+		"powderblue"
 	  },
 // Wando's Specials
 	  {
-		"yellow 1","#FFFF00",
-		"gold 1","#FFD700",
-		"darkgoldenrod 1","	#FFB90F"
+		"yellow 1",
+		"gold 1",
+		"darkgoldenrod 1",
 	  },
 // Brothers' Specials
 	  {
-		"indianred 1","#FF6A6A",
-		"firebrick 1","#FF3030",
-		"maroon","#800000"
+		"indianred 1",
+		"firebrick 1",
+		"maroon"
 	  }
     };
 
@@ -60,7 +60,7 @@ public class ExpList extends ExpandableListActivity
         	(TextView)  this.findViewById(R.id.specialsFor);
         Date now = new Date();
         SimpleDateFormat format = new SimpleDateFormat("E, MMMM d");
-		currentDateText.setText("Current Specials for: " + format.format(now));
+		currentDateText.setText("Current Specials for " + format.format(now));
         
         // Set up bar list
 		SimpleExpandableListAdapter expListAdapter =
@@ -68,12 +68,12 @@ public class ExpList extends ExpandableListActivity
 				this,
 				createGroupList(),	// groupData describes the first-level entries
 				R.layout.group_row,	// Layout for the first-level entries
-				new String[] { "colorName" },	// Key in the groupData maps to display
+				new String[] { "barName" },	// Key in the groupData maps to display
 				new int[] { R.id.groupname },		// Data under "colorName" key goes into this TextView
 				createChildList(),	// childData describes second-level entries
 				R.layout.child_row,	// Layout for second-level entries
-				new String[] { "shadeName", "rgb" },	// Keys in childData maps to display
-				new int[] { R.id.childname, R.id.rgb }	// Data under the keys above go into these TextViews
+				new String[] { "specialName" },	// Keys in childData maps to display
+				new int[] { R.id.childname }	// Data under the keys above go into these TextViews
 			);
 		setListAdapter( expListAdapter );
     }
@@ -86,9 +86,9 @@ public class ExpList extends ExpandableListActivity
   */
 	private List createGroupList() {
 	  ArrayList result = new ArrayList();
-	  for( int i = 0 ; i < colors.length ; ++i ) {
+	  for( int i = 0 ; i < bars.length ; ++i ) {
 		HashMap m = new HashMap();
-	    m.put( "colorName",colors[i] );
+	    m.put( "barName",bars[i] );
 		result.add( m );
 	  }
 	  return (List)result;
@@ -103,13 +103,12 @@ public class ExpList extends ExpandableListActivity
   */
   private List createChildList() {
 	ArrayList result = new ArrayList();
-	for( int i = 0 ; i < shades.length ; ++i ) {
+	for( int i = 0 ; i < specials.length ; ++i ) {
 // Second-level lists
 	  ArrayList secList = new ArrayList();
-	  for( int n = 0 ; n < shades[i].length ; n += 2 ) {
+	  for( int n = 0 ; n < specials[i].length ; ++n ) {
 	    HashMap child = new HashMap();
-		child.put( "shadeName", shades[i][n] );
-	    child.put( "rgb", shades[i][n+1] );
+		child.put( "specialName", specials[i][n] );
 		secList.add( child );
 	  }
 	  result.add( secList );
