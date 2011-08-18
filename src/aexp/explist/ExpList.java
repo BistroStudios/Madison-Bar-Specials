@@ -11,6 +11,13 @@ import android.widget.Button;
 import android.widget.SimpleExpandableListAdapter;
 import android.widget.TextView;
 
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.net.URL;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -18,15 +25,11 @@ import java.util.List;
 import java.util.ArrayList;
 import java.util.Map;
 import java.util.HashMap;
+import java.util.Scanner;
 
 public class ExpList extends ExpandableListActivity
 {
-    static final String bars[] = {
-	  "Jordan's Big 10 Pub",
-	  "Lucky's",
-	  "Wando's",
-	  "Brothers"
-	};
+    static final String bars[] = barList();
 
 	static final String specials[][] = {
 // Jordan's Specials
@@ -144,6 +147,25 @@ public class ExpList extends ExpandableListActivity
 	  result.add( secList );
 	}
 	return result;
+  }
+  
+  static public String[] barList()
+  { 
+	   ArrayList<String> bars = new ArrayList<String>();
+	   try{
+		   URL url = new URL("http://www.cinndev.com/testFile.txt");
+		   BufferedReader br = new BufferedReader(new InputStreamReader(url.openStream()));
+		   String line = br.readLine();
+		   while(line != null)
+		   {
+			   bars.add(line);
+			   line = br.readLine();
+		   }
+	   }
+	   catch (IOException e) {
+	       e.printStackTrace();
+	   }
+	   return (String[])bars.toArray();
   }
 
 }
