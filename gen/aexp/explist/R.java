@@ -12,12 +12,12 @@ public final class R {
     }
     public static final class id {
         public static final int childname=0x7f040000;
-        public static final int filterLink=0x7f040006;
-        public static final int groupname=0x7f040002;
-        public static final int linearLayout1=0x7f040004;
-        public static final int rgb=0x7f040001;
-        public static final int specialsFor=0x7f040005;
-        public static final int title=0x7f040003;
+        public static final int filterLink=0x7f040005;
+        public static final int groupname=0x7f040001;
+        public static final int linearLayout1=0x7f040003;
+        public static final int sortLink=0x7f040006;
+        public static final int specialsFor=0x7f040004;
+        public static final int title=0x7f040002;
         public static final int top_border_line=0x7f040007;
     }
     public static final class layout {

@@ -7,6 +7,7 @@ import android.text.style.UnderlineSpan;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.view.Window;
+import android.widget.Button;
 import android.widget.SimpleExpandableListAdapter;
 import android.widget.TextView;
 
@@ -59,6 +60,13 @@ public class ExpList extends ExpandableListActivity
 	      // do something when the button is clicked
 	    }
 	};
+	
+	// Create an anonymous implementation of OnClickListener
+	private OnClickListener sortListener = new OnClickListener() {
+	    public void onClick(View v) {
+	      // do something when the button is clicked
+	    }
+	};
 
     /** Called when the activity is first created. */
     @Override
@@ -72,7 +80,7 @@ public class ExpList extends ExpandableListActivity
         	(TextView)  this.findViewById(R.id.specialsFor);
         Date now = new Date();
         SimpleDateFormat format = new SimpleDateFormat("E, MMMM d");
-		currentDateText.setText("Current Specials for " + format.format(now));
+		currentDateText.setText("Specials for " + format.format(now));
         
         // Set up bar list
 		SimpleExpandableListAdapter expListAdapter =
@@ -89,13 +97,15 @@ public class ExpList extends ExpandableListActivity
 			);
 		setListAdapter( expListAdapter );
 		
-		// Set the filter's link to be underlined
-		TextView filter = (TextView) findViewById(R.id.filterLink);
-		SpannableString content = new SpannableString("Filter");
-		content.setSpan(new UnderlineSpan(), 0, content.length(), 0);
-		filter.setText(content);
+		// Set the filter's link
+		Button filter = (Button) findViewById(R.id.filterLink);
 	    // Register the onClick listener with the implementation above
 	    filter.setOnClickListener(filterListener);
+	    
+	    // Set the sort's link
+		Button sort = (Button) findViewById(R.id.sortLink);
+	    // Register the onClick listener with the implementation above
+		sort.setOnClickListener(sortListener);
     }
 
 /**

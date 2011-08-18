@@ -4,10 +4,11 @@
          android:orientation="vertical"
          android:layout_width="fill_parent" 
          android:layout_height="fill_parent">
-    <TextView android:text="Madison Bar Specials" android:textAppearance="?android:attr/textAppearanceMedium" android:layout_width="wrap_content" android:id="@+id/title" android:layout_height="wrap_content"></TextView>
-    <LinearLayout android:id="@+id/linearLayout1" android:layout_width="fill_parent" android:weightSum="1" android:layout_height="25px">
-        <TextView android:text="blah" android:textAppearance="?android:attr/textAppearanceSmall" android:id="@+id/specialsFor" android:layout_width="wrap_content" android:layout_weight="0.82" android:layout_height="30dp"></TextView>
-        <TextView android:text="Filter" android:layout_height="wrap_content" android:layout_width="wrap_content" android:layout_weight="0.82" android:textAppearance="?android:attr/textAppearanceSmall" android:id="@+id/filterLink" android:clickable="true"></TextView>
+    <TextView android:text="Madison Bar Specials" android:gravity="center|center" android:textAppearance="?android:attr/textAppearanceMedium" android:layout_width="wrap_content" android:id="@+id/title" android:layout_height="wrap_content"></TextView>
+    <LinearLayout android:id="@+id/linearLayout1" android:layout_width="fill_parent" android:weightSum="1" android:layout_height="40px">
+        <TextView android:text="blah" android:gravity="top|left" android:textAppearance="?android:attr/textAppearanceSmall" android:id="@+id/specialsFor" android:layout_height="30dp" android:layout_width="wrap_content" android:layout_weight="0.82"></TextView>
+        <Button android:text="Filter" android:gravity="top|center" android:layout_height="36dp" android:textAppearance="?android:attr/textAppearanceSmall" android:layout_width="60dp" android:clickable="true" android:id="@+id/filterLink"></Button>
+        <Button android:text=" Sort" android:clickable="true" android:paddingLeft="6px" android:gravity="top|center" android:layout_height="36dp" android:id="@+id/sortLink" android:textAppearance="?android:attr/textAppearanceSmall" android:layout_width="60dp"></Button>
     </LinearLayout>
     <TextView android:text="" android:background="#424142" android:layout_width="fill_parent" android:id="@+id/top_border_line" android:layout_height="1px"></TextView>
  
