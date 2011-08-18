@@ -4,8 +4,8 @@
          android:textSize="20px"
          android:textStyle="bold"
 		 android:paddingLeft="15px"
-		 android:paddingTop="12px"
+		 android:paddingTop="10px"
          android:layout_width="fill_parent"
          android:layout_height="wrap_content"
-		 android:minHeight="50px"      
+		 android:minHeight="50px"   
 />

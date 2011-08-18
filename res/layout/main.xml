@@ -4,7 +4,12 @@
          android:orientation="vertical"
          android:layout_width="fill_parent" 
          android:layout_height="fill_parent">
-    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:textAppearance="?android:attr/textAppearanceSmall" android:id="@+id/specialsFor"></TextView>
+    <TextView android:text="Madison Bar Specials" android:textAppearance="?android:attr/textAppearanceMedium" android:layout_width="wrap_content" android:id="@+id/title" android:layout_height="wrap_content"></TextView>
+    <LinearLayout android:id="@+id/linearLayout1" android:layout_width="fill_parent" android:weightSum="1" android:layout_height="25px">
+        <TextView android:text="blah" android:textAppearance="?android:attr/textAppearanceSmall" android:id="@+id/specialsFor" android:layout_width="wrap_content" android:layout_weight="0.82" android:layout_height="30dp"></TextView>
+        <TextView android:text="Filter" android:layout_height="wrap_content" android:layout_width="wrap_content" android:layout_weight="0.82" android:textAppearance="?android:attr/textAppearanceSmall" android:id="@+id/filterLink" android:clickable="true"></TextView>
+    </LinearLayout>
+    <TextView android:text="" android:background="#424142" android:layout_width="fill_parent" android:id="@+id/top_border_line" android:layout_height="1px"></TextView>
  
      <ExpandableListView android:id="@+id/android:list"
                android:layout_width="fill_parent" 

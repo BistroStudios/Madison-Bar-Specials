@@ -2,6 +2,11 @@ package aexp.explist;
 
 import android.app.ExpandableListActivity;
 import android.os.Bundle;
+import android.text.SpannableString;
+import android.text.style.UnderlineSpan;
+import android.view.View;
+import android.view.View.OnClickListener;
+import android.view.Window;
 import android.widget.SimpleExpandableListAdapter;
 import android.widget.TextView;
 
@@ -47,6 +52,13 @@ public class ExpList extends ExpandableListActivity
 		"maroon"
 	  }
     };
+	
+	// Create an anonymous implementation of OnClickListener
+	private OnClickListener filterListener = new OnClickListener() {
+	    public void onClick(View v) {
+	      // do something when the button is clicked
+	    }
+	};
 
     /** Called when the activity is first created. */
     @Override
@@ -76,6 +88,14 @@ public class ExpList extends ExpandableListActivity
 				new int[] { R.id.childname }	// Data under the keys above go into these TextViews
 			);
 		setListAdapter( expListAdapter );
+		
+		// Set the filter's link to be underlined
+		TextView filter = (TextView) findViewById(R.id.filterLink);
+		SpannableString content = new SpannableString("Filter");
+		content.setSpan(new UnderlineSpan(), 0, content.length(), 0);
+		filter.setText(content);
+	    // Register the onClick listener with the implementation above
+	    filter.setOnClickListener(filterListener);
     }
 
 /**
