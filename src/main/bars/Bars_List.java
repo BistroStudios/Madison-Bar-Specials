@@ -1,35 +1,25 @@
-package aexp.explist;
+package main.bars;
 
 import android.app.ExpandableListActivity;
 import android.os.Bundle;
-import android.text.SpannableString;
-import android.text.style.UnderlineSpan;
 import android.view.View;
 import android.view.View.OnClickListener;
-import android.view.Window;
 import android.widget.Button;
 import android.widget.SimpleExpandableListAdapter;
 import android.widget.TextView;
 
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-import java.io.IOException;
+import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.net.URL;
-import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.List;
 import java.util.ArrayList;
-import java.util.Map;
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class ExpList extends ExpandableListActivity
-{
-    static final String bars[] = barList();
+public class Bars_List extends ExpandableListActivity {
+    static String bars[];
 
 	static final String specials[][] = {
 // Jordan's Specials
@@ -77,6 +67,9 @@ public class ExpList extends ExpandableListActivity
     {
         super.onCreate(icicle);
         setContentView(R.layout.main);
+        
+        // set up array lists
+        bars = barList();
         
         // Set up date
         TextView currentDateText =
@@ -137,7 +130,7 @@ public class ExpList extends ExpandableListActivity
   private List createChildList() {
 	ArrayList result = new ArrayList();
 	for( int i = 0 ; i < specials.length ; ++i ) {
-// Second-level lists
+		// Second-level lists
 	  ArrayList secList = new ArrayList();
 	  for( int n = 0 ; n < specials[i].length ; ++n ) {
 	    HashMap child = new HashMap();
@@ -152,20 +145,23 @@ public class ExpList extends ExpandableListActivity
   static public String[] barList()
   { 
 	   ArrayList<String> bars = new ArrayList<String>();
+	   Scanner scan;
 	   try{
-		   URL url = new URL("http://www.cinndev.com/testFile.txt");
-		   BufferedReader br = new BufferedReader(new InputStreamReader(url.openStream()));
-		   String line = br.readLine();
-		   while(line != null)
+		   URL url = new URL("https://raw.github.com/BistroStudios/Madison-Bar-Specials/master/bars.txt");
+		   InputStream in = url.openStream();
+		   scan = new Scanner(new InputStreamReader(in));
+		   while(scan.hasNextLine())
 		   {
-			   bars.add(line);
-			   line = br.readLine();
+			   bars.add(scan.nextLine());
 		   }
+		   scan.close();
 	   }
-	   catch (IOException e) {
+	   catch (Exception e) {
 	       e.printStackTrace();
 	   }
-	   return (String[])bars.toArray();
+	   
+	   String[] arr = bars.toArray(new String[0]);
+	   return arr;
   }
-
+ 
 }
