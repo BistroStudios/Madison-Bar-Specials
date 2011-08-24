@@ -43,11 +43,17 @@ public class Bars_List extends ExpandableListActivity {
         super.onCreate(icicle);
         setContentView(R.layout.main);
         
-        // set up bar list
+        // find the day for the list
+    	// 0:Sun,1:Mon,2:Tue,3:Wed,4:Thurs,5:Fri,6:Sat
+        makeBarList((new Date()).getDay());
+    }
+    
+    private void makeBarList(int dow) {
+    	// set up bar list
         bars = barList();
 		
 		// set up specials list
-		String[] daySpecials = barSpecials();
+		String[] daySpecials = barSpecials(dow);
 		ArrayList<String[]> list = new ArrayList<String[]>();
 			String delim = "\t";
 			for(int i=0;i<daySpecials.length;i++)	{
@@ -162,12 +168,24 @@ public class Bars_List extends ExpandableListActivity {
 	   return arr;
   }
  
-  static public String[] barSpecials()
+  static public String[] barSpecials(int dow)
   { 
 	   ArrayList<String> barSpecials = new ArrayList<String>();
 	   Scanner scan;
 	   try{
-		   URL url = new URL("https://raw.github.com/BistroStudios/Madison-Bar-Specials/master/MondaySpecials.txt");
+		   // can be null...since dow MUST be 0..6 and thus url WILL be set
+		   URL url = null;
+		   switch (dow) {
+		   	case 0:
+		   	case 1:
+		   	case 2:
+		   	case 3:
+		   	case 4:
+		   	case 5:
+		   	case 6:
+		   		url = new URL("https://raw.github.com/BistroStudios/Madison-Bar-Specials/master/MondaySpecials.txt");
+		   		break;
+		   }
 		   InputStream in = url.openStream();
 		   scan = new Scanner(new InputStreamReader(in));
 		   while(scan.hasNextLine())
