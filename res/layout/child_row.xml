@@ -7,6 +7,6 @@
     <TextView android:id="@+id/childname"
 		 android:paddingLeft="25px"
          android:textSize="14px"
-         android:layout_width="150px"
+         android:layout_width="wrap_content"
          android:layout_height="wrap_content"/>
 </LinearLayout>

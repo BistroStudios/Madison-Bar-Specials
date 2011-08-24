@@ -19,34 +19,9 @@ import java.util.HashMap;
 import java.util.Scanner;
 
 public class Bars_List extends ExpandableListActivity {
-    static String bars[];
+    private String bars[];
+	private String specials[][];
 
-	static final String specials[][] = {
-// Jordan's Specials
-	  {
-		"2-for-1 Rails",
-		"$1 PBR"
-	  },
-// Lucky's Specials
-	  {
-		"dodgerblue 2",
-		"steelblue 2",
-		"powderblue"
-	  },
-// Wando's Specials
-	  {
-		"yellow 1",
-		"gold 1",
-		"darkgoldenrod 1",
-	  },
-// Brothers' Specials
-	  {
-		"indianred 1",
-		"firebrick 1",
-		"maroon"
-	  }
-    };
-	
 	// Create an anonymous implementation of OnClickListener
 	private OnClickListener filterListener = new OnClickListener() {
 	    public void onClick(View v) {
@@ -68,8 +43,31 @@ public class Bars_List extends ExpandableListActivity {
         super.onCreate(icicle);
         setContentView(R.layout.main);
         
-        // set up array lists
+        // set up bar list
         bars = barList();
+		
+		// set up specials list
+		String[] daySpecials = barSpecials();
+		ArrayList<String[]> list = new ArrayList<String[]>();
+			String delim = "\t";
+			for(int i=0;i<daySpecials.length;i++)	{
+				String temp = daySpecials[i];
+				String[] tokens = temp.split(delim);
+				for (int j = 0; j<tokens.length; j++) {
+					if (tokens[j].equals("")) {
+						tokens[j]=null;
+					}
+				}
+				list.add(tokens);
+			}
+			
+		
+		String[][] barSp = new String[list.size()][10]; {
+			for (int i=0; i<list.size(); i++)	{
+				barSp[i] = list.get(i);
+			}
+		}
+		specials = barSp;
         
         // Set up date
         TextView currentDateText =
@@ -132,7 +130,7 @@ public class Bars_List extends ExpandableListActivity {
 	for( int i = 0 ; i < specials.length ; ++i ) {
 		// Second-level lists
 	  ArrayList secList = new ArrayList();
-	  for( int n = 0 ; n < specials[i].length ; ++n ) {
+	  for( int n = 0 ; n < specials[i].length && specials[i][n] != null ; ++n ) {
 	    HashMap child = new HashMap();
 		child.put( "specialName", specials[i][n] );
 		secList.add( child );
@@ -147,7 +145,7 @@ public class Bars_List extends ExpandableListActivity {
 	   ArrayList<String> bars = new ArrayList<String>();
 	   Scanner scan;
 	   try{
-		   URL url = new URL("https://raw.github.com/BistroStudios/Madison-Bar-Specials/master/bars.txt");
+		   URL url = new URL("https://raw.github.com/BistroStudios/Madison-Bar-Specials/master/BarsList.txt");
 		   InputStream in = url.openStream();
 		   scan = new Scanner(new InputStreamReader(in));
 		   while(scan.hasNextLine())
@@ -164,4 +162,26 @@ public class Bars_List extends ExpandableListActivity {
 	   return arr;
   }
  
+  static public String[] barSpecials()
+  { 
+	   ArrayList<String> barSpecials = new ArrayList<String>();
+	   Scanner scan;
+	   try{
+		   URL url = new URL("https://raw.github.com/BistroStudios/Madison-Bar-Specials/master/MondaySpecials.txt");
+		   InputStream in = url.openStream();
+		   scan = new Scanner(new InputStreamReader(in));
+		   while(scan.hasNextLine())
+		   {
+			   barSpecials.add(scan.nextLine());
+		   }
+		   scan.close();
+	   }
+	   catch (Exception e) {
+	       e.printStackTrace();
+	   }
+	   
+	   String[] arr2 = barSpecials.toArray(new String[0]);
+	   return arr2;
+  }
+  
 }
