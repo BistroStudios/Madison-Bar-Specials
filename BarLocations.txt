@@ -1,0 +1,34 @@
+Amy's Cafe	43.07305	-89.40123
+The Annex	43.07281	-89.40704
+Blue Velvet	43.07436	-89.39437
+Brocach Irish Pub	43.07347	-89.38343
+Brother's	43.07339	-89.39757
+Chaser's	43.07426	-89.39227
+Church Key	43.07353	-89.39705
+The City	43.07488	-89.39572
+Echo Tap	43.06819	-89.39142
+Essen Haus	43.07624	-89.37653
+Frida's	43.07473	-89.38745
+The Great Dane	43.07453	-89.38002
+Hawk's	43.07461	-89.39272
+Ivory Room	43.0743	-89.38709
+Johnny O's	43.07338	-89.39677
+Jordan's Big Ten	43.06788	-89.40829
+Kollege Klub	43.07565	-89.39713
+Lava Lounge	43.07344	-89.39526
+Logan's	43.07415	-89.39132
+Lucky's	43.0677	-89.41017
+Madhatter's	43.07459	-89.39249
+Monday's	43.07459	-89.39463
+Nitty Gritty	43.07186	-89.39572
+The Old Fashioned	43.07611	-89.38386
+Paul's Club	43.07487	-89.38856
+Red Shed	43.07356	-89.39595
+Regeant Street Retreat	43.06785	-89.40647
+Stadium Bar	43.06961	-89.40972
+State Street Brats	43.07488	-89.39601
+TC Katz	43.07	-89.4
+The Vintage	43.07299	-89.39551
+Wando's	43.07339	-89.39593
+Whiskey River	43.07514	-89.39483
+Woof's	43.07474	-89.38096
