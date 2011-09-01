@@ -1,4 +1,4 @@
-Amy's Cafe	43.07305	-89.40123
+Amy's Cafe	43.07453	-89.39407
 The Annex	43.07281	-89.40704
 Blue Velvet	43.07436	-89.39437
 Brocach Irish Pub	43.07347	-89.38343
@@ -23,11 +23,12 @@ Monday's	43.07459	-89.39463
 Nitty Gritty	43.07186	-89.39572
 The Old Fashioned	43.07611	-89.38386
 Paul's Club	43.07487	-89.38856
+The Plaza	43.0753	-89.39044
 Red Shed	43.07356	-89.39595
 Regeant Street Retreat	43.06785	-89.40647
 Stadium Bar	43.06961	-89.40972
 State Street Brats	43.07488	-89.39601
-TC Katz	43.07	-89.4
+Tiki Shack	43.07504	-89.38738
 The Vintage	43.07299	-89.39551
 Wando's	43.07339	-89.39593
 Whiskey River	43.07514	-89.39483
