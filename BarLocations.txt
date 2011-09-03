@@ -16,6 +16,7 @@ Johnny O's	43.07338	-89.39677
 Jordan's Big Ten	43.06788	-89.40829
 Kollege Klub	43.07565	-89.39713
 Lava Lounge	43.07344	-89.39526
+The Library	43.07303	-89.40943
 Logan's	43.07415	-89.39132
 Lucky's	43.0677	-89.41017
 Madhatter's	43.07459	-89.39249
@@ -25,7 +26,7 @@ The Old Fashioned	43.07611	-89.38386
 Paul's Club	43.07487	-89.38856
 The Plaza	43.0753	-89.39044
 Red Shed	43.07356	-89.39595
-Regeant Street Retreat	43.06785	-89.40647
+Regent Street Retreat	43.06785	-89.40647
 Stadium Bar	43.06961	-89.40972
 State Street Brats	43.07488	-89.39601
 Tiki Shack	43.07504	-89.38738
