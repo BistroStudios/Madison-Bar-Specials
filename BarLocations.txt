@@ -1,4 +1,3 @@
-none	1	1
 Amy's Cafe	43.07453	-89.39407
 Blue Velvet	43.07436	-89.39437
 Brocach Irish Pub	43.07347	-89.38343
