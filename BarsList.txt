@@ -1,3 +1,4 @@
+none
 Amy's Cafe
 Blue Velvet
 Brocach Irish Pub
@@ -31,5 +32,5 @@ State Street Brats
 Tiki Shack
 The Vintage
 Wando's
-Whiskey River
+Whiskey Jack's
 Woof's

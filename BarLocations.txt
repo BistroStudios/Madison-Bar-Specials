@@ -1,3 +1,4 @@
+none	1	1
 Amy's Cafe	43.07453	-89.39407
 Blue Velvet	43.07436	-89.39437
 Brocach Irish Pub	43.07347	-89.38343
@@ -31,5 +32,5 @@ State Street Brats	43.07488	-89.39601
 Tiki Shack	43.07504	-89.38738
 The Vintage	43.07299	-89.39551
 Wando's	43.07339	-89.39593
-Whiskey River	43.07514	-89.39483
+Whiskey Jack's	43.07514	-89.39483
 Woof's	43.07474	-89.38096
