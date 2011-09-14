@@ -9,28 +9,28 @@ Echo Tap	Bartender's choice	554 West Main Street, Madison, WI
 Essen Haus	$3.50 pints	$4.50 Half Liters	$3.50 rails	$2.50 burritos	514 East Wilson St, Madison, WI				
 Frida's	3-6pm: $2 Mexican and domestic beers	117 State Street, Madison, WI							
 The Great Dane	Happy Hour 4-6pm	123 E Doty St # 1, Madison, WI							
-Hawk's	Beer and a shot night	$6 bomb bottles							
-Ivory Room	$3 ALL Wisconsin Beers	$5 Martini of the month							
-Johnny O's	$5 Johnny O's Mug	$1 refills of rail mixers and domestic taps							
-Jordan's Big Ten	$1 bottles of PBR and Coors	$2.50 cosmos	$1 sloppy joes	$1 cans Hamms, Schlitz, High Life, Blatz					
-Kollege Klub	2 for 1 on everything								
-Lava Lounge	$3 tikis	$2 rails							
-The Library	$3 double rail mixers	8pm Trivia	$2 Tall Boys (9pm-close)						
-Logan's	$2 Long Islands	$2 Two tacos	$2 domestic pints	$1 cheese pizzas					
-Lucky's	$2 Kamikazees	$10 Labatt buckets	$3 Smirnoff mixers	$6 half ginourmous nachos					
-Madhatter's	$1 rails and taps								
-Madison's	$1 tacos (free beer with every 10 tacos)	Drink Specials from 9pm-midnight:	$2 any tap	$2 well drinks	25% off any appetizer				
-Monday's	$2 domestic taps	$3 Three Olives mixers		$2 Drop shots	Daily Specials (9pm-close):	$4.50 Jumbo Bacardi mixers	$4.50 Sam Adams pints	$2.50 Rumpleminz shots	
-Nitty Gritty	Power Hour (10pm-11pm):	$1.25 rail mixers	$1 Michelob Golden Light taps						
-The Old Fashioned	2 for 1 rails and taps (3-5pm & 10-midnight)	margarita special	Beer of the month special	$3.50 Southern Tier 2x IPA					
-Paul's Club	$2 PBR cans	$3 Tully shots	$4.50 Brawndo bombs						
-The Plaza	$1 off 1/2 pitchers	$2 off pitchers	$2.50 rum mixers						
-Red Shed	1/2 off pints	$4 Jager and Cherry bombs	$7 JUMBO Long Islands						
-Regent Street Retreat	$12 for 2 domestic pitchers	$6 pizzas							
-Stadium Bar	Pull tabs night								
-State Street Brats	Flip night (win and get 75% off)								
-Tiki Shack	(bartender's choice)								
-The Vintage	Specials from 8pm to close	Skirt Night: 50% off everything if you wear a skirt	$2 Bacardi mixers	$5 Jumbo Absolute mixers	$2 Harlem shots				
-Wando's	FREE bacon	$1 cans of Coors Light, PBR, and Miller Lite	$4 Jumbo rails						
-Whiskey River	$5 domestic pitchers	$5 Rail and Captain Morgan pitchers	$5 pizzas						
-Woof's	1/2 off 4-7pm	$2 domestic taps (10om-close)							
+Hawk's	Beer and a shot night	$6 bomb bottles	425 State Street, Madison, WI						
+Ivory Room	$3 ALL Wisconsin Beers	$5 Martini of the month	116 West Mifflin Street, Madison, WI						
+Johnny O's	$5 Johnny O's Mug	$1 refills of rail mixers and domestic taps	622 University Ave, Madison, WI						
+Jordan's Big Ten	$1 bottles of PBR and Coors	$2.50 cosmos	$1 sloppy joes	$1 cans Hamms, Schlitz, High Life, Blatz	1330 Regent St, Madison, WI				
+Kollege Klub	2 for 1 on everything	529 North Lake Street, Madison, WI							
+Lava Lounge	$3 tikis	$2 rails	461 West Gilman Street, Madison, WI						
+The Library	$3 double rail mixers	8pm Trivia	$2 Tall Boys (9pm-close)	320 North Randall Avenue, Madison, WI					
+Logan's	$2 Long Islands	$2 Two tacos	$2 domestic pints	$1 cheese pizzas	322 West Johnson Street, Madison, WI				
+Lucky's	$2 Kamikazees	$10 Labatt buckets	$3 Smirnoff mixers	$6 half ginourmous nachos	1421 Regent St, Madison, WI				
+Madhatter's	$1 rails and taps	322 West Gorham Street, Madison, WI							
+Madison's	$1 tacos (free beer with every 10 tacos)	Drink Specials from 9pm-midnight:	$2 any tap	$2 well drinks	25% off any appetizer		119 King St., Madison, WI		
+Monday's	$2 domestic taps	$3 Three Olives mixers		$2 Drop shots	Daily Specials (9pm-close):	$4.50 Jumbo Bacardi mixers	$4.50 Sam Adams pints	$2.50 Rumpleminz shots	523 State Street, Madison, WI
+Nitty Gritty	Power Hour (10pm-11pm):	$1.25 rail mixers	$1 Michelob Golden Light taps	223 N Frances St, Madison, WI					
+The Old Fashioned	2 for 1 rails and taps (3-5pm & 10-midnight)	margarita special	Beer of the month special	$3.50 Southern Tier 2x IPA	Ste 1, 23 North Pinckney Street, Madison, WI				
+Paul's Club	$2 PBR cans	$3 Tully shots	$4.50 Brawndo bombs	212 State Street, Madison, WI					
+The Plaza	$1 off 1/2 pitchers	$2 off pitchers	$2.50 rum mixers	319 N Henry St, Madison, WI					
+Red Shed	1/2 off pints	$4 Jager and Cherry bombs	$7 JUMBO Long Islands	406 North Frances Street, Madison, WI					
+Regent Street Retreat	$12 for 2 domestic pitchers	$6 pizzas	1206 Regent Street, Madison, WI						
+Stadium Bar	Pull tabs night	1419 Monroe Street, Madison, WI							
+State Street Brats	Flip night (win and get 75% off)	603 State Street, Madison, WI							
+Tiki Shack	(bartender's choice)	122 State Street, Madison, WI							
+The Vintage	Specials from 8pm to close	Skirt Night: 50% off everything if you wear a skirt	$2 Bacardi mixers	$5 Jumbo Absolute mixers	$2 Harlem shots	529 University Avenue, Madison, WI			
+Wando's	FREE bacon	$1 cans of Coors Light, PBR, and Miller Lite	$4 Jumbo rails	602 University Avenue, Madison, WI					
+Whiskey River	$5 domestic pitchers	$5 Rail and Captain Morgan pitchers	$5 pizzas	552 State Street, Madison, WI					
+Woof's	1/2 off 4-7pm	$2 domestic taps (10om-close)	114 King Street, Madison, WI						
