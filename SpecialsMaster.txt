@@ -142,7 +142,7 @@ Regent Street Retreat	43.06785	-89.40647	$15 for bucket of 5 Ale Asylum bottles	
 Stadium Bar	43.06961	-89.40972	$1 off drinks (3-7pm)	1419 Monroe Street, Madison, WI							
 State Street Brats	43.07488	-89.39601	$2.25 pints New Glarus	$7.50 pitchers New Glarus	603 State Street, Madison, WI						
 Tiki Shack	43.07504	-89.38738	(bartender's choice)	122 State Street, Madison, WI							
-The Vintage	43.07299	-89.39551	Specials from 8pm to close	$2 for a shorty of High Life and apple pie shot	$2 sliders	529 University Avenue, Madison, WI					
+The Vintage	43.07299	-89.39551	Specials from 8pm to close	$2 for a shorty and apple pie shot	$2 sliders	529 University Avenue, Madison, WI					
 Wando's	43.07339	-89.39593	$10 Fishbowls	$3 Bombs	602 University Avenue, Madison, WI						
 Whiskey Jack's	43.07514	-89.39483	Man vs Bull (mechanical bull rides)	$2 Schlitz Tall Boys	$4 Vodka Rockstar mixers	$4 Jager shots	$5 Crown Royal mixers	552 State Street, Madison, WI			
 Woof's	43.07474	-89.38096	1/2 off 4-7pm	$1 off Jack (8pm-midnight)	pool tournament 8pm	114 King Street, Madison, WI					
