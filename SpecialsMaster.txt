@@ -28,7 +28,7 @@ Paul's Club	43.07487	-89.38856	(no specials today)	212 State Street, Madison, WI
 The Plaza	43.0753	-89.39044	(closed)	319 N Henry St, Madison, WI							
 Red Shed	43.07356	-89.39595	(no specials today)	406 North Frances Street, Madison, WI							
 Regent Street Retreat	43.06785	-89.40647	(no specials today)	1206 Regent Street, Madison, WI							
-Stadium Bar	43.06961	-89.40972	$3.50 Bloody Marys and screwdrivers	$2 Coors silos	1419 Monroe Street, Madison, WI						
+Stadium Bar	43.06961	-89.40972	$1 off drinks (3-7pm)	1419 Monroe Street, Madison, WI							
 State Street Brats	43.07488	-89.39601	$4 Big Beers (32oz) all Leinies and domestic	603 State Street, Madison, WI							
 Tiki Shack	43.07504	-89.38738	(closed)	122 State Street, Madison, WI							
 The Vintage	43.07299	-89.39551	Bloody Mary Bar (9am-noon)	$1 taps of PBR and High Life (7pm-close)	$2 rail mixers (7pm-close)	529 University Avenue, Madison, WI					
@@ -65,7 +65,7 @@ Paul's Club	43.07487	-89.38856	$2 PBR cans	$3 Tully shots	$4.50 Brawndo bombs	$3
 The Plaza	43.0753	-89.39044	$2 rail drinks	$1.50 PBR beers	319 N Henry St, Madison, WI						
 Red Shed	43.07356	-89.39595	$1.75 top-shelf highballs	$7 JUMBO Long Islands	406 North Frances Street, Madison, WI						
 Regent Street Retreat	43.06785	-89.40647	(closed)	1206 Regent Street, Madison, WI							
-Stadium Bar	43.06961	-89.40972	$10 for 5 High Life bottles	1419 Monroe Street, Madison, WI							
+Stadium Bar	43.06961	-89.40972	$1 off drinks (3-7pm)	1419 Monroe Street, Madison, WI							
 State Street Brats	43.07488	-89.39601	$2 pints PBR, HighLife, Leinies O	$3 mini boots	603 State Street, Madison, WI						
 Tiki Shack	43.07504	-89.38738	(bartender's choice)	122 State Street, Madison, WI							
 The Vintage	43.07299	-89.39551	Specials from 9pm to close	$1 Wisconsin beer taps	$2.50 Vintage brews	529 University Avenue, Madison, WI					
@@ -102,7 +102,7 @@ Paul's Club	43.07487	-89.38856	$2 PBR cans	$3 Tully shots	$4.50 Brawndo bombs	21
 The Plaza	43.0753	-89.39044	$1 off 1/2 pitchers	$2 off pitchers	$2.50 rum mixers	319 N Henry St, Madison, WI					
 Red Shed	43.07356	-89.39595	1/2 off pints	$4 Jager and Cherry bombs	$7 JUMBO Long Islands	406 North Frances Street, Madison, WI					
 Regent Street Retreat	43.06785	-89.40647	$12 for 2 domestic pitchers	$6 pizzas	1206 Regent Street, Madison, WI						
-Stadium Bar	43.06961	-89.40972	Pull tabs night	1419 Monroe Street, Madison, WI							
+Stadium Bar	43.06961	-89.40972	$1 off drinks (3-7pm)	1419 Monroe Street, Madison, WI							
 State Street Brats	43.07488	-89.39601	Flip night (win and get 75% off)	603 State Street, Madison, WI							
 Tiki Shack	43.07504	-89.38738	(bartender's choice)	122 State Street, Madison, WI							
 The Vintage	43.07299	-89.39551	Specials from 8pm to close	Skirt Night: 50% off everything if you wear a skirt	$2 Bacardi mixers	$5 Jumbo Absolute mixers	$2 Harlem shots	529 University Avenue, Madison, WI			
@@ -139,7 +139,7 @@ Paul's Club	43.07487	-89.38856	$2 PBR cans	$3 Tully shots	$4.50 Brawndo bombs	$3
 The Plaza	43.0753	-89.39044	$3 Jack and Stoli mixers	$2 micro bottles	319 N Henry St, Madison, WI						
 Red Shed	43.07356	-89.39595	$1.25 rail highballs	$2 PBR bottles	$7 JUMBO Long Islands	406 North Frances Street, Madison, WI					
 Regent Street Retreat	43.06785	-89.40647	$15 for bucket of 5 Ale Asylum bottles	1206 Regent Street, Madison, WI							
-Stadium Bar	43.06961	-89.40972	$3 Pink Dragons	1419 Monroe Street, Madison, WI							
+Stadium Bar	43.06961	-89.40972	$1 off drinks (3-7pm)	1419 Monroe Street, Madison, WI							
 State Street Brats	43.07488	-89.39601	$2.25 pints New Glarus	$7.50 pitchers New Glarus	603 State Street, Madison, WI						
 Tiki Shack	43.07504	-89.38738	(bartender's choice)	122 State Street, Madison, WI							
 The Vintage	43.07299	-89.39551	Specials from 8pm to close	$2 for a shorty of High Life and apple pie shot	$2 sliders	529 University Avenue, Madison, WI					
@@ -176,7 +176,7 @@ Paul's Club	43.07487	-89.38856	$2 PBR cans	$3 Tully shots	$4.50 Brawndo bombs	$3
 The Plaza	43.0753	-89.39044	$2 Long Islands	$2.50 Spaten and Red Hook pints	319 N Henry St, Madison, WI						
 Red Shed	43.07356	-89.39595	1/2 off pints	$2.50 Bacardi highballs	$7 JUMBO Long Islands	406 North Frances Street, Madison, WI					
 Regent Street Retreat	43.06785	-89.40647	$10 all-you-can-drink (10pm-midnight)	$4 Long Islands	1206 Regent Street, Madison, WI						
-Stadium Bar	43.06961	-89.40972	$1 off imports	free tater tots	1419 Monroe Street, Madison, WI						
+Stadium Bar	43.06961	-89.40972	$1 off drinks (3-7pm)	1419 Monroe Street, Madison, WI							
 State Street Brats	43.07488	-89.39601	5 for $5 domestics, rails, mixed shots (9-10pm)	4 for $5 (10-11pm)	3 for $5 (11pm-midnight)	2 for $5 (12-1am)	603 State Street, Madison, WI				
 Tiki Shack	43.07504	-89.38738	2 for 1 Mai Tais	122 State Street, Madison, WI							
 The Vintage	43.07299	-89.39551	Drink Specials all night	$1 Milwaukee taps	$2 Russian Standard vodka mixers	$2 Chicken, beef, & fish tacos (3-10pm)	529 University Avenue, Madison, WI				
@@ -213,7 +213,7 @@ Paul's Club	43.07487	-89.38856	$2 PBR cans	$3 Tully shots	$4.50 Brawndo bombs	$3
 The Plaza	43.0753	-89.39044	$2.50 rail mixers	319 N Henry St, Madison, WI							
 Red Shed	43.07356	-89.39595	$7 JUMBO Long Islands	406 North Frances Street, Madison, WI							
 Regent Street Retreat	43.06785	-89.40647	Pool Tourney @ 7:30pm	$3 Bacardi mixers	$3 jager bombs	$2 High Life bottles	1206 Regent Street, Madison, WI				
-Stadium Bar	43.06961	-89.40972	$3 Captain mixers	1419 Monroe Street, Madison, WI							
+Stadium Bar	43.06961	-89.40972	$1 off drinks (3-7pm)	1419 Monroe Street, Madison, WI							
 State Street Brats	43.07488	-89.39601	$4 Jameson, Bacardi, Absolut doubles	603 State Street, Madison, WI							
 Tiki Shack	43.07504	-89.38738	2 for 1 Rum Punches	122 State Street, Madison, WI							
 The Vintage	43.07299	-89.39551	$1 off Vintage Brewing Co Beer (8pm-close)	529 University Avenue, Madison, WI							
@@ -249,7 +249,7 @@ Paul's Club	43.07487	-89.38856	$2 PBR cans	$3 Tully shots	$4.50 Brawndo bombs	$3
 The Plaza	43.0753	-89.39044	$2.50 domestic bottles	319 N Henry St, Madison, WI							
 Red Shed	43.07356	-89.39595	$7 JUMBO Long Islands	406 North Frances Street, Madison, WI							
 Regent Street Retreat	43.06785	-89.40647	$3 Three Olive mixers	$3 Monster mixers	$10 all-you-can-drink (10pm-midnight)	1206 Regent Street, Madison, WI					
-Stadium Bar	43.06961	-89.40972	$2 vodka mixers	1419 Monroe Street, Madison, WI							
+Stadium Bar	43.06961	-89.40972	$1 off drinks (3-7pm)	1419 Monroe Street, Madison, WI							
 State Street Brats	43.07488	-89.39601	$4 Skyy doubles, Rosebowls, Long Islands	603 State Street, Madison, WI							
 Tiki Shack	43.07504	-89.38738	2 for 1 Bahama Mamas	122 State Street, Madison, WI							
 The Vintage	43.07299	-89.39551	Bloody Mary Bar (9am-noon)	$1 off Vintage Brewing beer (8pm-close)	529 University Avenue, Madison, WI						
