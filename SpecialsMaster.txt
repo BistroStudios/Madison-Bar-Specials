@@ -19,7 +19,7 @@ Kollege Klub	43.07565	-89.39713	Bring your own mug under 24 oz for:	$1 ANY tap	$
 Lava Lounge	43.07344	-89.39526	Bartender's choice	461 West Gilman Street, Madison, WI							
 The Library	43.07303	-89.40943	(closed)	320 North Randall Avenue, Madison, WI							
 Logan's	43.07415	-89.39132	2 for 1 drinks (10pm-2am)	$1 cheese pizzas	322 West Johnson Street, Madison, WI						
-Lucky's	43.0677	-89.41017	$7 domestic pitchers	$3 Malibu mixers	$3 Jameson shots	1421 Regent St, Madison, WI					
+Lucky's	43.0677	-89.41017	$7 domestic pitchers	$3 Malibu mixers	$3 Jameson shots	$1 rails (11pm-midnight)	1421 Regent St, Madison, WI				
 MacKesey's Irish Pub	43.07471	-89.39086	$2 rails	$2 Miller Lite, Coors Light, & Esser's Best	$2.50 Spotted Cow	$3 Capital beers	317 State Street, Madison, WI				
 Madhatter's	43.07459	-89.39249	(closed)	322 West Gorham Street, Madison, WI							
 Madison's	43.07465	-89.38062	(no specials today)	119 King St., Madison, WI							
@@ -58,7 +58,7 @@ Kollege Klub	43.07565	-89.39713	(closed)	529 North Lake Street, Madison, WI
 Lava Lounge	43.07344	-89.39526	Bartender's choice	461 West Gilman Street, Madison, WI							
 The Library	43.07303	-89.40943	$3 Jim Beam mixers (7pm-close)	$2 Tall Boys (9pm-close)	320 North Randall Avenue, Madison, WI						
 Logan's	43.07415	-89.39132	$3 you-call-it	$1 cheese pizzas	322 West Johnson Street, Madison, WI						
-Lucky's	43.0677	-89.41017	50 cent wings	1421 Regent St, Madison, WI							
+Lucky's	43.0677	-89.41017	50 cent wings	$1 rails (11pm-midnight)	1421 Regent St, Madison, WI						
 MacKesey's Irish Pub	43.07471	-89.39086	$2 Domestic bottles	$2.25 Leinenkugel's	Top shelf mixers at rail price	317 State Street, Madison, WI					
 Madhatter's	43.07459	-89.39249	$2 micro taps/bottles	$2 Monster bombs	322 West Gorham Street, Madison, WI						
 Madison's	43.07465	-89.38062	$5 Burger and fries	Drink Specials from 9pm-midnight:	$2 any tap	$2 well drinks	25% off any appetizer	119 King St., Madison, WI			
@@ -97,7 +97,7 @@ Kollege Klub	43.07565	-89.39713	2 for 1 on everything	529 North Lake Street, Mad
 Lava Lounge	43.07344	-89.39526	Bartender's choice	461 West Gilman Street, Madison, WI							
 The Library	43.07303	-89.40943	$3 double rail mixers	8pm Trivia	$2 Tall Boys (9pm-close)	320 North Randall Avenue, Madison, WI					
 Logan's	43.07415	-89.39132	$2 Long Islands	$2 Two tacos	$2 domestic pints	$1 cheese pizzas	322 West Johnson Street, Madison, WI				
-Lucky's	43.0677	-89.41017	$2 Kamikazees	$10 Labatt buckets	$3 Smirnoff mixers	$6 half ginourmous nachos	1421 Regent St, Madison, WI				
+Lucky's	43.0677	-89.41017	$2 Kamikazees	$10 Labatt buckets	$3 Smirnoff mixers	$6 half ginourmous nachos	$1 rails (11pm-midnight)	1421 Regent St, Madison, WI			
 MacKesey's Irish Pub	43.07471	-89.39086	$2.50 Flavored rum and vodka drinks	$3 Import bottles	317 State Street, Madison, WI						
 Madhatter's	43.07459	-89.39249	$1 rails and taps	322 West Gorham Street, Madison, WI							
 Madison's	43.07465	-89.38062	$1 tacos (free beer with every 10 tacos)	Drink Specials from 9pm-midnight:	$2 any tap	$2 well drinks	25% off any appetizer		119 King St., Madison, WI		
@@ -136,7 +136,7 @@ Kollege Klub	43.07565	-89.39713	Beer and shot night	$3 Miller Lite bottles (come
 Lava Lounge	43.07344	-89.39526	Bartender's choice	461 West Gilman Street, Madison, WI							
 The Library	43.07303	-89.40943	$2.50 micro and import bottles (7pm-close)	$2 Tall Boys (9pm-close)	320 North Randall Avenue, Madison, WI						
 Logan's	43.07415	-89.39132	$2 domestic pints	$5 Bud Light liters	25 cent wings (min 10)	$1 cheese pizzas	322 West Johnson Street, Madison, WI				
-Lucky's	43.0677	-89.41017	$1 tacos (beef and pork)	$2 Bud Light bottles	$2.50 Rumpleminz/Blackhaus shots	$3 Svedka mixers	1421 Regent St, Madison, WI				
+Lucky's	43.0677	-89.41017	$1 tacos (beef and pork)	$2 Bud Light bottles	$2.50 Rumpleminz/Blackhaus shots	$3 Svedka mixers	$1 rails (11pm-midnight)	1421 Regent St, Madison, WI			
 MacKesey's Irish Pub	43.07471	-89.39086	$3.25 import pints	$3 Irish Whiskey mixers	$4.25 Premium Irish Whiskey mixers	317 State Street, Madison, WI					
 Madhatter's	43.07459	-89.39249	1/2 off rails, bottles and taps	322 West Gorham Street, Madison, WI							
 Madison's	43.07465	-89.38062	50 cent wings	Drink Specials from 9pm-midnight:	$2 any tap	$2 well drinks	25% off any appetizer	119 King St., Madison, WI			
@@ -175,7 +175,7 @@ Kollege Klub	43.07565	-89.39713	Beer Pong and PlinKKo night	$2 pints	$3 Stoli & 
 Lava Lounge	43.07344	-89.39526	Bartender's choice	461 West Gilman Street, Madison, WI							
 The Library	43.07303	-89.40943	$3 Mount Gay mixers (7pm-close)	$3.50 double Captain mixers (7pm-close)	$2 Tall Boys (4pm-close)	40 cent wings (4pm-10pm)	320 North Randall Avenue, Madison, WI				
 Logan's	43.07415	-89.39132	$2 select shots	$4 PBR/Rolling Rock liters	2 for 1 pizzas (until 10pm)	$1 cheese pizzas	322 West Johnson Street, Madison, WI				
-Lucky's	43.0677	-89.41017	$1 taps of Mich Golden Light and High Life	$1 corndogs	$3 Dirty Girl Scout shots	$3 Long Islands	1421 Regent St, Madison, WI				
+Lucky's	43.0677	-89.41017	$1 taps of Mich Golden Light and High Life	$1 corndogs	$3 Dirty Girl Scout shots	$3 Long Islands	$1 rails (11pm-midnight)	1421 Regent St, Madison, WI			
 MacKesey's Irish Pub	43.07471	-89.39086	$2 Coors Light, Miller Lite, & Esser's Best	$2 rails	$2.25 Domestic bottles	$3.25 Micro taps	$4 Import taps	317 State Street, Madison, WI			
 Madhatter's	43.07459	-89.39249	Ladies Night	$2 Domestic bottles	322 West Gorham Street, Madison, WI						
 Madison's	43.07465	-89.38062	$1 Bud Light bottles	$2 Trick Play shots	$3 Three Olives mixers	119 King St., Madison, WI					
@@ -214,7 +214,7 @@ Kollege Klub	43.07565	-89.39713	$4 Jumbo Long Islands	$4 Stoli mixers	$4 Jack mi
 Lava Lounge	43.07344	-89.39526	$3 Tall Boys	$3 Long Islands	461 West Gilman Street, Madison, WI						
 The Library	43.07303	-89.40943	$3.25 Long Islands (4pm-close)	$2 Tall Boys (9pm-close)	$8 Spotted Cow pitchers (4-7pm)	320 North Randall Avenue, Madison, WI					
 Logan's	43.07415	-89.39132	$2 domestic pints (4-9pm)	$2 rail mixers (4-9pm)	$3 burger (a la carte)	$2 select shots	2 for 1 jello shots	$1 cheese pizzas	322 West Johnson Street, Madison, WI		
-Lucky's	43.0677	-89.41017	$3 Bacardi mixers	$2 Doctor shots	1421 Regent St, Madison, WI						
+Lucky's	43.0677	-89.41017	$3 Bacardi mixers	$2 Doctor shots	2 for 1 High Life bottles	$1 rails (11pm-midnight)	1421 Regent St, Madison, WI				
 MacKesey's Irish Pub	43.07471	-89.39086	$4 Flavored rum and vodka bombs	$5 Irish Car Bombs	317 State Street, Madison, WI						
 Madhatter's	43.07459	-89.39249	$4 Double Three Olives mixers	322 West Gorham Street, Madison, WI							
 Madison's	43.07465	-89.38062	(no specials today)	119 King St., Madison, WI							
@@ -252,7 +252,7 @@ Kollege Klub	43.07565	-89.39713	$4 Jumbo Long Islands	$4 Stoli mixers	$4 Jack mi
 Lava Lounge	43.07344	-89.39526	$3 Tall Boys	$3 Long Islands	461 West Gilman Street, Madison, WI						
 The Library	43.07303	-89.40943	$3 Jack mixers (7pm-close)	$2.50 Tall Boys (7pm-close)	320 North Randall Avenue, Madison, WI						
 Logan's	43.07415	-89.39132	$1 cheese pizzas	322 West Johnson Street, Madison, WI							
-Lucky's	43.0677	-89.41017	$2 pie shots	$10 microbrew pitchers	$3 Captain Lime bite-a-ritas	1421 Regent St, Madison, WI					
+Lucky's	43.0677	-89.41017	$2 pie shots	$10 microbrew pitchers	$3 Captain Lime bite-a-ritas	$1 rails (11pm-midnight)	1421 Regent St, Madison, WI				
 MacKesey's Irish Pub	43.07471	-89.39086	(no specials today)								
 Madhatter's	43.07459	-89.39249	$4 Double Three Olives mixers	322 West Gorham Street, Madison, WI							
 Madison's	43.07465	-89.38062	(no specials today)	119 King St., Madison, WI							
