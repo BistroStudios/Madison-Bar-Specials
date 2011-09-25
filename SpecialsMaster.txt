@@ -233,12 +233,13 @@ Wando's	43.07339	-89.39593	$6 jumbo 42 Below mixers	$2.50 Icehole shots	602 Univ
 Whiskey Jack's	43.07514	-89.39483	Live Music	552 State Street, Madison, WI							
 Woof's	43.07474	-89.38096	$1 off shots 8pm-midnight	1/2 off 4-7pm	114 King Street, Madison, WI						
 *****Saturday*****											
-Chaser's	43.07426	-89.39227	Specials from open-9pm:	$6 Goose Island pitchers	$5 Jumbo Screwdrivers and Bloody Marys	Specials from 9pm-close:	buy-a-shot-get-a-beer	$3 Tall Boys	319 West Gorham Street, Madison, WI		
+none	0	0	0								
 Amy's Cafe	43.07453	-89.39407	(no specials today)	414 West Gilman Street, Madison, WI							
 Blue Velvet	43.07436	-89.39437	$4 PBR 24oz Silos	$2 shot specials	430 West Gilman Street, Madison, WI						
 Brocach Irish Pub	43.07347	-89.38343	All Day Special:	Rehorst gin and vodka $4 mixers $6 martinis	Happy Hour Specials: (3-6pm and 10-close)	$6.50 pint of Guinness and shot of Powers	$4.25 pint Murphy's Stout	$5 glass of wine	1/2 off whiskey and scotch ($7-$12)	$5 Stoli Doli martinis	7 West Main Street, Madison, WI
 Brother's	43.07339	-89.39757	$2 Jager and Cherry bombs	$3 Bacardi mixers	$3.25 domestic bottles	$3.75 vodka-Red Bulls	704 University Avenue, Madison, WI				
 Buckingham's	43.0677	-89.39957	2 for 1 High Life cans	$3 Three Olives mixers (16oz)	$4 Rock Star Energy mixers	Hammertime (9pm-11pm):	$1  rails and Chevy Nova shots	$1 Coors Light bullets	$2 bartender's choice bombs	802 Regent Street Madison, WI	
+Chaser's	43.07426	-89.39227	Specials from open-9pm:	$6 Goose Island pitchers	$5 Jumbo Screwdrivers and Bloody Marys	Specials from 9pm-close:	buy-a-shot-get-a-beer	$3 Tall Boys	319 West Gorham Street, Madison, WI		
 Church Key	43.07353	-89.39705	Specials from 9pm to close:	$3 Bud Light pint and House shot	$3 Long Islands	$3 Svedka	$3.50 Bacardi	$4 Jack Daniels	626 University Avenue, Madison, WI		
 The City	43.07488	-89.39572	$3 rails	$4 Skyyscrapers (the blue one)	$4 Highrises (the red one)	636 State Street, Madison, WI					
 Echo Tap	43.06819	-89.39142	$1.25 High Life and PBR taps	$3 Captain and coke	554 West Main Street, Madison, WI						
