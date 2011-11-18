@@ -38,7 +38,7 @@ Wando's	43.07339	-89.39593	$2 taps of Bud Light, Miller Lite, Coors Lite	$4 Jumb
 Whiskey Jack's	43.07514	-89.39483	$2 drinks	552 State Street, Madison, WI							
 Woof's	43.07474	-89.38096	1/2 off 4-7pm	$5 Bloody Mary (noon-4pm)	$1 taps for shirtless bears 4-6pm	free pizza (5-8pm)	$5 pticher/$2 bottles Miller Lite	114 King Street, Madison, WI			
 *****Monday*****											
-Lucky's	43.0677	-89.41017	50 cent wings	$1 rails (11pm-midnight)	2 for 1 rails (midnight-1am)	1421 Regent St, Madison, WI													
+none	0	0	0								
 Amy's Cafe	43.07453	-89.39407	$1 off Amy's cocktail menu	414 West Gilman Street, Madison, WI							
 Blue Velvet	43.07436	-89.39437	$3 Tap beers	430 West Gilman Street, Madison, WI							
 Brocach Irish Pub	43.07347	-89.38343	All Day Special:	Rehorst gin and vodka $4 mixers $6 martinis	Happy Hour Specials: (3-6pm and 10-close)	$6.50 pint of Guinness and shot of Powers	$4.25 pint Murphy's Stout	$5 glass of wine	1/2 off whiskey and scotch ($7-$12)	$5 Stoli Doli martinis	7 West Main Street, Madison, WI
@@ -58,6 +58,7 @@ Kollege Klub	43.07565	-89.39713	(closed)	529 North Lake Street, Madison, WI
 Lava Lounge	43.07344	-89.39526	Bartender's choice	461 West Gilman Street, Madison, WI							
 The Library	43.07303	-89.40943	$3 Jim Beam mixers (7pm-close)	$2 Tall Boys (9pm-close)	320 North Randall Avenue, Madison, WI						
 Logan's	43.07415	-89.39132	$3 you-call-it	$1 cheese pizzas	322 West Johnson Street, Madison, WI						
+Lucky's	43.0677	-89.41017	50 cent wings	$1 rails (11pm-midnight)	2 for 1 rails (midnight-1am)	1421 Regent St, Madison, WI					
 MacKesey's Irish Pub	43.07471	-89.39086	$2 Domestic bottles	$2.25 Leinenkugel's	Top shelf mixers at rail price	317 State Street, Madison, WI					
 Madhatter's	43.07459	-89.39249	$2 micro taps and bottles	322 West Gorham Street, Madison, WI							
 Madison's	43.07465	-89.38062	$5 Burger and fries	Drink Specials from 9pm-midnight:	$2 any tap	$2 well drinks	25% off any appetizer	119 King St., Madison, WI			
