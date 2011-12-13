@@ -1,5 +1,5 @@
 *****Sunday*****											
-The Bistro Bar	43.06829	-89.41424	$2 Rolling Rock bottles	$1 drop shots	30 cent wings	This is not a real bar							
+Bistro Bar	43.06829	-89.41424	$2 Rolling Rock cans	$1 rail mixers	30 cent wings	This bar is only for testing	and does not exist								
 Amy's Cafe	43.07453	-89.39407	(no specials today)	414 West Gilman Street, Madison, WI							
 Blue Velvet	43.07436	-89.39437	25% off drinks	430 West Gilman Street, Madison, WI							
 Brocach Irish Pub	43.07347	-89.38343	All Day Special:	Rehorst gin and vodka $4 mixers $6 martinis	Happy Hour Specials: (3-6pm and 10-close)	$6.50 pint of Guinness and shot of Powers	$4.25 pint Murphy's Stout	$5 glass of wine	1/2 off whiskey and scotch ($7-$12)	$5 Stoli Doli martinis	7 West Main Street, Madison, WI
@@ -33,11 +33,7 @@ Regent Street Retreat	43.06785	-89.40647	(no specials today)	1206 Regent Street,
 Stadium Bar	43.06961	-89.40972	$1 off drinks (3-7pm)	1419 Monroe Street, Madison, WI							
 State Street Brats	43.07488	-89.39601	$4 Big Beers (32oz) all Leinies and domestic	$5 Absolut bloodies	603 State Street, Madison, WI						
 Tiki Shack	43.07504	-89.38738	(closed)	122 State Street, Madison, WI							
-<<<<<<< HEAD
-The Vintage	43.07299	-89.39551	Bloody Mary Bar (9am-noon)	$1 taps of PBR (7pm-close)	$2 rail mixers (7pm-close)	529 University Avenue, Madison, WI					
-=======
 The Vintage	43.07299	-89.39551	Bloody Mary Bar (9am-noon)	$1 taps of PBR (3pm-close)	$2 rail mixers (3pm-close)	529 University Avenue, Madison, WI					
->>>>>>> 4f8b5ca7dedc563867ae06302a866a00180a86c8
 Wando's	43.07339	-89.39593	$2 taps of Bud Light, Miller Lite, Coors Lite	$4 Jumbo Jack or Ketel One mixers	602 University Avenue, Madison, WI						
 Whiskey Jack's	43.07514	-89.39483	Service Industry Night	$2 drinks	552 State Street, Madison, WI						
 Woof's	43.07474	-89.38096	1/2 off 4-7pm	$5 Bloody Mary (noon-4pm)	$1 taps for shirtless bears 4-6pm	free pizza (5-8pm)	$5 pticher/$2 bottles Miller Lite	114 King Street, Madison, WI			
@@ -154,11 +150,7 @@ Regent Street Retreat	43.06785	-89.40647	$15 for bucket of 5 Ale Asylum bottles	
 Stadium Bar	43.06961	-89.40972	$1 off drinks (3-7pm)	1419 Monroe Street, Madison, WI							
 State Street Brats	43.07488	-89.39601	$2 pints New Glarus	$6 pitchers New Glarus	$7 boots New Glarus	$4 Captain double tall (4pm-9pm)	603 State Street, Madison, WI				
 Tiki Shack	43.07504	-89.38738	(bartender's choice)	122 State Street, Madison, WI							
-<<<<<<< HEAD
-The Vintage	43.07299	-89.39551	Specials from 8pm to close	$2 for a shorty and apple pie shot	$2 for 2 sliders	529 University Avenue, Madison, WI					
-=======
 The Vintage	43.07299	-89.39551	Specials from 8pm to close	$2 for a shorty and a shot	$2 for 2 sliders (3-10p)	529 University Avenue, Madison, WI					
->>>>>>> 4f8b5ca7dedc563867ae06302a866a00180a86c8
 Wando's	43.07339	-89.39593	$15 Fishbowls	$2.50 Miller Lite bottles	$4 Jumbo rails	602 University Avenue, Madison, WI					
 Whiskey Jack's	43.07514	-89.39483	Man vs Bull (mechanical bull rides)	$2 Schlitz Tall Boys	$4 Vodka Rockstar mixers	$4 Jager shots	$2 High Life pints	$5 Crown Royal mixers	552 State Street, Madison, WI		
 Woof's	43.07474	-89.38096	1/2 off 4-7pm	$1 off Jack (8pm-midnight)	pool tournament 8pm	114 King Street, Madison, WI					
@@ -197,11 +189,7 @@ Regent Street Retreat	43.06785	-89.40647	$10 all-you-can-drink (10pm-midnight)	$
 Stadium Bar	43.06961	-89.40972	$1 off drinks (3-7pm)	1419 Monroe Street, Madison, WI							
 State Street Brats	43.07488	-89.39601	5 for $5 domestics, rails, mixed shots (9-10pm)	4 for $5 (10-11pm)	3 for $5 (11pm-midnight)	2 for $5 (12-1am)	Beer stock exchange	603 State Street, Madison, WI			
 Tiki Shack	43.07504	-89.38738	2 for 1 Mai Tais	122 State Street, Madison, WI							
-<<<<<<< HEAD
-The Vintage	43.07299	-89.39551	$1 Milwaukee taps	$2 Russian Standard vodka mixers	$2 Chicken, beef, & fish tacos (3-10pm)	529 University Avenue, Madison, WI					
-=======
 The Vintage	43.07299	-89.39551	$1 PBR, Schlitz, and Bud Light taps	$2 Russian Standard vodka mixers	$2 Chicken, beef, & fish tacos (3-10pm)	529 University Avenue, Madison, WI					
->>>>>>> 4f8b5ca7dedc563867ae06302a866a00180a86c8
 Wando's	43.07339	-89.39593	$2.50 Absolut and Captain mixers	$2 Miller Lite or Coors Light taps	$2.50 rails	$4 jumbo Captains and jumbo Jacks	$15 Fishbowls	602 University Avenue, Madison, WI			
 Whiskey Jack's	43.07514	-89.39483	$2 Domestic bottles	$3 Malibu Black mixers	$3 Absolut mixers	552 State Street, Madison, WI					
 Woof's	43.07474	-89.38096	1/2 off 4-7pm	$1 off jager bombs (8pm-midnight)	114 King Street, Madison, WI						
