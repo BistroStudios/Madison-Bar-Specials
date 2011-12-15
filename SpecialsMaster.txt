@@ -1,5 +1,5 @@
 *****Sunday*****											
-Bistro Bar	43.06829	-89.41424	$2 Rolling Rock cans	$1 rail mixers	30 cent wings	This bar is only for testing	and does not exist								
+none	0	0	0								
 Amy's Cafe	43.07453	-89.39407	(no specials today)	414 West Gilman Street, Madison, WI							
 Blue Velvet	43.07436	-89.39437	25% off drinks	430 West Gilman Street, Madison, WI							
 Brocach Irish Pub	43.07347	-89.38343	All Day Special:	Rehorst gin and vodka $4 mixers $6 martinis	Happy Hour Specials: (3-6pm and 10-close)	$6.50 pint of Guinness and shot of Powers	$4.25 pint Murphy's Stout	$5 glass of wine	1/2 off whiskey and scotch ($7-$12)	$5 Stoli Doli martinis	7 West Main Street, Madison, WI
