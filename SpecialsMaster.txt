@@ -27,6 +27,7 @@ Monday's	43.07459	-89.39463	$3 doubles	$4 domestic pitchers	523 State Street, Ma
 Nitty Gritty	43.07186	-89.39572	$2.75 bartender's choice	Power Hour (10pm-11pm):	$1.25 rail mixers	$1 Michelob Golden Light taps	$2.25 Drop shots	223 N Frances St, Madison, WI			
 The Old Fashioned	43.07611	-89.38386	Beer of the month special	23 North Pinckney Street, Madison, WI							
 Paul's Club	43.07487	-89.38856	(no specials today)	212 State Street, Madison, WI							
+Plan B	43.08006	-89.36892	(no specials today)	924 Williamson Street  Madison, WI							
 The Plaza	43.0753	-89.39044	(closed)	319 N Henry St, Madison, WI							
 Red Shed	43.07356	-89.39595	(no specials today)	406 North Frances Street, Madison, WI							
 Regent Street Retreat	43.06785	-89.40647	(no specials today)	1206 Regent Street, Madison, WI							
@@ -67,6 +68,7 @@ Monday's	43.07459	-89.39463	$2 taps	$2 rails all night	523 State Street, Madison
 Nitty Gritty	43.07186	-89.39572	Power Hour (10pm-11pm):	$1.25 rail mixers	$1 Michelob Golden Light taps	$2.25 Drop shots	Daily Specials (9pm-close):	$3.75 Jumbo UV mixers	$3.75 Goose Island pints	$3 X-bombs	223 N Frances St, Madison, WI
 The Old Fashioned	43.07611	-89.38386	2 for 1 rails and taps (3-5pm & 10-midnight)	Beer of the month special	23 North Pinckney Street, Madison, WI						
 Paul's Club	43.07487	-89.38856	$2 PBR cans	$3 Tully shots	212 State Street, Madison, WI						
+Plan B	43.08006	-89.36892	(closed)	924 Williamson Street  Madison, WI							
 The Plaza	43.0753	-89.39044	$2 rail drinks	$1.50 PBR beers	319 N Henry St, Madison, WI						
 Red Shed	43.07356	-89.39595	$2 High Life bottles	$1.75 top-shelf highballs	$7 JUMBO Long Islands	406 North Frances Street, Madison, WI					
 Regent Street Retreat	43.06785	-89.40647	(closed)	1206 Regent Street, Madison, WI							
@@ -107,6 +109,7 @@ Monday's	43.07459	-89.39463	$2 domestic taps	$3 Three Olives mixers		$2 Drop sho
 Nitty Gritty	43.07186	-89.39572	$4.50 Jumbo Bacardi mixers	$2.50 Rumpleminz shots	$3.75 Sam Adams pints	Power Hour (10pm-11pm):	$1.25 rail mixers	$1 Michelob Golden Light taps	$2.25 Drop shots	223 N Frances St, Madison, WI	
 The Old Fashioned	43.07611	-89.38386	2 for 1 rails and taps (3-5pm & 10-midnight)	margarita special	Beer of the month special	$3.50 Southern Tier 2x IPA	23 North Pinckney Street, Madison, WI				
 Paul's Club	43.07487	-89.38856	$2 PBR cans	$3 Tully shots	212 State Street, Madison, WI						
+Plan B	43.08006	-89.36892	(no specials today)	924 Williamson Street  Madison, WI							
 The Plaza	43.0753	-89.39044	$1 off 1/2 pitchers	$2 off pitchers	$2.50 rum mixers	319 N Henry St, Madison, WI					
 Red Shed	43.07356	-89.39595	1/2 off all tap beer	$4 Jager and Cherry bombs	$7 JUMBO Long Islands	406 North Frances Street, Madison, WI					
 Regent Street Retreat	43.06785	-89.40647	$12 for 2 domestic pitchers	$6 pizzas	1206 Regent Street, Madison, WI						
@@ -147,6 +150,7 @@ Monday's	43.07459	-89.39463	$3.50 for almost anything	FREE darts	523 State Stree
 Nitty Gritty	43.07186	-89.39572	Power Hour (10pm-11pm):	$1.25 rail mixers	$1 Michelob Golden Light taps	$2.25 Drop shots	Daily Specials (9pm-close):	$1.50 throwback cans	$2.50 Doctor & Harlem shots	223 N Frances St, Madison, WI	
 The Old Fashioned	43.07611	-89.38386	2 for 1 rails and taps (3-5pm & 10-midnight)	Beer of the month special	23 North Pinckney Street, Madison, WI						
 Paul's Club	43.07487	-89.38856	$2 PBR cans	$3 Tully shots	212 State Street, Madison, WI						
+Plan B	43.08006	-89.36892	Karaoke	$2 Bud Light taps (9pm-1am)	$3 Pucker vodka mixers (9pm-1am)	924 Williamson Street  Madison, WI					
 The Plaza	43.0753	-89.39044	$3 Jack and Stoli mixers	$2 micro bottles	319 N Henry St, Madison, WI						
 Red Shed	43.07356	-89.39595	$1.25 rail highballs	$2 PBR bottles	$7 JUMBO Long Islands	406 North Frances Street, Madison, WI					
 Regent Street Retreat	43.06785	-89.40647	$15 for bucket of 5 Ale Asylum bottles	1206 Regent Street, Madison, WI							
@@ -187,6 +191,7 @@ Monday's	43.07459	-89.39463	$1 taps until 10pm	$3 rail mixers (9pm-close)	523 St
 Nitty Gritty	43.07186	-89.39572	Power Hour (10pm-11pm):	$1.25 rail mixers	$1 Michelob Golden Light taps	$2.25 Drop shots	Daily Specials (9pm-close):	$4.50 Jumbo Captain & Skyy mixers	$5 Michelob Golden pitchers	$3 Jameson shots	223 N Frances St, Madison, WI
 The Old Fashioned	43.07611	-89.38386	2 for 1 rails and taps (3-5pm & 10-midnight)	Beer of the month special	23 North Pinckney Street, Madison, WI						
 Paul's Club	43.07487	-89.38856	$2 PBR cans	$3 Tully shots	212 State Street, Madison, WI						
+Plan B	43.08006	-89.36892	DJ Lizzy T	$4 Long Islands	$3 Corona	924 Williamson Street  Madison, WI					
 The Plaza	43.0753	-89.39044	$2 Long Islands	$2.50 Spaten and Red Hook pints	319 N Henry St, Madison, WI						
 Red Shed	43.07356	-89.39595	1/2 off all tap beer	$2.50 Bacardi highballs	$7 JUMBO Long Islands	406 North Frances Street, Madison, WI					
 Regent Street Retreat	43.06785	-89.40647	$10 all-you-can-drink (10pm-midnight)	$4 Long Islands	1206 Regent Street, Madison, WI						
@@ -227,6 +232,7 @@ Monday's	43.07459	-89.39463	$1 taps till 10pm	523 State Street, Madison, WI
 Nitty Gritty	43.07186	-89.39572	Power Hour (10pm-11pm):	$1.25 rail mixers	$1 Michelob Golden Light taps	$2.25 Drop shots	Daily Specials (9pm-close):	2 for 1 Bud Light bottles and pints	$4 Jumbo Long Islands	223 N Frances St, Madison, WI	
 The Old Fashioned	43.07611	-89.38386	Beer of the month special	23 North Pinckney Street, Madison, WI							
 Paul's Club	43.07487	-89.38856	$2 PBR cans	$3 Tully shots	212 State Street, Madison, WI						
+Plan B	43.08006	-89.36892	DJ Brook	$3 Bacardi mixers	924 Williamson Street  Madison, WI						
 The Plaza	43.0753	-89.39044	$2.50 rail mixers	319 N Henry St, Madison, WI							
 Red Shed	43.07356	-89.39595	$7 JUMBO Long Islands	406 North Frances Street, Madison, WI							
 Regent Street Retreat	43.06785	-89.40647	Pool Tourney @ 7:30pm	$3 Bacardi mixers	$3 jager bombs	$2 High Life bottles	1206 Regent Street, Madison, WI				
@@ -267,6 +273,7 @@ Monday's	43.07459	-89.39463	(no specials today)	523 State Street, Madison, WI
 Nitty Gritty	43.07186	-89.39572	Power Hour (10pm-11pm):	$1.25 rail mixers	$1 Michelob Golden Light taps	$2.25 Drop shots	Daily Specials (9pm-close):	$3.50 Bud Light and Miller Lite bottles	$4 Jumbo Smirnoff mixers	223 N Frances St, Madison, WI	
 The Old Fashioned	43.07611	-89.38386	Beer of the month special	23 North Pinckney Street, Madison, WI							
 Paul's Club	43.07487	-89.38856	$2 PBR cans	$3 Tully shots	212 State Street, Madison, WI						
+Plan B	43.08006	-89.36892	Resident DJs	$4.50 Stoli mixers	924 Williamson Street  Madison, WI						
 The Plaza	43.0753	-89.39044	$2.50 domestic bottles	319 N Henry St, Madison, WI							
 Red Shed	43.07356	-89.39595	$7 JUMBO Long Islands	406 North Frances Street, Madison, WI							
 Regent Street Retreat	43.06785	-89.40647	$3 Three Olive mixers	$3 Monster mixers	$10 all-you-can-drink (10pm-midnight)	1206 Regent Street, Madison, WI					
