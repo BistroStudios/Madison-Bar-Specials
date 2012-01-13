@@ -200,7 +200,7 @@ The Plaza	43.0753	-89.39044	$2 Long Islands	$2.50 Spaten and Red Hook pints	319 
 Red Shed	43.07356	-89.39595	1/2 off all tap beer	$2.50 Bacardi highballs	$7 JUMBO Long Islands	406 North Frances Street, Madison, WI					
 Regent Street Retreat	43.06785	-89.40647	$10 all-you-can-drink (10pm-midnight)	$4 Long Islands	1206 Regent Street, Madison, WI						
 Sotto	43.07486	-89.39004	$2 Margaritas	$2 Long Islands	$3 Mich Ultra and Bud Lime	DJ and dancing	303 N Henry St. Madison, WI				
-Stadium Bar	43.06961	-89.40972	$1 off drinks (3-7pm)	1419 Monroe Street, Madison, WI							
+Stadium Bar	43.06961	-89.40972	$1 off drinks (3-7pm)	$3.50 Irish Coffees	$3 Coors Light silos	$3 Pinnacle mixers	1419 Monroe Street, Madison, WI				
 State Street Brats	43.07488	-89.39601	5 for $5 domestics, rails, mixed shots (9-10pm)	4 for $5 (10-11pm)	3 for $5 (11pm-midnight)	2 for $5 (12-1am)	Beer stock exchange	603 State Street, Madison, WI			
 Tiki Shack	43.07504	-89.38738	2 for 1 Mai Tais	122 State Street, Madison, WI							
 Up North	43.07716	-89.37696	$2.50 Seagrams 7 mixers	$2.50 Leinies bottles	$4 Central Waters Mudpuppy Porter pints	150 South Blair Street, Madison, WI					
