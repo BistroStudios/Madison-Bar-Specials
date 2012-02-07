@@ -66,7 +66,7 @@ Lucky's	43.0677	-89.41017	50 cent wings	$13 domestic silos	$3 Bacardi mixers	$4 
 MacKesey's Irish Pub	43.07471	-89.39086	$2 Domestic bottles	$2.25 Leinenkugel's	Top shelf mixers at rail price	317 State Street, Madison, WI					
 Madhatter's	43.07459	-89.39249	$2 micro taps and bottles	$2 Monster bombs	322 West Gorham Street, Madison, WI						
 Madison's	43.07465	-89.38062	$5 Burger and fries	Drink Specials from 9pm-midnight:	$2 any tap	$2 well drinks	25% off any appetizer	119 King St., Madison, WI			
-Moe's Tavern	43.07474	-89.38659	$4 Moe's bombs	118 State Street, Madison, WI							
+Moe's Tavern	43.07474	-89.38659	$4 Moe's bombs	1/2 off Frida's famous margaritas	118 State Street, Madison, WI						
 Monday's	43.07459	-89.39463	$2 taps	$2 rails all night	523 State Street, Madison, WI						
 Nitty Gritty	43.07186	-89.39572	Power Hour (10pm-11pm):	$1.25 rail mixers	$1 Michelob Golden Light taps	$2.25 Drop shots	Daily Specials (9pm-close):	$3.75 Jumbo UV mixers	$3.75 Goose Island pints	$3 X-bombs	223 N Frances St, Madison, WI
 The Old Fashioned	43.07611	-89.38386	2 for 1 rails and taps (3-5pm & 10-midnight)	Beer of the month special	23 North Pinckney Street, Madison, WI						
@@ -91,7 +91,7 @@ Blue Velvet	43.07436	-89.39437	$5 Martinis	430 West Gilman Street, Madison, WI
 Brocach Irish Pub	43.07347	-89.38343	Happy Hour Specials: (3-6pm and 10-close)	$3 Capital Seasonal beer	$6.50 pint of Guinness and shot of Powers	$4.25 pint Murphy's Stout	$5 glass of wine	1/2 off whiskey and scotch ($7-$12)	$5 Stoli Doli martinis	7 West Main Street, Madison, WI	
 Brother's	43.07339	-89.39757	$1 rails	$2 any tap	2 for 1 Jumbo Long Islands	704 University Avenue, Madison, WI					
 Buckingham's	43.0677	-89.39957	$2 McGillicudy's shots	$8 Bucket of 6 shorties	Hammertime (9pm-11pm):	$1  rails and Chevy Nova shots	$1 Coors Light bullets	$2 bartender's choice bombs	802 Regent Street Madison, WI		
-Chaser's	43.07426	-89.39227	$3 premium taps (3-9pm)	2 for 1 rails and shots	2 taps for $5	Grilled Cheese and Burger specials	319 West Gorham Street, Madison, WI				
+Chaser's	43.07426	-89.39227	Trivia 8pm	$3 premium taps (3-9pm)	2 for 1 rails and shots	2 taps for $5	Grilled Cheese and Burger specials	319 West Gorham Street, Madison, WI			
 Church Key	43.07353	-89.39705	Specials from 7pm to close:	$2 pints on tap	$2 rails	2 for $4 Bud Cans	$3 Pinnacle mixers	626 University Avenue, Madison, WI			
 The City	43.07488	-89.39572	$2.50 well vodka mixers	$2 apple pie  and cherry pie shots	$1.75 domestic bottles	Old School Video Game Night	636 State Street, Madison, WI				
 Echo Tap	43.06819	-89.39142	Bartender's choice	Happy Hour 3-8pm:	$0.75 off all drinks	$5 Cocktail menu drinks	554 West Main Street, Madison, WI				
