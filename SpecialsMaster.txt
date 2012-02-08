@@ -109,7 +109,7 @@ Lucky's	43.0677	-89.41017	Bucket Race Night	$10 buckets of Miller/Coors	$3 Cuerv
 MacKesey's Irish Pub	43.07471	-89.39086	$2.50 Flavored rum and vodka drinks	$3 Import bottles	317 State Street, Madison, WI						
 Madhatter's	43.07459	-89.39249	$1 rails and taps	322 West Gorham Street, Madison, WI							
 Madison's	43.07465	-89.38062	$1 tacos (free beer with every 10 tacos)	Drink Specials from 9pm-midnight:	$2 any tap	$2 well drinks	25% off any appetizer		119 King St., Madison, WI		
-Moe's Tavern	43.07474	-89.38659	$2 you-call-its beers and mixers	$4 Moe's Bombs	118 State Street, Madison, WI						
+Moe's Tavern	43.07474	-89.38659	$2 you-call-its beers and mixers	$4 Moe's Bombs	Live DJ	118 State Street, Madison, WI					
 Monday's	43.07459	-89.39463	$2 domestic taps	$3 Three Olives mixers	$2 Drop shots	Daily Specials (9pm-close):	$4.50 Jumbo Bacardi mixers	$4.50 Sam Adams pints	$2.50 Rumpleminz shots	523 State Street, Madison, WI	
 Nitty Gritty	43.07186	-89.39572	$4.50 Jumbo Bacardi mixers	$2.50 Rumpleminz shots	$3.75 Sam Adams pints	Power Hour (10pm-11pm):	$1.25 rail mixers	$1 Michelob Golden Light taps	$2.25 Drop shots	223 N Frances St, Madison, WI	
 The Old Fashioned	43.07611	-89.38386	2 for 1 rails and taps (3-5pm & 10-midnight)	margarita special	Beer of the month special	$3.50 Southern Tier 2x IPA	23 North Pinckney Street, Madison, WI				
@@ -134,7 +134,7 @@ Blue Velvet	43.07436	-89.39437	$4 jumbo Pinnacle mixers	1/2 off bottles of wine	
 Brocach Irish Pub	43.07347	-89.38343	Happy Hour Specials: (3-6pm and 10-close)	$3 Capital Seasonal beer	$6.50 pint of Guinness and shot of Powers	$4.25 pint Murphy's Stout	$5 glass of wine	1/2 off whiskey and scotch ($7-$12)	$5 Stoli Doli martinis	7 West Main Street, Madison, WI	
 Brother's	43.07339	-89.39757	$6 for 5 High Life bottles	$1.50 High Life bottles	2 for 1 Bacardi mixers	3 for 1 rails	15 cent wings (9pm until they're gone)	704 University Avenue, Madison, WI			
 Buckingham's	43.0677	-89.39957	$2 cans	$2 bombs	Hammertime (9pm-11pm):	$1  rails and Chevy Nova shots	$1 Coors Light bullets	$2 bartender's choice bombs	802 Regent Street Madison, WI		
-Chaser's	43.07426	-89.39227	Mexican night	50 cent tacos	$5 margaritas	$4 Patron shots	319 West Gorham Street, Madison, WI				
+Chaser's	43.07426	-89.39227	Mexican night	50 cent tacos	$3.75 Corona and Dos Equis bottles	$3.75 Jumbo margaritas	$4 Patron, 1800, and Avion shots	319 West Gorham Street, Madison, WI			
 Church Key	43.07353	-89.39705	Specials from 7pm to close:	FREE darts and popcorn until midnight	$2 house shot	$5 domestic pitchers	$3.50 3 Olives mixers	$3.50 tall Sangrias	$3.50 benchmark mixers	$4 bomb shots	626 University Avenue, Madison, WI
 The City	43.07488	-89.39572	2 for 1 domestic bottles and taps	2 for 1 rail mixers	$1 off everything else	1/2 off burgers until 10pm	636 State Street, Madison, WI				
 Echo Tap	43.06819	-89.39142	$3 microbrew pints	Happy Hour 3-8pm:	$0.75 off all drinks	$5 Cocktail menu drinks	554 West Main Street, Madison, WI				
