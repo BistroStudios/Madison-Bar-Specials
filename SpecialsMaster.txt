@@ -47,7 +47,7 @@ Amy's Cafe	43.07453	-89.39407	$1 off Amy's cocktail menu	414 West Gilman Street,
 Blue Velvet	43.07436	-89.39437	$3 Tap beers	430 West Gilman Street, Madison, WI							
 Brocach Irish Pub	43.07347	-89.38343	Happy Hour Specials: (3-6pm and 10-close)	$3 Capital Seasonal beer	$6.50 pint of Guinness and shot of Powers	$4.25 pint Murphy's Stout	$5 glass of wine	1/2 off whiskey and scotch ($7-$12)	$5 Stoli Doli martinis	7 West Main Street, Madison, WI	
 Brother's	43.07339	-89.39757	$1.50 you-call-its	$3 double rail, Jack, or SoCo mixer	704 University Avenue, Madison, WI						
-Buckingham's	43.0677	-89.39957	$2 off ALL pitchers	2 for 1 rails	Hammertime (9pm-11pm):	$1  rails and Chevy Nova shots	$1 Coors Light bullets	$2 bartender's choice bombs	802 Regent Street Madison, WI		
+Buckingham's	43.0677	-89.39957	$2 off Coors Light pitchers	2 for 1 rails	Hammertime (9pm-11pm):	$1  rails and Chevy Nova shots	$1 Coors Light bullets	$2 bartender's choice bombs	802 Regent Street Madison, WI		
 Chaser's	43.07426	-89.39227	50 cent taps (9pm-close)	$2 domestic taps (open-9pm)	all you can eat wings	319 West Gorham Street, Madison, WI					
 Church Key	43.07353	-89.39705	Specials from 7pm to close:	$2 pints on tap	$2 rails	2 for $4 Bud Cans	$3 Pinnacle mixers	626 University Avenue, Madison, WI			
 The City	43.07488	-89.39572	Trivia at 8:30pm	$3 Svedka mixers	$3 Wisconsin taps	$9 pitchers	636 State Street, Madison, WI				
@@ -276,7 +276,7 @@ Jordan's Big Ten	43.06788	-89.40829	$4 Skyy and Skyy flavor pints	11am-1pm	$5 pi
 Kollege Klub	43.07565	-89.39713	$4 Jumbo Long Islands	$4 Stoli mixers	$4 Jack mixers	529 North Lake Street, Madison, WI					
 Lava Lounge	43.07344	-89.39526	$3.50 Tall Boys	$3 Long Islands	461 West Gilman Street, Madison, WI						
 The Library	43.07303	-89.40943	$3 Jack mixers (7pm-close)	$2.50 Tall Boys (7pm-close)	320 North Randall Avenue, Madison, WI						
-Logan's	43.07415	-89.39132	$1 cheese pizzas	322 West Johnson Street, Madison, WI							
+Logan's	43.07415	-89.39132	$2 PBR Tall Boys until 11pm	$1 cheese pizzas	322 West Johnson Street, Madison, WI						
 Lucky's	43.0677	-89.41017	Bucket Race Night	$10 Buckets	$3 Captain Lime bite-a-ritas	$3 SoCo Lime shots	$1 rails (11pm-midnight)	2 for 1 rails (midnight-1am)	1421 Regent St, Madison, WI		
 MacKesey's Irish Pub	43.07471	-89.39086	(no specials today)								
 Madhatter's	43.07459	-89.39249	$5 Double Three Olive flavored mixers	$3.50 featured micro beers	322 West Gorham Street, Madison, WI						
