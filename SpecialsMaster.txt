@@ -122,7 +122,7 @@ The Plaza	43.0753	-89.39044	$1 off 1/2 pitchers	$2 off pitchers	$2.50 rum mixers
 Red Shed	43.07356	-89.39595	1/2 off all tap beer	$4 Jager and Cherry bombs	$7 JUMBO Long Islands	406 North Frances Street, Madison, WI					
 Regent Street Retreat	43.06785	-89.40647	$12 for 2 domestic pitchers	$6 pizzas	1206 Regent Street, Madison, WI						
 Sotto	43.07486	-89.39004	$2 Grab Bag Special	303 N Henry St. Madison, WI							
-Stadium Bar	43.06961	-89.40972	$1 off drinks (3-7pm)	1419 Monroe Street, Madison, WI							
+Stadium Bar	43.06961	-89.40972	$3 Strawberry Infused mixers	$3 Long Islands	$2.50 shots of Doctor	1419 Monroe Street, Madison, WI					
 State Street Brats	43.07488	-89.39601	Flip night (win and get 75% off)	603 State Street, Madison, WI							
 Tiki Shack	43.07504	-89.38738	(bartender's choice)	122 State Street, Madison, WI							
 Up North	43.07716	-89.37696	$2.50 Seagrams 7 mixers	$2 Bud bottles	$4 Spaten Lager pints	150 South Blair Street, Madison, WI					
