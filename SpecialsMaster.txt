@@ -1,308 +1,315 @@
-*****Sunday*****															
-none	0	0	0												
-Amy's Cafe	43.07453	-89.39407	(no specials today)	414 West Gilman Street, Madison, WI											
-Blue Velvet	43.07436	-89.39437	25% off drinks	430 West Gilman Street, Madison, WI											
-Brickhouse BBQ	43.07396	-89.3931	$5 Bloody Mary with Spotted Cow chaser	$5.75 Bud Light pitcher	408 West Gorham Street Madison, WI										
-Brocach Irish Pub	43.07347	-89.38343	Trivia at 8pm	Happy Hour Specials: (3-6pm and 10-close)	$3 Capital Seasonal beer	$6.50 pint of Guinness and shot of Powers	$4.25 pint Murphy's Stout	$5 glass of wine	1/2 off whiskey and scotch ($7-$12)	$5 Stoli Doli martinis	7 West Main Street, Madison, WI				
-Brother's	43.07339	-89.39757	(closed)	704 University Avenue, Madison, WI											
-Buckingham's	43.0677	-89.39957	$3 Bloody Marys and Screwdrivers	$2 Domestic taps	Hammertime (9pm-11pm):	$1  rails and Chevy Nova shots	$1 Coors Light bullets	$2 bartender's choice bombs	802 Regent Street Madison, WI						
-Chaser's	43.07426	-89.39227	Specials from 3pm-9pm	$5 Jumbo screwdrivers and bloody marys	$6 Goose Island pitchers	$4 Mimosas	$8 Pitchers New Belgium	319 West Gorham Street, Madison, WI							
-Church Key	43.07353	-89.39705	NFL Sunday ticket	$3 all taps	$4 Bloody Marys, Cruzan Rum	$5 vodka redbull	$4 pitchers of Bud Light	$5 pitchers Central Waters red	626 University Avenue, Madison, WI						
-The City	43.07488	-89.39572	$3 Three Olive mixers	$2.50 Beer of the month	(open from 5pm until bar close)	636 State Street, Madison, WI									
-Echo Tap	43.06819	-89.39142	Hospitality night	Happy Hour 3-8pm:	$0.75 off all drinks	$5 Cocktail menu drinks	554 West Main Street, Madison, WI								
-Essen Haus	43.07624	-89.37653	$3.50 pints, rails, and glasses of wine	$4.50 Half liters	514 East Wilson St, Madison, WI										
-The Great Dane	43.07453	-89.38002	(no specials today)	123 E Doty St # 1, Madison, WI											
-Hawk's	43.07461	-89.39272	Iced Tea Night	$6 bomb bottles	425 State Street, Madison, WI										
-Ivory Room	43.0743	-89.38709	(closed)	116 West Mifflin Street, Madison, WI											
-Johnny O's	43.07338	-89.39677	(closed)	622 University Ave, Madison, WI											
-Jordan's Big Ten	43.06788	-89.40829	$4 Bloody Mary's	$3 mimosas	Buckets of shorties	1330 Regent St, Madison, WI									
-Kollege Klub	43.07565	-89.39713	Bring your own mug under 24 oz for:	$1 ANY tap	$2 call mixed shot	$3 call mixers	529 North Lake Street, Madison, WI								
-Lava Lounge	43.07344	-89.39526	Bartender's choice	461 West Gilman Street, Madison, WI											
-The Library	43.07303	-89.40943	NFL Sunday ticket	320 North Randall Avenue, Madison, WI											
-Logan's	43.07415	-89.39132	$1 cheese pizzas	*specials may vary by bartender*	322 West Johnson Street, Madison, WI										
-Lucky's	43.0677	-89.41017	$3.50 micro taps	$4 Absolut Monsters	$2.50 Jamo shots	$1 rails (11pm-midnight)	2 for 1 rails (midnight-1am)	1421 Regent St, Madison, WI							
-MacKesey's Irish Pub	43.07471	-89.39086	$2 rails	$2 Miller Lite, Coors Light, & Esser's Best	$2.50 Spotted Cow	$3 Capital beers	317 State Street, Madison, WI								
-Madhatter's	43.07459	-89.39249	(closed)	322 West Gorham Street, Madison, WI											
-Madison's	43.07465	-89.38062	(closed)	119 King St., Madison, WI											
-Moe's Tavern	43.07474	-89.38659	$4 Moe's bombs	118 State Street, Madison, WI											
-Monday's	43.07459	-89.39463	$3 doubles	$4 domestic pitchers	523 State Street, Madison, WI										
-Nitty Gritty	43.07186	-89.39572	$3 Bloody Marys	$6 domestic pitchers	$10 premium pitchers	Trivia at 8pm and Karaoke at 10pm	Power Hour (10pm-11pm):	$1.25 rail mixers	$1 Michelob Golden Light taps	$2.25 Drop shots	223 N Frances St, Madison, WI				
-The Old Fashioned	43.07611	-89.38386	Beer of the month special	23 North Pinckney Street, Madison, WI											
-Opus Lounge	43.07486	-89.38091	1/2 off bottles of wine	116 King St. Madison, WI											
-Paul's Club	43.07487	-89.38856	(no specials today)	212 State Street, Madison, WI											
-Plan B	43.08006	-89.36892	$2 PBRs	$3 Three Olive mixers	Trivia Night 7:30pm	924 Williamson Street  Madison, WI									
-The Plaza	43.0753	-89.39044	(closed)	319 N Henry St, Madison, WI											
-Red Shed	43.07356	-89.39595	(no specials today)	406 North Frances Street, Madison, WI											
-Regent Street Retreat	43.06785	-89.40647	(no specials today)	1206 Regent Street, Madison, WI											
-Sotto	43.07486	-89.39004	(closed)	303 N Henry St. Madison, WI											
-Stadium Bar	43.06961	-89.40972	$1 off drinks (3-7pm)	1419 Monroe Street, Madison, WI											
-State Street Brats	43.07488	-89.39601	$4.50 Big Beers	$5 Absolut Bloody Marys	603 State Street, Madison, WI										
-Tiki Shack	43.07504	-89.38738	(closed)	122 State Street, Madison, WI											
-Up North	43.07716	-89.37696	$4 Bloody Mary's	$2 Grab Bag Special	150 South Blair Street, Madison, WI										
-The Vintage	43.07299	-89.39551	Bloody Mary Bar (9am-noon)	$1 taps of PBR (3pm-close)	$2 rail mixers (3pm-close)	529 University Avenue, Madison, WI									
-Wando's	43.07339	-89.39593	$2 taps of Bud Light, Miller Lite, Coors Lite	$4 Jumbo Jack or Ketel One mixers	602 University Avenue, Madison, WI										
-Whiskey Jack's	43.07514	-89.39483	$4 bomb shots	$2 drinks	552 State Street, Madison, WI										
-*****Monday*****															
-none	0	0	0												
-Amy's Cafe	43.07453	-89.39407	$2 rails	$6 PBR pitchers	$2 Schlitz tall boys	414 West Gilman Street, Madison, WI									
-Blue Velvet	43.07436	-89.39437	$3 Tap beers	430 West Gilman Street, Madison, WI											
-Brickhouse BBQ	43.07396	-89.3931	Stag Party Cherry Cokes $4 single $7.50 double	$2.50 Capital pints	408 West Gorham Street Madison, WI										
-Brocach Irish Pub	43.07347	-89.38343	Happy Hour Specials: (3-6pm and 10-close)	$3 Capital Seasonal beer	$6.50 pint of Guinness and shot of Powers	$4.25 pint Murphy's Stout	$5 glass of wine	1/2 off whiskey and scotch ($7-$12)	$5 Stoli Doli martinis	7 West Main Street, Madison, WI					
-Brother's	43.07339	-89.39757	$1.50 you-call-its	$3 double rail, Jack, or SoCo mixer 16oz Mason Jars	704 University Avenue, Madison, WI										
-Buckingham's	43.0677	-89.39957	$2 off Coors Light pitchers	2 for 1 rails	Hammertime (9pm-11pm):	$1  rails and Chevy Nova shots	$1 Coors Light bullets	$2 bartender's choice bombs	802 Regent Street Madison, WI						
-Chaser's	43.07426	-89.39227	$2 domestic taps (open-9pm)	$3 pitchers (open-9pm)	$4 PBR pitchers (open-9pm)	50 cent taps (9pm-close)	$3 rails, vodka redbulls, & Three Olives (9pm-close)	all you can eat wings and fries	$5 pitchers Bud Light 9pm-11pm	319 West Gorham Street, Madison, WI					
-Church Key	43.07353	-89.39705	Specials from 7pm to close:	$2 pints on tap	$2 rails	2 for $4 Bud Cans	$3 Pinnacle mixers	626 University Avenue, Madison, WI							
-The City	43.07488	-89.39572	Trivia at 8:30pm	$3 Svedka mixers	$3 Wisconsin taps	$9 pitchers	636 State Street, Madison, WI								
-Echo Tap	43.06819	-89.39142	$5 pitchers of Miller High Life & Berghoff	Happy Hour 3-8pm:	$0.75 off all drinks	$5 Cocktail menu drinks	554 West Main Street, Madison, WI								
-Essen Haus	43.07624	-89.37653	(closed)	514 East Wilson St, Madison, WI											
-The Great Dane	43.07453	-89.38002	Happy Hour 4-6pm	123 E Doty St # 1, Madison, WI											
-Hawk's	43.07461	-89.39272	Pitcher Night	$6 bomb bottles	425 State Street, Madison, WI										
-Ivory Room	43.0743	-89.38709	(closed)	116 West Mifflin Street, Madison, WI											
-Johnny O's	43.07338	-89.39677	(closed)	622 University Ave, Madison, WI											
-Jordan's Big Ten	43.06788	-89.40829	$1 rails	60 cent tacos	1330 Regent St, Madison, WI										
-Kollege Klub	43.07565	-89.39713	(closed)	529 North Lake Street, Madison, WI											
-Lava Lounge	43.07344	-89.39526	Bartender's choice	461 West Gilman Street, Madison, WI											
-The Library	43.07303	-89.40943	$3 Jim Beam mixers (7pm-close)	$2 domestics (9pm-close)	320 North Randall Avenue, Madison, WI										
-Logan's	43.07415	-89.39132	Monday Movie Night	$3 you-call-its	$1 hot dogs	$1 cheese pizzas	*specials may vary by bartender*	322 West Johnson Street, Madison, WI							
-Lucky's	43.0677	-89.41017	50 cent wings	$13 domestic silos	$3 Bacardi mixers	$4 bomb shots	$1 rails (11pm-midnight)	2 for 1 rails (midnight-1am)	1421 Regent St, Madison, WI						
-MacKesey's Irish Pub	43.07471	-89.39086	$2 Domestic bottles	$2.25 Leinenkugel's	Top shelf mixers at rail price	317 State Street, Madison, WI									
-Madhatter's	43.07459	-89.39249	$2 micro taps and bottles	$2 bombs	322 West Gorham Street, Madison, WI										
-Madison's	43.07465	-89.38062	$5 Burger and fries	Happy Hour (4-7pm)	$3 taps	$3 rail drinks	$3 House wine	25% off any appetizer	119 King St., Madison, WI						
-Moe's Tavern	43.07474	-89.38659	$4 Moe's bombs	1/2 off Frida's famous margaritas	118 State Street, Madison, WI										
-Monday's	43.07459	-89.39463	$2 taps	$2 rails all night	523 State Street, Madison, WI										
-Nitty Gritty	43.07186	-89.39572	Power Hour (10pm-11pm):	$1.25 rail mixers	$1 Michelob Golden Light taps	$2.25 Drop shots	Daily Specials (9pm-close):	$3 Goose Island or Sam Adams	$2.50 UV vodka mixers	$2 Washington Apple shots	223 N Frances St, Madison, WI				
-The Old Fashioned	43.07611	-89.38386	2 for 1 rails and taps (3-5pm & 10-midnight)	Beer of the month special	23 North Pinckney Street, Madison, WI										
-Opus Lounge	43.07486	-89.38091	2 for 1 Champagne cocktails	25% off drinks and food (4:30-7pm)	116 King St. Madison, WI										
-Paul's Club	43.07487	-89.38856	$2 PBR cans	$3.50 Magic Hats	212 State Street, Madison, WI										
-Plan B	43.08006	-89.36892	(closed)	924 Williamson Street  Madison, WI											
-The Plaza	43.0753	-89.39044	$2 rail drinks	$1.50 PBR beers	319 N Henry St, Madison, WI										
-Red Shed	43.07356	-89.39595	$2 High Life bottles	$1.75 top-shelf highballs	$7 JUMBO Long Islands	406 North Frances Street, Madison, WI									
-Regent Street Retreat	43.06785	-89.40647	(closed)	1206 Regent Street, Madison, WI											
-Sotto	43.07486	-89.39004	(closed)	303 N Henry St. Madison, WI											
-Stadium Bar	43.06961	-89.40972	$1 off drinks (3-7pm)	1419 Monroe Street, Madison, WI											
-State Street Brats	43.07488	-89.39601	$2 pints of PBR/High Life/Leinies	$6 pitchers	$7 boots	603 State Street, Madison, WI									
-Tiki Shack	43.07504	-89.38738	(bartender's choice)	122 State Street, Madison, WI											
-Up North	43.07716	-89.37696	$2.50 PBR & Schlitz Tall Boys	$1.50 Labatt Blue & Keystone Light Tall Boys	$3 Jack mixers	150 South Blair Street, Madison, WI									
-The Vintage	43.07299	-89.39551	Specials from 9pm to close	$1 Wisconsin beer taps	$2.50 Vintage brews	529 University Avenue, Madison, WI									
-Wando's	43.07339	-89.39593	$2 Bud Light bottles	$2 rails	$2 Breakfast shots	$2 Badger bowls	602 University Avenue, Madison, WI								
-Whiskey Jack's	43.07514	-89.39483	3 for 1 Rolling Rock cans	$3 Crown Royal, Devil's Cut, & Jameson mixers	(9pm-bar time)	552 State Street, Madison, WI									
-*****Tuesday*****															
-none	0	0	0												
-Amy's Cafe	43.07453	-89.39407	$6 PBR pitchers	414 West Gilman Street, Madison, WI											
-Blue Velvet	43.07436	-89.39437	$5 Martinis	430 West Gilman Street, Madison, WI											
-Brickhouse BBQ	43.07396	-89.3931	Jack mixers $4 single $7.50 double	$3 Lake Louie pints	$10 bucket PBR tall boys	408 West Gorham Street Madison, WI									
-Brocach Irish Pub	43.07347	-89.38343	Happy Hour Specials: (3-6pm and 10-close)	$3 Capital Seasonal beer	$6.50 pint of Guinness and shot of Powers	$4.25 pint Murphy's Stout	$5 glass of wine	1/2 off whiskey and scotch ($7-$12)	$5 Stoli Doli martinis	7 West Main Street, Madison, WI					
-Brother's	43.07339	-89.39757	$1 rails	$2 any tap	2 for 1 Long Islands	704 University Avenue, Madison, WI									
-Buckingham's	43.0677	-89.39957	$2 McGillicudy's shots	$8 Bucket of 6 shorties	Hammertime (9pm-11pm):	$1  rails and Chevy Nova shots	$1 Coors Light bullets	$2 bartender's choice bombs	802 Regent Street Madison, WI						
-Chaser's	43.07426	-89.39227	Trivia 8pm	$3 premium taps and rail mixers (3-9pm)	$6 ALL pitchers (3pm-9pm)	2 for 1 rails and shots (3pm-9pm)	2 taps for $5 (3pm-9pm)	$5 pitchers Bud Light 9pm-11pm	319 West Gorham Street, Madison, WI						
-Church Key	43.07353	-89.39705	Specials from 7pm to close:	$2 pints on tap	$2 rails	2 for $4 Bud Cans	$3 Pinnacle mixers	626 University Avenue, Madison, WI							
-The City	43.07488	-89.39572	$2.50 vodka redbulls	$2 apple pie  and cherry pie shots	$2 domestic bottles and taps	636 State Street, Madison, WI									
-Echo Tap	43.06819	-89.39142	Bartender's choice	Happy Hour 3-8pm:	$0.75 off all drinks	$5 Cocktail menu drinks	554 West Main Street, Madison, WI								
-Essen Haus	43.07624	-89.37653	$3.50 pints, rails, and glasses of wine	$4.50 Half Liters	514 East Wilson St, Madison, WI										
-The Great Dane	43.07453	-89.38002	Happy Hour 4-6pm	123 E Doty St # 1, Madison, WI											
-Hawk's	43.07461	-89.39272	Beer and a shot night	$6 bomb bottles	425 State Street, Madison, WI										
-Ivory Room	43.0743	-89.38709	$3 ALL Wisconsin Beers	$5 wine feature	116 West Mifflin Street, Madison, WI										
-Johnny O's	43.07338	-89.39677	(closed)	622 University Ave, Madison, WI											
-Jordan's Big Ten	43.06788	-89.40829	$1 bottles of PBR and Busch Light	$4 Skyy and Skyy flavor pints	$4 Jack pints	$1.25 Sloppy Joes	1330 Regent St, Madison, WI								
-Kollege Klub	43.07565	-89.39713	2 for 1 on everything	529 North Lake Street, Madison, WI											
-Lava Lounge	43.07344	-89.39526	Bartender's choice	461 West Gilman Street, Madison, WI											
-The Library	43.07303	-89.40943	$3 double rail mixers	8pm Trivia	$2 domestics (9pm-close)	320 North Randall Avenue, Madison, WI									
-Logan's	43.07415	-89.39132	$2 Long Islands	Beer Pong	$2 Two tacos	2 for 1 appetizers	$1 cheese pizzas	*specials may vary by bartender*	322 West Johnson Street, Madison, WI						
-Lucky's	43.0677	-89.41017	Bucket Race Night	$10 buckets of Miller/Coors	$3 Cuervo shots	$6 half ginourmous nachos	$1 rails (11pm-midnight)	2 for 1 rails (midnight-1am)	1421 Regent St, Madison, WI						
-MacKesey's Irish Pub	43.07471	-89.39086	$2.50 Flavored rum and vodka drinks	$3 Import bottles	317 State Street, Madison, WI										
-Madhatter's	43.07459	-89.39249	$1 rails and domestic taps	322 West Gorham Street, Madison, WI											
-Madison's	43.07465	-89.38062	$1 tacos $2 fish tacos $3 margaritas	Happy Hour (4-7pm)	$3 taps	$3 rail drinks	$3 House wine	25% off any appetizer	119 King St., Madison, WI						
-Moe's Tavern	43.07474	-89.38659	$2 you-call-its beers and mixers	$4 Moe's Bombs	Live DJ	118 State Street, Madison, WI									
-Monday's	43.07459	-89.39463	$2 domestic taps	$3 Three Olives mixers	$2 Drop shots	Daily Specials (9pm-close):	$4.50 Jumbo Bacardi mixers	$4.50 Sam Adams pints	$2.50 Rumpleminz shots	523 State Street, Madison, WI					
-Nitty Gritty	43.07186	-89.39572	$2.50 Bacardi mixers	$2.50 Rumpleminz shots	$2.50 Capital pints	Power Hour (10pm-11pm):	$1.25 rail mixers	$1 Michelob Golden Light taps	$2.25 Drop shots	223 N Frances St, Madison, WI					
-The Old Fashioned	43.07611	-89.38386	2 for 1 rails and taps (3-5pm & 10-midnight)	margarita special	Beer of the month special	$3.50 Southern Tier 2x IPA	23 North Pinckney Street, Madison, WI								
-Opus Lounge	43.07486	-89.38091	1/2 off martini flights	25% off drinks and food (4:30-7pm)	116 King St. Madison, WI										
-Paul's Club	43.07487	-89.38856	$2 PBR cans	$3.50 Magic Hats	212 State Street, Madison, WI										
-Plan B	43.08006	-89.36892	(no specials today)	924 Williamson Street  Madison, WI											
-The Plaza	43.0753	-89.39044	$1 off 1/2 pitchers	$2 off pitchers	$2.50 rum mixers	319 N Henry St, Madison, WI									
-Red Shed	43.07356	-89.39595	1/2 off all tap beer	$4 Jager and Cherry bombs	$7 JUMBO Long Islands	406 North Frances Street, Madison, WI									
-Regent Street Retreat	43.06785	-89.40647	$12 for 2 domestic pitchers	$6 pizzas	1206 Regent Street, Madison, WI										
-Sotto	43.07486	-89.39004	$2 Grab Bag Special	303 N Henry St. Madison, WI											
-Stadium Bar	43.06961	-89.40972	$3 Strawberry Infused mixers	$3 Long Islands	$2.50 shots of Doctor	1419 Monroe Street, Madison, WI									
-State Street Brats	43.07488	-89.39601	Flip night (win and get 75% off)	603 State Street, Madison, WI											
-Tiki Shack	43.07504	-89.38738	(bartender's choice)	122 State Street, Madison, WI											
-Up North	43.07716	-89.37696	$2.50 Seagrams 7 mixers	$2 Bud bottles	$4 Spaten Lager pints	150 South Blair Street, Madison, WI									
-The Vintage	43.07299	-89.39551	Specials from 8pm to close	Skirt Night: 50% off everything if you wear a skirt	$2 Bacardi mixers	529 University Avenue, Madison, WI									
-Wando's	43.07339	-89.39593	FREE bacon	$1 cans of Coors Light, PBR, and Miller Lite	$5 Jumbo Absolut mixers	$4 Jumbo rails	602 University Avenue, Madison, WI								
-Whiskey Jack's	43.07514	-89.39483	$5 Mich Golden Light and Bud Light pitchers	$5 Tall Captain, Ketel, and Stoli drinks	552 State Street, Madison, WI										
-*****Wednesday*****															
-none	0	0	0												
-Amy's Cafe	43.07453	-89.39407	$2 Schlitz tall boys	414 West Gilman Street, Madison, WI											
-Blue Velvet	43.07436	-89.39437	$4 jumbo Pinnacle mixers	1/2 off bottles of wine	430 West Gilman Street, Madison, WI										
-Brickhouse BBQ	43.07396	-89.3931	$4 double long islands	$3 Upland & Potosi pints	408 West Gorham Street Madison, WI										
-Brocach Irish Pub	43.07347	-89.38343	Happy Hour Specials: (3-6pm and 10-close)	$3 Capital Seasonal beer	$6.50 pint of Guinness and shot of Powers	$4.25 pint Murphy's Stout	$5 glass of wine	1/2 off whiskey and scotch ($7-$12)	$5 Stoli Doli martinis	7 West Main Street, Madison, WI					
-Brother's	43.07339	-89.39757	$6 for 5 High Life bottles	$1.50 High Life bottles	2 for 1 Bacardi mixers	3 for 1 rails	15 cent wings (9pm until they're gone)	704 University Avenue, Madison, WI							
-Buckingham's	43.0677	-89.39957	$2 cans	$2 bombs	Hammertime (9pm-11pm):	$1  rails and Chevy Nova shots	$1 Coors Light bullets	$2 bartender's choice bombs	802 Regent Street Madison, WI						
-Chaser's	43.07426	-89.39227	3 rails for $5 (9pm-close)	50 cent tacos	$3.75 Corona and Dos Equis bottles	$3.75 Jumbo margaritas	$4 Patron, 1800, and Avion shots	$5 pitchers Bud Light 9pm-11pm	319 West Gorham Street, Madison, WI						
-Church Key	43.07353	-89.39705	Specials from 7pm to close:	FREE darts and popcorn until midnight	$2 house shot	$5 domestic pitchers	$3.50 3 Olives mixers	$3.50 tall Sangrias	$3.50 benchmark mixers	$4 bomb shots	626 University Avenue, Madison, WI				
-The City	43.07488	-89.39572	2 for 1 domestic bottles and taps	2 for 1 rail mixers	$1 off everything else	1/2 off burgers until 10pm	636 State Street, Madison, WI								
-Echo Tap	43.06819	-89.39142	$3 microbrew pints	Happy Hour 3-8pm:	$0.75 off all drinks	$5 Cocktail menu drinks	554 West Main Street, Madison, WI								
-Essen Haus	43.07624	-89.37653	$16 Fishbowls ($15 refills)	514 East Wilson St, Madison, WI											
-The Great Dane	43.07453	-89.38002	Happy Hour 4-6pm	123 E Doty St # 1, Madison, WI											
-Hawk's	43.07461	-89.39272	All night is happy hour	$6 bomb bottles	425 State Street, Madison, WI										
-Ivory Room	43.0743	-89.38709	$2.50 Bud Light bottles	$5 Cosmos	116 West Mifflin Street, Madison, WI										
-Johnny O's	43.07338	-89.39677	FREE mini corn dogs with purchase	1/2 off ALL taps & pitchers	Beer Pong	622 University Ave, Madison, WI									
-Jordan's Big Ten	43.06788	-89.40829	$1 taps of PBR	$3 Captain mixers	$3 Malibu mixers	Lake Perch dinner	1330 Regent St, Madison, WI								
-Kollege Klub	43.07565	-89.39713	Beer and shot night	$3 Miller Lite bottles (comes with free shot)	$5 High Life Light pitchers	$4 Jumbo Long Islands	529 North Lake Street, Madison, WI								
-Lava Lounge	43.07344	-89.39526	Bartender's choice	461 West Gilman Street, Madison, WI											
-The Library	43.07303	-89.40943	$3.25 taps (7pm-close)	$2 domestics (9pm-close)	320 North Randall Avenue, Madison, WI										
-Logan's	43.07415	-89.39132	Game Night	$2 domestic pints	$8 Beer buckets (6 mini beers)	25 cent wings	$1 cheese pizzas	*specials may vary by bartender*	322 West Johnson Street, Madison, WI						
-Lucky's	43.0677	-89.41017	Trivia at 8pm	$1 tacos	$2 Bud Light bottles	$2.50 Rumpleminz/Blackhaus shots	$3 Smirnoff mixers	$1 rails (11pm-midnight)	2 for 1 rails (midnight-1am)	1421 Regent St, Madison, WI					
-MacKesey's Irish Pub	43.07471	-89.39086	$3.25 import pints	$3 Irish Whiskey mixers	$4.25 Premium Irish Whiskey mixers	317 State Street, Madison, WI									
-Madhatter's	43.07459	-89.39249	1/2 off rails, bottles and taps	322 West Gorham Street, Madison, WI											
-Madison's	43.07465	-89.38062	50 cent wings	Happy Hour (4-7pm)	$3 taps	$3 rail drinks	$3 House wine	25% off any appetizer	119 King St., Madison, WI						
-Moe's Tavern	43.07474	-89.38659	$4 Moe's bombs	Beat the clock beer night:	8pm $.50	9pm $.75	10pm $1	11pm $1.50	12pm $2	118 State Street, Madison, WI					
-Monday's	43.07459	-89.39463	$3.50 for almost anything	FREE darts	523 State Street, Madison, WI										
-Nitty Gritty	43.07186	-89.39572	Power Hour (10pm-11pm):	$1.25 rail mixers	$1 Michelob Golden Light taps	$2.25 Drop shots	Daily Specials (9pm-close):	$1.50 select domestic cans	$2.50 Doctor shots	223 N Frances St, Madison, WI					
-The Old Fashioned	43.07611	-89.38386	2 for 1 rails and taps (3-5pm & 10-midnight)	Beer of the month special	23 North Pinckney Street, Madison, WI										
-Opus Lounge	43.07486	-89.38091	1/2 off glasses of wine	25% off drinks and food (4:30-7pm)	116 King St. Madison, WI										
-Paul's Club	43.07487	-89.38856	$2 PBR cans	$3.50 Magic Hats	212 State Street, Madison, WI										
-Plan B	43.08006	-89.36892	Karaoke	$2 Bud Light taps (9pm-1am)	$3 Three Olives mixers	924 Williamson Street  Madison, WI									
-The Plaza	43.0753	-89.39044	$3 Jack and Stoli mixers	$2 micro bottles	319 N Henry St, Madison, WI										
-Red Shed	43.07356	-89.39595	$1.25 rail highballs	$2 PBR tall boys	$7 JUMBO Long Islands	406 North Frances Street, Madison, WI									
-Regent Street Retreat	43.06785	-89.40647	$15 for bucket of 5 Ale Asylum bottles	1206 Regent Street, Madison, WI											
-Sotto	43.07486	-89.39004	Student ID Night:	1/2 off taps, rails, and bottles	303 N Henry St. Madison, WI										
-Stadium Bar	43.06961	-89.40972	$1 off drinks (3-7pm)	1419 Monroe Street, Madison, WI											
-State Street Brats	43.07488	-89.39601	$2.25 pints New Glarus	$7 pitchers New Glarus	$8 boots New Glarus	$4 Captain double tall (4pm-9pm)	603 State Street, Madison, WI								
-Tiki Shack	43.07504	-89.38738	(bartender's choice)	122 State Street, Madison, WI											
-Up North	43.07716	-89.37696	$2.50 Bacardi & Captain mixers	$2.50 Heinekein bottles	$4 Hopalicious pints	150 South Blair Street, Madison, WI									
-The Vintage	43.07299	-89.39551	Specials from 8pm to close	2 for 1 PBR cans	$2.50 Pinnacle vodka mixers	$2 sliders (3-10p)	529 University Avenue, Madison, WI								
-Wando's	43.07339	-89.39593	$15 Fishbowls	$2.50 Miller Lite bottles	$4 Jumbo rails	602 University Avenue, Madison, WI									
-Whiskey Jack's	43.07514	-89.39483	$5 Vodka Rockstars and Jager bombs	$10 Big Ass Beer Tubes	$15 Big Ass Long Island Tubes	552 State Street, Madison, WI									
-*****Thursday*****															
-none	0	0	0												
-Amy's Cafe	43.07453	-89.39407	$2 rails (9pm-close)	414 West Gilman Street, Madison, WI											
-Blue Velvet	43.07436	-89.39437	$2 rails and domestic bottles until midnight	430 West Gilman Street, Madison, WI											
-Brickhouse BBQ	43.07396	-89.3931	Captain Malibu or Bacardi $3 single $5.50 double	$3 Ale Asylum pints	$10 bucket Rolling Rock tall boys	408 West Gorham Street Madison, WI									
-Brocach Irish Pub	43.07347	-89.38343	Happy Hour Specials: (3-6pm and 10-close)	$3 Capital Seasonal beer	$6.50 pint of Guinness and shot of Powers	$4.25 pint Murphy's Stout	$5 glass of wine	1/2 off whiskey and scotch ($7-$12)	$5 Stoli Doli martinis	7 West Main Street, Madison, WI					
-Brother's	43.07339	-89.39757	$2.50 vodka-Red Bulls and Jack mixers	Mug Club ($5 first drink) $1/$2 refills	704 University Avenue, Madison, WI										
-Buckingham's	43.0677	-89.39957	Team Trivia at 7pm	$5.50 domestic pitchers	$3 Long Islands	Hammertime (9pm-11pm):	$1  rails and Chevy Nova shots	$1 Coors Light bullets	$2 bartender's choice bombs	802 Regent Street Madison, WI					
-Chaser's	43.07426	-89.39227	$3 rail mixers and ALL taps (3pm-9pm)	$6 ALL pitchers (3pm-9pm)	$5 Jumbo you-call-its (9pm-close)	$2.50 domestic bottles (9pm-close)	$1 off burgers	$5 pitchers Bud Light 9pm-11pm	319 West Gorham Street, Madison, WI						
-Church Key	43.07353	-89.39705	Specials from 7pm to close:	$3 Lemon Drop shots	$3.50 Tully mixers	$3.50 Bacardi	$3 Pinnacle mixers	$2 pitchers of Bud Light (7pm-midnight)	626 University Avenue, Madison, WI						
-The City	43.07488	-89.39572	1/2 off pitchers	$3 pints	Specials on City infused vodkas	636 State Street, Madison, WI									
-Echo Tap	43.06819	-89.39142	$4 Captain mixers	Trivia at 9pm	Happy Hour 3-8pm:	$0.75 off all drinks	$5 Cocktail menu drinks	554 West Main Street, Madison, WI							
-Essen Haus	43.07624	-89.37653	$3.50 pints, rails, and glasses of wine	$4.50 Half liters	$17 2-Liter Boots (9pm-close)	514 East Wilson St, Madison, WI									
-The Great Dane	43.07453	-89.38002	Happy Hour 4-6pm	123 E Doty St # 1, Madison, WI											
-Hawk's	43.07461	-89.39272	Iced Tea Night	$6 bomb bottles	425 State Street, Madison, WI										
-Ivory Room	43.0743	-89.38709	$3 Skyy vodka mixers	$3.50 Hopalicious taps	116 West Mifflin Street, Madison, WI										
-Johnny O's	43.07338	-89.39677	$3.50 off all pitchers	622 University Ave, Madison, WI											
-Jordan's Big Ten	43.06788	-89.40829	$1 domestic taps	$2-2.50 micro taps	$3 swampwaters	$4 Jack pints	1330 Regent St, Madison, WI								
-Kollege Klub	43.07565	-89.39713	Beer Pong and PlinKKo night	$2 pints	$3 Stoli & Jack mixers	$4 bombs	$5 Bud Light pitchers	529 North Lake Street, Madison, WI							
-Lava Lounge	43.07344	-89.39526	Bartender's choice	461 West Gilman Street, Madison, WI											
-The Library	43.07303	-89.40943	$3 Mount Gay mixers (7pm-close)	$3.50 double Captain mixers (7pm-close)	$2 Tall Boys (4pm-close)	40 cent wings (4pm-10pm)	320 North Randall Avenue, Madison, WI								
-Logan's	43.07415	-89.39132	$4 mugs of PBR	$3 bombs	$2 LIT's	2 for 1 pizzas (until 10pm)	$1 cheese pizzas	*specials may vary by bartender*	322 West Johnson Street, Madison, WI						
-Lucky's	43.0677	-89.41017	$1 taps of High Life	$1 corndogs	$3 Long Islands	$2.50 Doctor shots	$1 rails (11pm-midnight)	2 for 1 rails (midnight-1am)	1421 Regent St, Madison, WI						
-MacKesey's Irish Pub	43.07471	-89.39086	$2 Coors Light, Miller Lite, & Esser's Best	$2 rails	$2.25 Domestic bottles	$3.25 Micro taps	$4 Import taps	317 State Street, Madison, WI							
-Madhatter's	43.07459	-89.39249	$5 domestic pitchers (9pm-12pm)	$2 double Long Islands	322 West Gorham Street, Madison, WI										
-Madison's	43.07465	-89.38062	Happy Hour (4-7pm)	$3 taps	$3 rail drinks	$3 House wine	25% off any appetizer	119 King St., Madison, WI							
-Moe's Tavern	43.07474	-89.38659	$4 Moe's bombs	1/2 off Frida's famous margaritas	118 State Street, Madison, WI										
-Monday's	43.07459	-89.39463	$1 taps until 10pm	$3 rail mixers (9pm-close)	523 State Street, Madison, WI										
-Nitty Gritty	43.07186	-89.39572	Power Hour (10pm-11pm):	$1.25 rail mixers	$1 Michelob Golden Light taps	$2.25 Drop shots	Daily Specials (9pm-close):	$2.50 Captain and 3 Olives mixers	$3 Labatt Blue 16oz cans	$3 Jameson shots	223 N Frances St, Madison, WI				
-The Old Fashioned	43.07611	-89.38386	2 for 1 rails and taps (3-5pm & 10-midnight)	Beer of the month special	23 North Pinckney Street, Madison, WI										
-Opus Lounge	43.07486	-89.38091	1/2 off taps	25% off drinks and food (4:30-7pm)	116 King St. Madison, WI										
-Paul's Club	43.07487	-89.38856	$2 PBR cans	$3.50 Magic Hats	212 State Street, Madison, WI										
-Plan B	43.08006	-89.36892	Live DJ	$4 Long Islands	$3 Three Olives mixers	924 Williamson Street  Madison, WI									
-The Plaza	43.0753	-89.39044	$2 Long Islands	$2.50 Spaten and Red Hook pints	319 N Henry St, Madison, WI										
-Red Shed	43.07356	-89.39595	1/2 off all tap beer	$2.50 Bacardi highballs	$7 JUMBO Long Islands	406 North Frances Street, Madison, WI									
-Regent Street Retreat	43.06785	-89.40647	$10 all-you-can-drink (10pm-midnight)	$4 Long Islands	1206 Regent Street, Madison, WI										
-Sotto	43.07486	-89.39004	$2 Margaritas	$2 Long Islands	$2 Bud Light Limes	DJ and dancing	303 N Henry St. Madison, WI								
-Stadium Bar	43.06961	-89.40972	$1 off drinks (3-7pm)	$3.50 Irish Coffees	$3 Coors Light silos	$3 Pinnacle mixers	1419 Monroe Street, Madison, WI								
-State Street Brats	43.07488	-89.39601	5 for $5 domestics, rails, mixed shots (9-10pm)	4 for $5 (10-11pm)	3 for $5 (11pm-midnight)	2 for $5 (12-1am)	Beer stock exchange	603 State Street, Madison, WI							
-Tiki Shack	43.07504	-89.38738	2 for 1 Mai Tais	122 State Street, Madison, WI											
-Up North	43.07716	-89.37696	$2.50 Seagrams 7 mixers	$2.50 Leinies bottles	$4 Central Waters Mudpuppy Porter pints	150 South Blair Street, Madison, WI									
-The Vintage	43.07299	-89.39551	$1 PBR, Schlitz, and Bud Light taps	$2 Russian Standard vodka mixers	$2 Chicken, beef, & fish tacos (3-10pm)	529 University Avenue, Madison, WI									
-Wando's	43.07339	-89.39593	Red Solo Cup Progressive Specials:	9-10pm $.50 Coors $1.50 mixers	10-11pm $1 Coors $2 rails	11-12pm $1.50 Coors $2.50 rails	$2 Coors $3 rails until close	$4 jumbo Captains and jumbo Jacks	$15 Fishbowls	602 University Avenue, Madison, WI					
-Whiskey Jack's	43.07514	-89.39483	$2 Domestic bottles	$3 Martinis	$3 Tall Absolut and Jameson drinks	552 State Street, Madison, WI									
-*****Friday*****															
-none	0	0	0												
-Amy's Cafe	43.07453	-89.39407	Fish Fry $6.50	414 West Gilman Street, Madison, WI											
-Blue Velvet	43.07436	-89.39437	$4 PBR 24oz Silos	$2 shot specials	430 West Gilman Street, Madison, WI										
-Brickhouse BBQ	43.07396	-89.3931	Absolut mixers $4 single $7.50 double	$3.50 Jameson shots $4 honey shots	$2.50 New Glarus taps	408 West Gorham Street Madison, WI									
-Brocach Irish Pub	43.07347	-89.38343	all you can eat Fish Fry $15	Happy Hour Specials: (3-6pm and 10-close)	$6.50 pint of Guinness and shot of Powers	$4.25 pint Murphy's Stout	$5 glass of wine	1/2 off whiskey and scotch ($7-$12)	$5 Stoli Doli martinis	7 West Main Street, Madison, WI					
-Brother's	43.07339	-89.39757	$2 Jager and Cherry bombs	$3 Three Olives mixers	$4 Three Olives vodka redbulls	$3.25 domestic bottles	$1.50 you-call-its 9pm-11pm	$3 High Life pitchers (4pm-9pm)	704 University Avenue, Madison, WI						
-Buckingham's	43.0677	-89.39957	$3.50 Corona bottles	$3.50 Captain and coke mixers (16oz)	Hammertime (9pm-11pm):	$1  rails and Chevy Nova shots	$1 Coors Light bullets	$2 bartender's choice bombs	802 Regent Street Madison, WI						
-Chaser's	43.07426	-89.39227	$2 taps (3pm-9pm)	$4 pitchers Busch and Rolling Rock (3pm-9pm)	$5 pitchers of Bud Light (3pm-11pm)	Wheel n Deal night (9pm-close)	319 West Gorham Street, Madison, WI								
-Church Key	43.07353	-89.39705	$3 pitchers Bud Light with student ID (2-5pm)	Specials from 9pm to close:	$3 Long Islands	$4 Captain	$3.50 3 Olives mixers	$3.50 Benchmark mixers	$2.50 house shot	626 University Avenue, Madison, WI					
-The City	43.07488	-89.39572	$4 PBR pitchers (3pm-9pm)	$3 rails	$4 Skyyscrapers (the blue one)	$4 Highrises (the red one)	636 State Street, Madison, WI								
-Echo Tap	43.06819	-89.39142	Fish Fry	Happy Hour 3-8pm:	$0.75 off all drinks	$5 Cocktail menu drinks	554 West Main Street, Madison, WI								
-Essen Haus	43.07624	-89.37653	$7.50 Beer Bongs ($5 refills)	$8.50 mixer Bongs (7.50 refills)	$16 Fishbowls ($15 refills)	514 East Wilson St, Madison, WI									
-The Great Dane	43.07453	-89.38002	Happy Hour 4-6pm	Student ID special 9pm-close	123 E Doty St # 1, Madison, WI										
-Hawk's	43.07461	-89.39272	$6 bomb bottles	425 State Street, Madison, WI											
-Ivory Room	43.0743	-89.38709	$3 Sweet Tea vodka and lemonades	$5 sangria/$15 sangria pitchers	$3.50 Hopalicious pints	$2 Wonder shots	116 West Mifflin Street, Madison, WI								
-Johnny O's	43.07338	-89.39677	$2.50 SoCo Lime shots	$3.50 Captain mixers	$6 Leinies pitcher	622 University Ave, Madison, WI									
-Jordan's Big Ten	43.06788	-89.40829	2 for 1 Bud Light taps	$3 Long Islands 	$3 martini of the week	Friday fish fry	1330 Regent St, Madison, WI								
-Kollege Klub	43.07565	-89.39713	$4 Jumbo Long Islands	$4 Stoli mixers	$4 Jack mixers	529 North Lake Street, Madison, WI									
-Lava Lounge	43.07344	-89.39526	$3.50 Tall Boys	$3 Long Islands	461 West Gilman Street, Madison, WI										
-The Library	43.07303	-89.40943	$3.25 Long Islands (4pm-close)	$2 domestics (9pm-close)	$8 Spotted Cow pitchers (4-7pm)	320 North Randall Avenue, Madison, WI									
-Logan's	43.07415	-89.39132	Friday after class specials (4pm-10pm):	$2 domestic pints	$2 rail mixers	$3 burger (10oz) with chips	$2 select shots	2 for 1 jello shots	$1 cheese pizzas	*specials may vary by bartender*	322 West Johnson Street, Madison, WI				
-Lucky's	43.0677	-89.41017	Fish Fry!	$3 Leinies pints	$2.5o Captain Crunch shots	$4 Old Fashions	$1 rails (11pm-midnight)	2 for 1 rails (midnight-1am)	1421 Regent St, Madison, WI						
-MacKesey's Irish Pub	43.07471	-89.39086	$4 Flavored rum and vodka bombs	$5 Irish Car Bombs	317 State Street, Madison, WI										
-Madhatter's	43.07459	-89.39249	$6 Pinnacle mixers	$5 domestic pitchers (9pm-12pm)	322 West Gorham Street, Madison, WI										
-Madison's	43.07465	-89.38062	Happy Hour (4-7pm)	$3 taps	$3 rail drinks	$3 House wine	25% off any appetizer	119 King St., Madison, WI							
-Moe's Tavern	43.07474	-89.38659	$4 Moe's bombs	$1 sliders 3-6pm	$5 Duff pitchers 3pm-close	118 State Street, Madison, WI									
-Monday's	43.07459	-89.39463	$1 taps till 10pm	523 State Street, Madison, WI											
-Nitty Gritty	43.07186	-89.39572	Power Hour (10pm-11pm):	$1.25 rail mixers	$1 Michelob Golden Light taps	$2.25 Drop shots	Daily Specials (9pm-close):	2 for 1 Bud Light bottles and pints	$4 Jumbo Long Island and Long Beach	223 N Frances St, Madison, WI					
-The Old Fashioned	43.07611	-89.38386	Beer of the month special	23 North Pinckney Street, Madison, WI											
-Opus Lounge	43.07486	-89.38091	25% off drinks and food (4:30-7pm)	116 King St. Madison, WI											
-Paul's Club	43.07487	-89.38856	$2 PBR cans	$3.50 Magic Hats	212 State Street, Madison, WI										
-Plan B	43.08006	-89.36892	Live DJ	$3 Bacardi mixers	924 Williamson Street  Madison, WI										
-The Plaza	43.0753	-89.39044	$2.50 rail mixers	319 N Henry St, Madison, WI											
-Red Shed	43.07356	-89.39595	$7 JUMBO Long Islands	406 North Frances Street, Madison, WI											
-Regent Street Retreat	43.06785	-89.40647	Pool Tourney @ 7:30pm	$3 Bacardi mixers	$3 jager bombs	$2 High Life bottles	1206 Regent Street, Madison, WI								
-Sotto	43.07486	-89.39004	$4.50 Pinacle flavored vodka mixers	DJ and dancing	303 N Henry St. Madison, WI										
-Stadium Bar	43.06961	-89.40972	$1 off drinks (3-7pm)	1419 Monroe Street, Madison, WI											
-State Street Brats	43.07488	-89.39601	4pm-9pm specials:	$2 pints, $6 pitchers, $7 boots Leinies	9pm-close specials:	$4.50 Absolut, Jameson, Bacardi double mixers	603 State Street, Madison, WI								
-Tiki Shack	43.07504	-89.38738	2 for 1 Rum Punches	122 State Street, Madison, WI											
-Up North	43.07716	-89.37696	$2.50 Corona bottles	$2.50 Jeremiah Weed mixers	$4 Lagunitas IPA pints	150 South Blair Street, Madison, WI									
-The Vintage	43.07299	-89.39551	$1 off Vintage Brewing Co Beer (8pm-close)	529 University Avenue, Madison, WI											
-Wando's	43.07339	-89.39593	$5 Jumbo Russian Standard mixers	$7 pitchers Bud Light	Fish Fry 11am-10pm	602 University Avenue, Madison, WI									
-Whiskey Jack's	43.07514	-89.39483	Live Music	552 State Street, Madison, WI											
-*****Saturday*****															
-none	0	0	0												
-Amy's Cafe	43.07453	-89.39407	(no specials today)	414 West Gilman Street, Madison, WI											
-Blue Velvet	43.07436	-89.39437	$4 PBR 24oz Silos	$2 shot specials	430 West Gilman Street, Madison, WI										
-Brickhouse BBQ	43.07396	-89.3931	$10 buckets of Bud silos	$3 taps Stella, New Glarus, Hoegaarden	$3.50 Jameson shots $4 honey shots	$5.50 Three Olives and Monster	408 West Gorham Street Madison, WI								
-Brocach Irish Pub	43.07347	-89.38343	Happy Hour Specials: (3-6pm and 10-close)	$3 Capital Seasonal beer	$6.50 pint of Guinness and shot of Powers	$4.25 pint Murphy's Stout	$5 glass of wine	1/2 off whiskey and scotch ($7-$12)	$5 Stoli Doli martinis	7 West Main Street, Madison, WI					
-Brother's	43.07339	-89.39757	$2 Jager and Cherry bombs	$3 Three Olives mixers	$3.75 Three Olives vodka redbulls	$3.25 domestic bottles	$1.50 you-call-its 9pm-11pm	$3 High Life pitchers (4pm-9pm)	704 University Avenue, Madison, WI						
-Buckingham's	43.0677	-89.39957	$10 Bucket domestic bottles (4)	$3 Three Olives mixers (16oz)	Hammertime (9pm-11pm):	$1  rails and Chevy Nova shots	$1 Coors Light bullets	$2 bartender's choice bombs	802 Regent Street Madison, WI						
-Chaser's	43.07426	-89.39227	Specials from open-9pm:	$6 Goose Island pitchers	$5 Jumbo Screwdrivers and Bloody Marys	Specials from 9pm-close:	$4 shot and a beer	$5.50 Bomb and beer	319 West Gorham Street, Madison, WI						
-Church Key	43.07353	-89.39705	Specials from 9pm to close:	$3 Bud Light pint and House shot	$3 Long Islands	$3 Svedka	$3.50 Bacardi	$4 Jack Daniels	626 University Avenue, Madison, WI						
-The City	43.07488	-89.39572	$2.50 Bud Light bottles	$4 Skyyscrapers (the blue one)	$4 Highrises (the red one)	636 State Street, Madison, WI									
-Echo Tap	43.06819	-89.39142	$4 Captain mixers	Happy Hour 3-8pm:	$0.75 off all drinks	$5 Cocktail menu drinks	554 West Main Street, Madison, WI								
-Essen Haus	43.07624	-89.37653	$7.50 Beer Bongs ($5 refills)	$8.50 mixer Bongs (7.50 refills)	$16 Fishbowls ($15 refills)	514 East Wilson St, Madison, WI									
-The Great Dane	43.07453	-89.38002	(no specials today)	123 E Doty St # 1, Madison, WI											
-Hawk's	43.07461	-89.39272	$6 bomb bottles	425 State Street, Madison, WI											
-Ivory Room	43.0743	-89.38709	$3 Sweet Tea vodka and lemonades	$5 sangria/$15 sangria pitchers	$3.50 Capital Winter Skal pints	116 West Mifflin Street, Madison, WI									
-Johnny O's	43.07338	-89.39677	$3 Pinnacle vodka mixers	$3 rail vodka mixers	$6 pitchers of Leinies	622 University Ave, Madison, WI									
-Jordan's Big Ten	43.06788	-89.40829	$4 Skyy and Skyy flavor pints	11am-1pm	$5 pitchers of Bud Light	$5 bucket of 6 domestic shorties	$3 mimosa	$4 Bloody Mary's	1330 Regent St, Madison, WI						
-Kollege Klub	43.07565	-89.39713	$4 Jumbo Long Islands	$4 Stoli mixers	$4 Jack mixers	529 North Lake Street, Madison, WI									
-Lava Lounge	43.07344	-89.39526	$3.50 Tall Boys	$3 Long Islands	461 West Gilman Street, Madison, WI										
-The Library	43.07303	-89.40943	$3 Jack mixers (7pm-close)	$2.50 Tall Boys (7pm-close)	320 North Randall Avenue, Madison, WI										
-Logan's	43.07415	-89.39132	$2 PBR Tall Boys until 11pm	$1 cheese pizzas	*specials may vary by bartender*	322 West Johnson Street, Madison, WI									
-Lucky's	43.0677	-89.41017	Bucket Race Night	$10 Buckets	$3 Captain Lime bite-a-ritas	$3 SoCo Lime shots	$1 rails (11pm-midnight)	2 for 1 rails (midnight-1am)	1421 Regent St, Madison, WI						
-MacKesey's Irish Pub	43.07471	-89.39086	(no specials today)												
-Madhatter's	43.07459	-89.39249	$6 Pinnacle mixers	$5 domestic pitchers (9pm-12pm)	322 West Gorham Street, Madison, WI										
-Madison's	43.07465	-89.38062	(no specials today)	119 King St., Madison, WI											
-Moe's Tavern	43.07474	-89.38659	Karaoke 10pm-2am (free shot if you sing)	$4 Moe's Bombs	$4 Double UV mixers	Moe's Awesome Hour (10pm-11pm): 	2 for 1 rails, taps, calls	118 State Street, Madison, WI							
-Monday's	43.07459	-89.39463	(no specials today)	523 State Street, Madison, WI											
-Nitty Gritty	43.07186	-89.39572	Power Hour (10pm-11pm):	$1.25 rail mixers	$1 Michelob Golden Light taps	$2.25 Drop shots	Daily Specials (9pm-close):	$2.50 Three Olives mixers	$3 Leinies pints and batch 19	223 N Frances St, Madison, WI					
-The Old Fashioned	43.07611	-89.38386	Beer of the month special	23 North Pinckney Street, Madison, WI											
-Opus Lounge	43.07486	-89.38091	(no specials today)	116 King St. Madison, WI											
-Paul's Club	43.07487	-89.38856	$2 PBR cans	$3.50 Magic Hats	212 State Street, Madison, WI										
-Plan B	43.08006	-89.36892	Resident DJs	$4.50 Jack mixers	924 Williamson Street  Madison, WI										
-The Plaza	43.0753	-89.39044	$2.50 domestic bottles	319 N Henry St, Madison, WI											
-Red Shed	43.07356	-89.39595	$7 JUMBO Long Islands	406 North Frances Street, Madison, WI											
-Regent Street Retreat	43.06785	-89.40647	$3 Three Olive mixers	$3 Monster mixers	$10 all-you-can-drink (10pm-midnight)	1206 Regent Street, Madison, WI									
-Sotto	43.07486	-89.39004	$4.50 Jack Daniels and Jameson mixers	DJ and dancing	303 N Henry St. Madison, WI										
-Stadium Bar	43.06961	-89.40972	$1 off drinks (3-7pm)	1419 Monroe Street, Madison, WI											
-State Street Brats	43.07488	-89.39601	4pm-9pm specials:	Pabst $2 pints $5 pitchers	9pm-close specials:	$4.50 Rosebowls, LITs, and Double Tall Skyy Flavors	603 State Street, Madison, WI								
-Tiki Shack	43.07504	-89.38738	2 for 1 Bahama Mamas	122 State Street, Madison, WI											
-Up North	43.07716	-89.37696	$1 off all taps	$3 Absolut and Stoli mixers	$4 Bomb shots	150 South Blair Street, Madison, WI									
-The Vintage	43.07299	-89.39551	Bloody Mary Bar (9am-noon)	$1 off Vintage Brewing beer (8pm-close)	529 University Avenue, Madison, WI										
-Wando's	43.07339	-89.39593	$5 Jumbo Russian Standard mixers	$3.50 PBR drafts	602 University Avenue, Madison, WI										
-Whiskey Jack's	43.07514	-89.39483	Live Music	552 State Street, Madison, WI											
+*****Sunday*****											
+none	0	0	0								
+Amy's Cafe	43.07453	-89.39407	(no specials today)	414 West Gilman Street, Madison, WI							
+Blue Velvet	43.07436	-89.39437	25% off drinks	430 West Gilman Street, Madison, WI							
+Brickhouse BBQ	43.07396	-89.3931	$5 Bloody Mary with Spotted Cow chaser	$5.75 Bud Light pitcher	408 West Gorham Street Madison, WI						
+Brocach Irish Pub	43.07347	-89.38343	Trivia at 8pm	Happy Hour Specials: (3-6pm and 10-close)	$3 Capital Seasonal beer	$6.50 pint of Guinness and shot of Powers	$4.25 pint Murphy's Stout	$5 glass of wine	1/2 off whiskey and scotch ($7-$12)	$5 Stoli Doli martinis	7 West Main Street, Madison, WI
+Brother's	43.07339	-89.39757	(closed)	704 University Avenue, Madison, WI							
+Buckingham's	43.0677	-89.39957	$3 Bloody Marys and Screwdrivers	$2 Domestic taps	Hammertime (9pm-11pm):	$1  rails and Chevy Nova shots	$1 Coors Light bullets	$2 bartender's choice bombs	802 Regent Street Madison, WI		
+Chaser's	43.07426	-89.39227	Specials from 3pm-9pm	$5 Jumbo screwdrivers and bloody marys	$6 Goose Island pitchers	$4 Mimosas	$8 Pitchers New Belgium	319 West Gorham Street, Madison, WI			
+Church Key	43.07353	-89.39705	NFL Sunday ticket	$3 all taps	$4 Bloody Marys, Cruzan Rum	$5 vodka redbull	$4 pitchers of Bud Light	$5 pitchers Central Waters red	626 University Avenue, Madison, WI		
+The City	43.07488	-89.39572	$3 Three Olive mixers	$2.50 Beer of the month	(open from 5pm until bar close)	636 State Street, Madison, WI					
+Echo Tap	43.06819	-89.39142	Hospitality night	Happy Hour 3-8pm:	$0.75 off all drinks	$5 Cocktail menu drinks	554 West Main Street, Madison, WI				
+Essen Haus	43.07624	-89.37653	$3.50 pints, rails, and glasses of wine	$4.50 Half liters	514 East Wilson St, Madison, WI						
+The Great Dane	43.07453	-89.38002	(no specials today)	123 E Doty St # 1, Madison, WI							
+Hawk's	43.07461	-89.39272	Iced Tea Night	$6 bomb bottles	425 State Street, Madison, WI						
+Ivory Room	43.0743	-89.38709	(closed)	116 West Mifflin Street, Madison, WI							
+Johnny O's	43.07338	-89.39677	(closed)	622 University Ave, Madison, WI							
+Jordan's Big Ten	43.06788	-89.40829	$4 Bloody Mary's	$3 mimosas	Buckets of shorties	1330 Regent St, Madison, WI					
+Kollege Klub	43.07565	-89.39713	Bring your own mug under 24 oz for:	$1 ANY tap	$2 call mixed shot	$3 call mixers	529 North Lake Street, Madison, WI				
+Lava Lounge	43.07344	-89.39526	Bartender's choice	461 West Gilman Street, Madison, WI							
+The Library	43.07303	-89.40943	NFL Sunday ticket	320 North Randall Avenue, Madison, WI							
+Logan's	43.07415	-89.39132	$1 cheese pizzas	*specials may vary by bartender*	322 West Johnson Street, Madison, WI						
+Lucky's	43.0677	-89.41017	$3.50 micro taps	$4 Absolut Monsters	$2.50 Jamo shots	$1 rails (11pm-midnight)	2 for 1 rails (midnight-1am)	1421 Regent St, Madison, WI			
+MacKesey's Irish Pub	43.07471	-89.39086	$2 rails	$2 Miller Lite, Coors Light, & Esser's Best	$2.50 Spotted Cow	$3 Capital beers	317 State Street, Madison, WI				
+Madhatter's	43.07459	-89.39249	(closed)	322 West Gorham Street, Madison, WI							
+Madison's	43.07465	-89.38062	(closed)	119 King St., Madison, WI							
+Moe's Tavern	43.07474	-89.38659	$4 Moe's bombs	118 State Street, Madison, WI							
+Monday's	43.07459	-89.39463	$3 doubles	$4 domestic pitchers	523 State Street, Madison, WI						
+Nitty Gritty	43.07186	-89.39572	$3 Bloody Marys	$6 domestic pitchers	$10 premium pitchers	Trivia at 8pm and Karaoke at 10pm	Power Hour (10pm-11pm):	$1.25 rail mixers	$1 Michelob Golden Light taps	$2.25 Drop shots	223 N Frances St, Madison, WI
+The Old Fashioned	43.07611	-89.38386	Beer of the month special	23 North Pinckney Street, Madison, WI							
+Opus Lounge	43.07486	-89.38091	1/2 off bottles of wine	116 King St. Madison, WI							
+The Paradise Lounge	43.07241	-89.38483	$2.75 Long Islands, Swamp Waters, Alabama Slammers	$3 Red Stripe	119 W Main St. Madison, WI						
+Paul's Club	43.07487	-89.38856	(no specials today)	212 State Street, Madison, WI							
+Plan B	43.08006	-89.36892	$2 PBRs	$3 Three Olive mixers	Trivia Night 7:30pm	924 Williamson Street  Madison, WI					
+The Plaza	43.0753	-89.39044	(closed)	319 N Henry St, Madison, WI							
+Red Shed	43.07356	-89.39595	(no specials today)	406 North Frances Street, Madison, WI							
+Regent Street Retreat	43.06785	-89.40647	(no specials today)	1206 Regent Street, Madison, WI							
+Sotto	43.07486	-89.39004	(closed)	303 N Henry St. Madison, WI							
+Stadium Bar	43.06961	-89.40972	$1 off drinks (3-7pm)	1419 Monroe Street, Madison, WI							
+State Street Brats	43.07488	-89.39601	$4.50 Big Beers	$5 Absolut Bloody Marys	603 State Street, Madison, WI						
+Tiki Shack	43.07504	-89.38738	(closed)	122 State Street, Madison, WI							
+Up North	43.07716	-89.37696	$4 Bloody Mary's	$2 Grab Bag Special	150 South Blair Street, Madison, WI						
+The Vintage	43.07299	-89.39551	Bloody Mary Bar (9am-noon)	$1 taps of PBR (3pm-close)	$2 rail mixers (3pm-close)	529 University Avenue, Madison, WI					
+Wando's	43.07339	-89.39593	$2 taps of Bud Light, Miller Lite, Coors Lite	$4 Jumbo Jack or Ketel One mixers	602 University Avenue, Madison, WI						
+Whiskey Jack's	43.07514	-89.39483	$4 bomb shots	$2 drinks	552 State Street, Madison, WI						
+*****Monday*****											
+none	0	0	0								
+Amy's Cafe	43.07453	-89.39407	$2 rails	$6 PBR pitchers	$2 Schlitz tall boys	414 West Gilman Street, Madison, WI					
+Blue Velvet	43.07436	-89.39437	$3 Tap beers	430 West Gilman Street, Madison, WI							
+Brickhouse BBQ	43.07396	-89.3931	Stag Party Cherry Cokes $4 single $7.50 double	$2.50 Capital pints	408 West Gorham Street Madison, WI						
+Brocach Irish Pub	43.07347	-89.38343	Happy Hour Specials: (3-6pm and 10-close)	$3 Capital Seasonal beer	$6.50 pint of Guinness and shot of Powers	$4.25 pint Murphy's Stout	$5 glass of wine	1/2 off whiskey and scotch ($7-$12)	$5 Stoli Doli martinis	7 West Main Street, Madison, WI	
+Brother's	43.07339	-89.39757	$1.50 you-call-its	$3 double rail, Jack, or SoCo mixer 16oz Mason Jars	704 University Avenue, Madison, WI						
+Buckingham's	43.0677	-89.39957	$2 off Coors Light pitchers	2 for 1 rails	Hammertime (9pm-11pm):	$1  rails and Chevy Nova shots	$1 Coors Light bullets	$2 bartender's choice bombs	802 Regent Street Madison, WI		
+Chaser's	43.07426	-89.39227	$2 domestic taps (open-9pm)	$3 pitchers (open-9pm)	$4 PBR pitchers (open-9pm)	50 cent taps (9pm-close)	$3 rails, vodka redbulls, & Three Olives (9pm-close)	all you can eat wings and fries	$5 pitchers Bud Light 9pm-11pm	319 West Gorham Street, Madison, WI	
+Church Key	43.07353	-89.39705	Specials from 7pm to close:	$2 pints on tap	$2 rails	2 for $4 Bud Cans	$3 Pinnacle mixers	626 University Avenue, Madison, WI			
+The City	43.07488	-89.39572	Trivia at 8:30pm	$3 Svedka mixers	$3 Wisconsin taps	$9 pitchers	636 State Street, Madison, WI				
+Echo Tap	43.06819	-89.39142	$5 pitchers of Miller High Life & Berghoff	Happy Hour 3-8pm:	$0.75 off all drinks	$5 Cocktail menu drinks	554 West Main Street, Madison, WI				
+Essen Haus	43.07624	-89.37653	(closed)	514 East Wilson St, Madison, WI							
+The Great Dane	43.07453	-89.38002	Happy Hour 4-6pm	123 E Doty St # 1, Madison, WI							
+Hawk's	43.07461	-89.39272	Pitcher Night	$6 bomb bottles	425 State Street, Madison, WI						
+Ivory Room	43.0743	-89.38709	(closed)	116 West Mifflin Street, Madison, WI							
+Johnny O's	43.07338	-89.39677	(closed)	622 University Ave, Madison, WI							
+Jordan's Big Ten	43.06788	-89.40829	$1 rails	60 cent tacos (6pm till they're gone)	1330 Regent St, Madison, WI						
+Kollege Klub	43.07565	-89.39713	(closed)	529 North Lake Street, Madison, WI							
+Lava Lounge	43.07344	-89.39526	Bartender's choice	461 West Gilman Street, Madison, WI							
+The Library	43.07303	-89.40943	$3 Jim Beam mixers (7pm-close)	$2 domestics (9pm-close)	320 North Randall Avenue, Madison, WI						
+Logan's	43.07415	-89.39132	Monday Movie Night	$3 you-call-its	$1 hot dogs	$1 cheese pizzas	*specials may vary by bartender*	322 West Johnson Street, Madison, WI			
+Lucky's	43.0677	-89.41017	50 cent wings	$13 domestic silos	$3 Bacardi mixers	$4 bomb shots	$1 rails (11pm-midnight)	2 for 1 rails (midnight-1am)	1421 Regent St, Madison, WI		
+MacKesey's Irish Pub	43.07471	-89.39086	$2 Domestic bottles	$2.25 Leinenkugel's	Top shelf mixers at rail price	317 State Street, Madison, WI					
+Madhatter's	43.07459	-89.39249	$2 micro taps and bottles	$2 bombs	322 West Gorham Street, Madison, WI						
+Madison's	43.07465	-89.38062	$5 Burger and fries	Happy Hour (4-7pm)	$3 taps	$3 rail drinks	$3 House wine	25% off any appetizer	119 King St., Madison, WI		
+Moe's Tavern	43.07474	-89.38659	$4 Moe's bombs	1/2 off Frida's famous margaritas	118 State Street, Madison, WI						
+Monday's	43.07459	-89.39463	$2 taps	$2 rails all night	523 State Street, Madison, WI						
+Nitty Gritty	43.07186	-89.39572	Power Hour (10pm-11pm):	$1.25 rail mixers	$1 Michelob Golden Light taps	$2.25 Drop shots	Daily Specials (9pm-close):	$3 Goose Island or Sam Adams	$2.50 UV vodka mixers	$2 Washington Apple shots	223 N Frances St, Madison, WI
+The Old Fashioned	43.07611	-89.38386	2 for 1 rails and taps (3-5pm & 10-midnight)	Beer of the month special	23 North Pinckney Street, Madison, WI						
+Opus Lounge	43.07486	-89.38091	2 for 1 Champagne cocktails	25% off drinks and food (4:30-7pm)	116 King St. Madison, WI						
+The Paradise Lounge	43.07241	-89.38483	$2 Pabst Tall Boys and Mickey's	$0.50 off all drinks	$2.75 Kettle mixers	119 W Main St. Madison, WI					
+Paul's Club	43.07487	-89.38856	$2 PBR cans	$3.50 Magic Hats	212 State Street, Madison, WI						
+Plan B	43.08006	-89.36892	(closed)	924 Williamson Street  Madison, WI							
+The Plaza	43.0753	-89.39044	$2 rail drinks	$1.50 PBR beers	319 N Henry St, Madison, WI						
+Red Shed	43.07356	-89.39595	$2 High Life bottles	$1.75 top-shelf highballs	$7 JUMBO Long Islands	406 North Frances Street, Madison, WI					
+Regent Street Retreat	43.06785	-89.40647	(closed)	1206 Regent Street, Madison, WI							
+Sotto	43.07486	-89.39004	(closed)	303 N Henry St. Madison, WI							
+Stadium Bar	43.06961	-89.40972	$1 off drinks (3-7pm)	1419 Monroe Street, Madison, WI							
+State Street Brats	43.07488	-89.39601	$2 pints of PBR/High Life/Leinies	$6 pitchers	$7 boots	603 State Street, Madison, WI					
+Tiki Shack	43.07504	-89.38738	(bartender's choice)	122 State Street, Madison, WI							
+Up North	43.07716	-89.37696	$2.50 PBR & Schlitz Tall Boys	$1.50 Labatt Blue & Keystone Light Tall Boys	$3 Jack mixers	150 South Blair Street, Madison, WI					
+The Vintage	43.07299	-89.39551	Specials from 9pm to close	$1 Wisconsin beer taps	$2.50 Vintage brews	529 University Avenue, Madison, WI					
+Wando's	43.07339	-89.39593	$2 Bud Light bottles	$2 rails	$2 Breakfast shots	$2 Badger bowls	602 University Avenue, Madison, WI				
+Whiskey Jack's	43.07514	-89.39483	3 for 1 Rolling Rock cans	$3 Crown Royal, Devil's Cut, & Jameson mixers	(9pm-bar time)	552 State Street, Madison, WI					
+*****Tuesday*****											
+none	0	0	0								
+Amy's Cafe	43.07453	-89.39407	$6 PBR pitchers	414 West Gilman Street, Madison, WI							
+Blue Velvet	43.07436	-89.39437	$5 Martinis	430 West Gilman Street, Madison, WI							
+Brickhouse BBQ	43.07396	-89.3931	Jack mixers $4 single $7.50 double	$3 Lake Louie pints	$10 bucket PBR tall boys	408 West Gorham Street Madison, WI					
+Brocach Irish Pub	43.07347	-89.38343	Happy Hour Specials: (3-6pm and 10-close)	$3 Capital Seasonal beer	$6.50 pint of Guinness and shot of Powers	$4.25 pint Murphy's Stout	$5 glass of wine	1/2 off whiskey and scotch ($7-$12)	$5 Stoli Doli martinis	7 West Main Street, Madison, WI	
+Brother's	43.07339	-89.39757	$1 rails	$2 any tap	2 for 1 Long Islands	704 University Avenue, Madison, WI					
+Buckingham's	43.0677	-89.39957	$2 McGillicudy's shots	$8 Bucket of 6 shorties	Hammertime (9pm-11pm):	$1  rails and Chevy Nova shots	$1 Coors Light bullets	$2 bartender's choice bombs	802 Regent Street Madison, WI		
+Chaser's	43.07426	-89.39227	Trivia 8pm	$3 premium taps and rail mixers (3-9pm)	$6 ALL pitchers (3pm-9pm)	2 for 1 rails and shots (3pm-9pm)	2 taps for $5 (3pm-9pm)	$5 pitchers Bud Light 9pm-11pm	319 West Gorham Street, Madison, WI		
+Church Key	43.07353	-89.39705	Specials from 7pm to close:	$2 pints on tap	$2 rails	2 for $4 Bud Cans	$3 Pinnacle mixers	626 University Avenue, Madison, WI			
+The City	43.07488	-89.39572	$2.50 vodka redbulls	$2 apple pie  and cherry pie shots	$2 domestic bottles and taps	636 State Street, Madison, WI					
+Echo Tap	43.06819	-89.39142	Bartender's choice	Happy Hour 3-8pm:	$0.75 off all drinks	$5 Cocktail menu drinks	554 West Main Street, Madison, WI				
+Essen Haus	43.07624	-89.37653	$3.50 pints, rails, and glasses of wine	$4.50 Half Liters	514 East Wilson St, Madison, WI						
+The Great Dane	43.07453	-89.38002	Happy Hour 4-6pm	123 E Doty St # 1, Madison, WI							
+Hawk's	43.07461	-89.39272	Beer and a shot night	$6 bomb bottles	425 State Street, Madison, WI						
+Ivory Room	43.0743	-89.38709	$3 ALL Wisconsin Beers	$5 wine feature	116 West Mifflin Street, Madison, WI						
+Johnny O's	43.07338	-89.39677	(closed)	622 University Ave, Madison, WI							
+Jordan's Big Ten	43.06788	-89.40829	$1 bottles of PBR and Busch Light	$4 Skyy and Skyy flavor pints	$4 Jack pints	$1.25 Sloppy Joes	1330 Regent St, Madison, WI				
+Kollege Klub	43.07565	-89.39713	2 for 1 on everything	529 North Lake Street, Madison, WI							
+Lava Lounge	43.07344	-89.39526	Bartender's choice	461 West Gilman Street, Madison, WI							
+The Library	43.07303	-89.40943	$3 double rail mixers	8pm Trivia	$2 domestics (9pm-close)	320 North Randall Avenue, Madison, WI					
+Logan's	43.07415	-89.39132	$2 Long Islands	Beer Pong	$2 Two tacos	2 for 1 appetizers	$1 cheese pizzas	*specials may vary by bartender*	322 West Johnson Street, Madison, WI		
+Lucky's	43.0677	-89.41017	Bucket Race Night	$10 buckets of Miller/Coors	$3 Cuervo shots	$6 half ginourmous nachos	$1 rails (11pm-midnight)	2 for 1 rails (midnight-1am)	1421 Regent St, Madison, WI		
+MacKesey's Irish Pub	43.07471	-89.39086	$2.50 Flavored rum and vodka drinks	$3 Import bottles	317 State Street, Madison, WI						
+Madhatter's	43.07459	-89.39249	$1 rails and domestic taps	322 West Gorham Street, Madison, WI							
+Madison's	43.07465	-89.38062	$1 tacos $2 fish tacos $3 margaritas	Happy Hour (4-7pm)	$3 taps	$3 rail drinks	$3 House wine	25% off any appetizer	119 King St., Madison, WI		
+Moe's Tavern	43.07474	-89.38659	$2 you-call-its beers and mixers	$4 Moe's Bombs	Live DJ	118 State Street, Madison, WI					
+Monday's	43.07459	-89.39463	$2 domestic taps	$3 Three Olives mixers	$2 Drop shots	Daily Specials (9pm-close):	$4.50 Jumbo Bacardi mixers	$4.50 Sam Adams pints	$2.50 Rumpleminz shots	523 State Street, Madison, WI	
+Nitty Gritty	43.07186	-89.39572	$2.50 Bacardi mixers	$2.50 Rumpleminz shots	$2.50 Capital pints	Power Hour (10pm-11pm):	$1.25 rail mixers	$1 Michelob Golden Light taps	$2.25 Drop shots	223 N Frances St, Madison, WI	
+The Old Fashioned	43.07611	-89.38386	2 for 1 rails and taps (3-5pm & 10-midnight)	margarita special	Beer of the month special	$3.50 Southern Tier 2x IPA	23 North Pinckney Street, Madison, WI				
+Opus Lounge	43.07486	-89.38091	1/2 off martini flights	25% off drinks and food (4:30-7pm)	116 King St. Madison, WI						
+The Paradise Lounge	43.07241	-89.38483	$1.50 rails and Berghoff bottles	119 W Main St. Madison, WI							
+Paul's Club	43.07487	-89.38856	$2 PBR cans	$3.50 Magic Hats	212 State Street, Madison, WI						
+Plan B	43.08006	-89.36892	(no specials today)	924 Williamson Street  Madison, WI							
+The Plaza	43.0753	-89.39044	$1 off 1/2 pitchers	$2 off pitchers	$2.50 rum mixers	319 N Henry St, Madison, WI					
+Red Shed	43.07356	-89.39595	1/2 off all tap beer	$4 Jager and Cherry bombs	$7 JUMBO Long Islands	406 North Frances Street, Madison, WI					
+Regent Street Retreat	43.06785	-89.40647	$12 for 2 domestic pitchers	$6 pizzas	1206 Regent Street, Madison, WI						
+Sotto	43.07486	-89.39004	$2 Grab Bag Special	303 N Henry St. Madison, WI							
+Stadium Bar	43.06961	-89.40972	$3 Strawberry Infused mixers	$3 Long Islands	$2.50 shots of Doctor	1419 Monroe Street, Madison, WI					
+State Street Brats	43.07488	-89.39601	Flip night (win and get 75% off)	603 State Street, Madison, WI							
+Tiki Shack	43.07504	-89.38738	(bartender's choice)	122 State Street, Madison, WI							
+Up North	43.07716	-89.37696	$2.50 Seagrams 7 mixers	$2 Bud bottles	$4 Spaten Lager pints	150 South Blair Street, Madison, WI					
+The Vintage	43.07299	-89.39551	Specials from 8pm to close	Skirt Night: 50% off everything if you wear a skirt	$2 Bacardi mixers	529 University Avenue, Madison, WI					
+Wando's	43.07339	-89.39593	FREE bacon	$1 cans of Coors Light, PBR, and Miller Lite	$5 Jumbo Absolut mixers	$4 Jumbo rails	602 University Avenue, Madison, WI				
+Whiskey Jack's	43.07514	-89.39483	$5 Mich Golden Light and Bud Light pitchers	$5 Tall Captain, Ketel, and Stoli drinks	552 State Street, Madison, WI						
+*****Wednesday*****											
+none	0	0	0								
+Amy's Cafe	43.07453	-89.39407	$2 Schlitz tall boys	414 West Gilman Street, Madison, WI							
+Blue Velvet	43.07436	-89.39437	$4 jumbo Pinnacle mixers	1/2 off bottles of wine	430 West Gilman Street, Madison, WI						
+Brickhouse BBQ	43.07396	-89.3931	$4 double long islands	$3 Upland & Potosi pints	408 West Gorham Street Madison, WI						
+Brocach Irish Pub	43.07347	-89.38343	Happy Hour Specials: (3-6pm and 10-close)	$3 Capital Seasonal beer	$6.50 pint of Guinness and shot of Powers	$4.25 pint Murphy's Stout	$5 glass of wine	1/2 off whiskey and scotch ($7-$12)	$5 Stoli Doli martinis	7 West Main Street, Madison, WI	
+Brother's	43.07339	-89.39757	$6 for 5 High Life bottles	$1.50 High Life bottles	2 for 1 Bacardi mixers	3 for 1 rails	15 cent wings (9pm until they're gone)	704 University Avenue, Madison, WI			
+Buckingham's	43.0677	-89.39957	$2 cans	$2 bombs	Hammertime (9pm-11pm):	$1  rails and Chevy Nova shots	$1 Coors Light bullets	$2 bartender's choice bombs	802 Regent Street Madison, WI		
+Chaser's	43.07426	-89.39227	3 rails for $5 (9pm-close)	50 cent tacos	$3.75 Corona and Dos Equis bottles	$3.75 Jumbo margaritas	$4 Patron, 1800, and Avion shots	$5 pitchers Bud Light 9pm-11pm	319 West Gorham Street, Madison, WI		
+Church Key	43.07353	-89.39705	Specials from 7pm to close:	FREE darts and popcorn until midnight	$2 house shot	$5 domestic pitchers	$3.50 3 Olives mixers	$3.50 tall Sangrias	$3.50 benchmark mixers	$4 bomb shots	626 University Avenue, Madison, WI
+The City	43.07488	-89.39572	2 for 1 domestic bottles and taps	2 for 1 rail mixers	$1 off everything else	1/2 off burgers until 10pm	636 State Street, Madison, WI				
+Echo Tap	43.06819	-89.39142	$3 microbrew pints	Happy Hour 3-8pm:	$0.75 off all drinks	$5 Cocktail menu drinks	554 West Main Street, Madison, WI				
+Essen Haus	43.07624	-89.37653	$16 Fishbowls ($15 refills)	514 East Wilson St, Madison, WI							
+The Great Dane	43.07453	-89.38002	Happy Hour 4-6pm	123 E Doty St # 1, Madison, WI							
+Hawk's	43.07461	-89.39272	All night is happy hour	$6 bomb bottles	425 State Street, Madison, WI						
+Ivory Room	43.0743	-89.38709	$2.50 Bud Light bottles	$5 Cosmos	116 West Mifflin Street, Madison, WI						
+Johnny O's	43.07338	-89.39677	FREE mini corn dogs with purchase	1/2 off ALL taps & pitchers	Beer Pong	622 University Ave, Madison, WI					
+Jordan's Big Ten	43.06788	-89.40829	$1 taps of PBR	$3 Captain mixers	$3 Malibu mixers	Lake Perch dinner	1330 Regent St, Madison, WI				
+Kollege Klub	43.07565	-89.39713	Beer and shot night	$3 Miller Lite bottles (comes with free shot)	$5 High Life Light pitchers	$4 Jumbo Long Islands	529 North Lake Street, Madison, WI				
+Lava Lounge	43.07344	-89.39526	Bartender's choice	461 West Gilman Street, Madison, WI							
+The Library	43.07303	-89.40943	$3.25 taps (7pm-close)	$2 domestics (9pm-close)	320 North Randall Avenue, Madison, WI						
+Logan's	43.07415	-89.39132	Game Night	$2 domestic pints	$8 Beer buckets (6 mini beers)	25 cent wings	$1 cheese pizzas	*specials may vary by bartender*	322 West Johnson Street, Madison, WI		
+Lucky's	43.0677	-89.41017	Trivia at 8pm	$1 tacos	$2 Bud Light bottles	$2.50 Rumpleminz/Blackhaus shots	$3 Smirnoff mixers	$1 rails (11pm-midnight)	2 for 1 rails (midnight-1am)	1421 Regent St, Madison, WI	
+MacKesey's Irish Pub	43.07471	-89.39086	$3.25 import pints	$3 Irish Whiskey mixers	$4.25 Premium Irish Whiskey mixers	317 State Street, Madison, WI					
+Madhatter's	43.07459	-89.39249	1/2 off rails, bottles and taps	322 West Gorham Street, Madison, WI							
+Madison's	43.07465	-89.38062	50 cent wings	Happy Hour (4-7pm)	$3 taps	$3 rail drinks	$3 House wine	25% off any appetizer	119 King St., Madison, WI		
+Moe's Tavern	43.07474	-89.38659	$4 Moe's bombs	Beat the clock beer night:	8pm $.50	9pm $.75	10pm $1	11pm $1.50	12pm $2	118 State Street, Madison, WI	
+Monday's	43.07459	-89.39463	$3.50 for almost anything	FREE darts	523 State Street, Madison, WI						
+Nitty Gritty	43.07186	-89.39572	Power Hour (10pm-11pm):	$1.25 rail mixers	$1 Michelob Golden Light taps	$2.25 Drop shots	Daily Specials (9pm-close):	$1.50 select domestic cans	$2.50 Doctor shots	223 N Frances St, Madison, WI	
+The Old Fashioned	43.07611	-89.38386	2 for 1 rails and taps (3-5pm & 10-midnight)	Beer of the month special	23 North Pinckney Street, Madison, WI						
+Opus Lounge	43.07486	-89.38091	1/2 off glasses of wine	25% off drinks and food (4:30-7pm)	116 King St. Madison, WI						
+The Paradise Lounge	43.07241	-89.38483	$1.50 PBR and Schlitz bottles	$0.75 off micro/import bottles	119 W Main St. Madison, WI						
+Paul's Club	43.07487	-89.38856	$2 PBR cans	$3.50 Magic Hats	212 State Street, Madison, WI						
+Plan B	43.08006	-89.36892	Karaoke	$2 Bud Light taps (9pm-1am)	$3 Three Olives mixers	924 Williamson Street  Madison, WI					
+The Plaza	43.0753	-89.39044	$3 Jack and Stoli mixers	$2 micro bottles	319 N Henry St, Madison, WI						
+Red Shed	43.07356	-89.39595	$1.25 rail highballs	$2 PBR tall boys	$7 JUMBO Long Islands	406 North Frances Street, Madison, WI					
+Regent Street Retreat	43.06785	-89.40647	$15 for bucket of 5 Ale Asylum bottles	1206 Regent Street, Madison, WI							
+Sotto	43.07486	-89.39004	Student ID Night:	1/2 off taps, rails, and bottles	303 N Henry St. Madison, WI						
+Stadium Bar	43.06961	-89.40972	$1 off drinks (3-7pm)	1419 Monroe Street, Madison, WI							
+State Street Brats	43.07488	-89.39601	$2.25 pints New Glarus	$7 pitchers New Glarus	$8 boots New Glarus	$4 Captain double tall (4pm-9pm)	603 State Street, Madison, WI				
+Tiki Shack	43.07504	-89.38738	(bartender's choice)	122 State Street, Madison, WI							
+Up North	43.07716	-89.37696	$2.50 Bacardi & Captain mixers	$2.50 Heinekein bottles	$4 Hopalicious pints	150 South Blair Street, Madison, WI					
+The Vintage	43.07299	-89.39551	Specials from 8pm to close	2 for 1 PBR cans	$2.50 Pinnacle vodka mixers	$2 sliders (3-10p)	529 University Avenue, Madison, WI				
+Wando's	43.07339	-89.39593	$15 Fishbowls	$2.50 Miller Lite bottles	$4 Jumbo rails	602 University Avenue, Madison, WI					
+Whiskey Jack's	43.07514	-89.39483	$5 Vodka Rockstars and Jager bombs	$10 Big Ass Beer Tubes	$15 Big Ass Long Island Tubes	552 State Street, Madison, WI					
+*****Thursday*****											
+none	0	0	0								
+Amy's Cafe	43.07453	-89.39407	$2 rails (9pm-close)	414 West Gilman Street, Madison, WI							
+Blue Velvet	43.07436	-89.39437	$2 rails and domestic bottles until midnight	430 West Gilman Street, Madison, WI							
+Brickhouse BBQ	43.07396	-89.3931	Captain Malibu or Bacardi $3 single $5.50 double	$3 Ale Asylum pints	$10 bucket Rolling Rock tall boys	408 West Gorham Street Madison, WI					
+Brocach Irish Pub	43.07347	-89.38343	Happy Hour Specials: (3-6pm and 10-close)	$3 Capital Seasonal beer	$6.50 pint of Guinness and shot of Powers	$4.25 pint Murphy's Stout	$5 glass of wine	1/2 off whiskey and scotch ($7-$12)	$5 Stoli Doli martinis	7 West Main Street, Madison, WI	
+Brother's	43.07339	-89.39757	$2.50 vodka-Red Bulls and Jack mixers	Mug Club ($5 first drink) $1/$2 refills	704 University Avenue, Madison, WI						
+Buckingham's	43.0677	-89.39957	Team Trivia at 7pm	$5.50 domestic pitchers	$3 Long Islands	Hammertime (9pm-11pm):	$1  rails and Chevy Nova shots	$1 Coors Light bullets	$2 bartender's choice bombs	802 Regent Street Madison, WI	
+Chaser's	43.07426	-89.39227	$3 rail mixers and ALL taps (3pm-9pm)	$6 ALL pitchers (3pm-9pm)	$5 Jumbo you-call-its (9pm-close)	$2.50 domestic bottles (9pm-close)	$1 off burgers	$5 pitchers Bud Light 9pm-11pm	319 West Gorham Street, Madison, WI		
+Church Key	43.07353	-89.39705	Specials from 7pm to close:	$3 Lemon Drop shots	$3.50 Tully mixers	$3.50 Bacardi	$3 Pinnacle mixers	$2 pitchers of Bud Light (7pm-midnight)	626 University Avenue, Madison, WI		
+The City	43.07488	-89.39572	1/2 off pitchers	$3 pints	Specials on City infused vodkas	636 State Street, Madison, WI					
+Echo Tap	43.06819	-89.39142	$4 Captain mixers	Trivia at 9pm	Happy Hour 3-8pm:	$0.75 off all drinks	$5 Cocktail menu drinks	554 West Main Street, Madison, WI			
+Essen Haus	43.07624	-89.37653	$3.50 pints, rails, and glasses of wine	$4.50 Half liters	$17 2-Liter Boots (9pm-close)	514 East Wilson St, Madison, WI					
+The Great Dane	43.07453	-89.38002	Happy Hour 4-6pm	123 E Doty St # 1, Madison, WI							
+Hawk's	43.07461	-89.39272	Iced Tea Night	$6 bomb bottles	425 State Street, Madison, WI						
+Ivory Room	43.0743	-89.38709	$3 Skyy vodka mixers	$3.50 Hopalicious taps	116 West Mifflin Street, Madison, WI						
+Johnny O's	43.07338	-89.39677	$3.50 off all pitchers	622 University Ave, Madison, WI							
+Jordan's Big Ten	43.06788	-89.40829	$1 domestic taps	$2-2.50 micro taps	$3 swampwaters	$4 Jack pints	1330 Regent St, Madison, WI				
+Kollege Klub	43.07565	-89.39713	Beer Pong and PlinKKo night	$2 pints	$3 Stoli & Jack mixers	$4 bombs	$5 Bud Light pitchers	529 North Lake Street, Madison, WI			
+Lava Lounge	43.07344	-89.39526	Bartender's choice	461 West Gilman Street, Madison, WI							
+The Library	43.07303	-89.40943	$3 Mount Gay mixers (7pm-close)	$3.50 double Captain mixers (7pm-close)	$2 Tall Boys (4pm-close)	40 cent wings (4pm-10pm)	320 North Randall Avenue, Madison, WI				
+Logan's	43.07415	-89.39132	$4 mugs of PBR	$3 bombs	$2 LIT's	2 for 1 pizzas (until 10pm)	$1 cheese pizzas	*specials may vary by bartender*	322 West Johnson Street, Madison, WI		
+Lucky's	43.0677	-89.41017	$1 taps of High Life	$1 corndogs	$3 Long Islands	$2.50 Doctor shots	$1 rails (11pm-midnight)	2 for 1 rails (midnight-1am)	1421 Regent St, Madison, WI		
+MacKesey's Irish Pub	43.07471	-89.39086	$2 Coors Light, Miller Lite, & Esser's Best	$2 rails	$2.25 Domestic bottles	$3.25 Micro taps	$4 Import taps	317 State Street, Madison, WI			
+Madhatter's	43.07459	-89.39249	$5 domestic pitchers (9pm-12pm)	$2 double Long Islands	322 West Gorham Street, Madison, WI						
+Madison's	43.07465	-89.38062	Happy Hour (4-7pm)	$3 taps	$3 rail drinks	$3 House wine	25% off any appetizer	119 King St., Madison, WI			
+Moe's Tavern	43.07474	-89.38659	$4 Moe's bombs	1/2 off Frida's famous margaritas	118 State Street, Madison, WI						
+Monday's	43.07459	-89.39463	$1 taps until 10pm	$3 rail mixers (9pm-close)	523 State Street, Madison, WI						
+Nitty Gritty	43.07186	-89.39572	Power Hour (10pm-11pm):	$1.25 rail mixers	$1 Michelob Golden Light taps	$2.25 Drop shots	Daily Specials (9pm-close):	$2.50 Captain and 3 Olives mixers	$3 Labatt Blue 16oz cans	$3 Jameson shots	223 N Frances St, Madison, WI
+The Old Fashioned	43.07611	-89.38386	2 for 1 rails and taps (3-5pm & 10-midnight)	Beer of the month special	23 North Pinckney Street, Madison, WI						
+Opus Lounge	43.07486	-89.38091	1/2 off taps	25% off drinks and food (4:30-7pm)	116 King St. Madison, WI						
+The Paradise Lounge	43.07241	-89.38483	$1 off all pitchers	119 W Main St. Madison, WI							
+Paul's Club	43.07487	-89.38856	$2 PBR cans	$3.50 Magic Hats	212 State Street, Madison, WI						
+Plan B	43.08006	-89.36892	Live DJ	$4 Long Islands	$3 Three Olives mixers	924 Williamson Street  Madison, WI					
+The Plaza	43.0753	-89.39044	$2 Long Islands	$2.50 Spaten and Red Hook pints	319 N Henry St, Madison, WI						
+Red Shed	43.07356	-89.39595	1/2 off all tap beer	$2.50 Bacardi highballs	$7 JUMBO Long Islands	406 North Frances Street, Madison, WI					
+Regent Street Retreat	43.06785	-89.40647	$10 all-you-can-drink (10pm-midnight)	$4 Long Islands	1206 Regent Street, Madison, WI						
+Sotto	43.07486	-89.39004	$2 Margaritas	$2 Long Islands	$2 Bud Light Limes	DJ and dancing	303 N Henry St. Madison, WI				
+Stadium Bar	43.06961	-89.40972	$1 off drinks (3-7pm)	$3.50 Irish Coffees	$3 Coors Light silos	$3 Pinnacle mixers	1419 Monroe Street, Madison, WI				
+State Street Brats	43.07488	-89.39601	5 for $5 domestics, rails, mixed shots (9-10pm)	4 for $5 (10-11pm)	3 for $5 (11pm-midnight)	2 for $5 (12-1am)	Beer stock exchange	603 State Street, Madison, WI			
+Tiki Shack	43.07504	-89.38738	2 for 1 Mai Tais	122 State Street, Madison, WI							
+Up North	43.07716	-89.37696	$2.50 Seagrams 7 mixers	$2.50 Leinies bottles	$4 Central Waters Mudpuppy Porter pints	150 South Blair Street, Madison, WI					
+The Vintage	43.07299	-89.39551	$1 PBR, Schlitz, and Bud Light taps	$2 Russian Standard vodka mixers	$2 Chicken, beef, & fish tacos (3-10pm)	529 University Avenue, Madison, WI					
+Wando's	43.07339	-89.39593	Red Solo Cup Progressive Specials:	9-10pm $.50 Coors $1.50 mixers	10-11pm $1 Coors $2 rails	11-12pm $1.50 Coors $2.50 rails	$2 Coors $3 rails until close	$4 jumbo Captains and jumbo Jacks	$15 Fishbowls	602 University Avenue, Madison, WI	
+Whiskey Jack's	43.07514	-89.39483	$2 Domestic bottles	$3 Martinis	$3 Tall Absolut and Jameson drinks	552 State Street, Madison, WI					
+*****Friday*****											
+none	0	0	0								
+Amy's Cafe	43.07453	-89.39407	Fish Fry $6.50	414 West Gilman Street, Madison, WI							
+Blue Velvet	43.07436	-89.39437	$4 PBR 24oz Silos	$2 shot specials	430 West Gilman Street, Madison, WI						
+Brickhouse BBQ	43.07396	-89.3931	Absolut mixers $4 single $7.50 double	$3.50 Jameson shots $4 honey shots	$2.50 New Glarus taps	408 West Gorham Street Madison, WI					
+Brocach Irish Pub	43.07347	-89.38343	all you can eat Fish Fry $15	Happy Hour Specials: (3-6pm and 10-close)	$6.50 pint of Guinness and shot of Powers	$4.25 pint Murphy's Stout	$5 glass of wine	1/2 off whiskey and scotch ($7-$12)	$5 Stoli Doli martinis	7 West Main Street, Madison, WI	
+Brother's	43.07339	-89.39757	$2 Jager and Cherry bombs	$3 Three Olives mixers	$4 Three Olives vodka redbulls	$3.25 domestic bottles	$1.50 you-call-its 9pm-11pm	$3 High Life pitchers (4pm-9pm)	704 University Avenue, Madison, WI		
+Buckingham's	43.0677	-89.39957	$3.50 Corona bottles	$3.50 Captain and coke mixers (16oz)	Hammertime (9pm-11pm):	$1  rails and Chevy Nova shots	$1 Coors Light bullets	$2 bartender's choice bombs	802 Regent Street Madison, WI		
+Chaser's	43.07426	-89.39227	$2 taps (3pm-9pm)	$4 pitchers Busch and Rolling Rock (3pm-9pm)	$5 pitchers of Bud Light (3pm-11pm)	Wheel n Deal night (9pm-close)	319 West Gorham Street, Madison, WI				
+Church Key	43.07353	-89.39705	$3 pitchers Bud Light with student ID (2-5pm)	Specials from 9pm to close:	$3 Long Islands	$4 Captain	$3.50 3 Olives mixers	$3.50 Benchmark mixers	$2.50 house shot	626 University Avenue, Madison, WI	
+The City	43.07488	-89.39572	$4 PBR pitchers (3pm-9pm)	$3 rails	$4 Skyyscrapers (the blue one)	$4 Highrises (the red one)	636 State Street, Madison, WI				
+Echo Tap	43.06819	-89.39142	Fish Fry	Happy Hour 3-8pm:	$0.75 off all drinks	$5 Cocktail menu drinks	554 West Main Street, Madison, WI				
+Essen Haus	43.07624	-89.37653	$7.50 Beer Bongs ($5 refills)	$8.50 mixer Bongs (7.50 refills)	$16 Fishbowls ($15 refills)	514 East Wilson St, Madison, WI					
+The Great Dane	43.07453	-89.38002	Happy Hour 4-6pm	Student ID special 9pm-close	123 E Doty St # 1, Madison, WI						
+Hawk's	43.07461	-89.39272	$6 bomb bottles	425 State Street, Madison, WI							
+Ivory Room	43.0743	-89.38709	$3 Sweet Tea vodka and lemonades	$5 sangria/$15 sangria pitchers	$3.50 Hopalicious pints	$2 Wonder shots	116 West Mifflin Street, Madison, WI				
+Johnny O's	43.07338	-89.39677	$2.50 SoCo Lime shots	$3.50 Captain mixers	$6 Leinies pitcher	622 University Ave, Madison, WI					
+Jordan's Big Ten	43.06788	-89.40829	2 for 1 Bud Light taps	$3 Long Islands 	$3 martini of the week	Friday fish fry	1330 Regent St, Madison, WI				
+Kollege Klub	43.07565	-89.39713	$4 Jumbo Long Islands	$4 Stoli mixers	$4 Jack mixers	529 North Lake Street, Madison, WI					
+Lava Lounge	43.07344	-89.39526	$3.50 Tall Boys	$3 Long Islands	461 West Gilman Street, Madison, WI						
+The Library	43.07303	-89.40943	$3.25 Long Islands (4pm-close)	$2 domestics (9pm-close)	$8 Spotted Cow pitchers (4-7pm)	320 North Randall Avenue, Madison, WI					
+Logan's	43.07415	-89.39132	Friday after class specials (4pm-10pm):	$2 domestic pints	$2 rail mixers	$3 burger (10oz) with chips	$2 select shots	2 for 1 jello shots	$1 cheese pizzas	*specials may vary by bartender*	322 West Johnson Street, Madison, WI
+Lucky's	43.0677	-89.41017	Fish Fry!	$3 Leinies pints	$2.5o Captain Crunch shots	$4 Old Fashions	$1 rails (11pm-midnight)	2 for 1 rails (midnight-1am)	1421 Regent St, Madison, WI		
+MacKesey's Irish Pub	43.07471	-89.39086	$4 Flavored rum and vodka bombs	$5 Irish Car Bombs	317 State Street, Madison, WI						
+Madhatter's	43.07459	-89.39249	$6 Pinnacle mixers	$5 domestic pitchers (9pm-12pm)	322 West Gorham Street, Madison, WI						
+Madison's	43.07465	-89.38062	Happy Hour (4-7pm)	$3 taps	$3 rail drinks	$3 House wine	25% off any appetizer	119 King St., Madison, WI			
+Moe's Tavern	43.07474	-89.38659	$4 Moe's bombs	$1 sliders 3-6pm	$5 Duff pitchers 3pm-close	118 State Street, Madison, WI					
+Monday's	43.07459	-89.39463	$1 taps till 10pm	523 State Street, Madison, WI							
+Nitty Gritty	43.07186	-89.39572	Power Hour (10pm-11pm):	$1.25 rail mixers	$1 Michelob Golden Light taps	$2.25 Drop shots	Daily Specials (9pm-close):	2 for 1 Bud Light bottles and pints	$4 Jumbo Long Island and Long Beach	223 N Frances St, Madison, WI	
+The Old Fashioned	43.07611	-89.38386	Beer of the month special	23 North Pinckney Street, Madison, WI							
+Opus Lounge	43.07486	-89.38091	25% off drinks and food (4:30-7pm)	116 King St. Madison, WI							
+The Paradise Lounge	43.07241	-89.38483	$5.50 PBR pitchers	$4 Jager bombs	119 W Main St. Madison, WI						
+Paul's Club	43.07487	-89.38856	$2 PBR cans	$3.50 Magic Hats	212 State Street, Madison, WI						
+Plan B	43.08006	-89.36892	Live DJ	$3 Bacardi mixers	924 Williamson Street  Madison, WI						
+The Plaza	43.0753	-89.39044	$2.50 rail mixers	319 N Henry St, Madison, WI							
+Red Shed	43.07356	-89.39595	$7 JUMBO Long Islands	406 North Frances Street, Madison, WI							
+Regent Street Retreat	43.06785	-89.40647	Pool Tourney @ 7:30pm	$3 Bacardi mixers	$3 jager bombs	$2 High Life bottles	1206 Regent Street, Madison, WI				
+Sotto	43.07486	-89.39004	$4.50 Pinacle flavored vodka mixers	DJ and dancing	303 N Henry St. Madison, WI						
+Stadium Bar	43.06961	-89.40972	$1 off drinks (3-7pm)	1419 Monroe Street, Madison, WI							
+State Street Brats	43.07488	-89.39601	4pm-9pm specials:	$2 pints, $6 pitchers, $7 boots Leinies	9pm-close specials:	$4.50 Absolut, Jameson, Bacardi double mixers	603 State Street, Madison, WI				
+Tiki Shack	43.07504	-89.38738	2 for 1 Rum Punches	122 State Street, Madison, WI							
+Up North	43.07716	-89.37696	$2.50 Corona bottles	$2.50 Jeremiah Weed mixers	$4 Lagunitas IPA pints	150 South Blair Street, Madison, WI					
+The Vintage	43.07299	-89.39551	$1 off Vintage Brewing Co Beer (8pm-close)	529 University Avenue, Madison, WI							
+Wando's	43.07339	-89.39593	$5 Jumbo Russian Standard mixers	$7 pitchers Bud Light	Fish Fry 11am-10pm	602 University Avenue, Madison, WI					
+Whiskey Jack's	43.07514	-89.39483	Live Music	552 State Street, Madison, WI							
+*****Saturday*****											
+none	0	0	0								
+Amy's Cafe	43.07453	-89.39407	(no specials today)	414 West Gilman Street, Madison, WI							
+Blue Velvet	43.07436	-89.39437	$4 PBR 24oz Silos	$2 shot specials	430 West Gilman Street, Madison, WI						
+Brickhouse BBQ	43.07396	-89.3931	$10 buckets of Bud silos	$3 taps Stella, New Glarus, Hoegaarden	$3.50 Jameson shots $4 honey shots	$5.50 Three Olives and Monster	408 West Gorham Street Madison, WI				
+Brocach Irish Pub	43.07347	-89.38343	Happy Hour Specials: (3-6pm and 10-close)	$3 Capital Seasonal beer	$6.50 pint of Guinness and shot of Powers	$4.25 pint Murphy's Stout	$5 glass of wine	1/2 off whiskey and scotch ($7-$12)	$5 Stoli Doli martinis	7 West Main Street, Madison, WI	
+Brother's	43.07339	-89.39757	$2 Jager and Cherry bombs	$3 Three Olives mixers	$3.75 Three Olives vodka redbulls	$3.25 domestic bottles	$1.50 you-call-its 9pm-11pm	$3 High Life pitchers (4pm-9pm)	704 University Avenue, Madison, WI		
+Buckingham's	43.0677	-89.39957	$10 Bucket domestic bottles (4)	$3 Three Olives mixers (16oz)	Hammertime (9pm-11pm):	$1  rails and Chevy Nova shots	$1 Coors Light bullets	$2 bartender's choice bombs	802 Regent Street Madison, WI		
+Chaser's	43.07426	-89.39227	Specials from open-9pm:	$6 Goose Island pitchers	$5 Jumbo Screwdrivers and Bloody Marys	Specials from 9pm-close:	$4 shot and a beer	$5.50 Bomb and beer	319 West Gorham Street, Madison, WI		
+Church Key	43.07353	-89.39705	Specials from 9pm to close:	$3 Bud Light pint and House shot	$3 Long Islands	$3 Svedka	$3.50 Bacardi	$4 Jack Daniels	626 University Avenue, Madison, WI		
+The City	43.07488	-89.39572	$2.50 Bud Light bottles	$4 Skyyscrapers (the blue one)	$4 Highrises (the red one)	636 State Street, Madison, WI					
+Echo Tap	43.06819	-89.39142	$4 Captain mixers	Happy Hour 3-8pm:	$0.75 off all drinks	$5 Cocktail menu drinks	554 West Main Street, Madison, WI				
+Essen Haus	43.07624	-89.37653	$7.50 Beer Bongs ($5 refills)	$8.50 mixer Bongs (7.50 refills)	$16 Fishbowls ($15 refills)	514 East Wilson St, Madison, WI					
+The Great Dane	43.07453	-89.38002	(no specials today)	123 E Doty St # 1, Madison, WI							
+Hawk's	43.07461	-89.39272	$6 bomb bottles	425 State Street, Madison, WI							
+Ivory Room	43.0743	-89.38709	$3 Sweet Tea vodka and lemonades	$5 sangria/$15 sangria pitchers	$3.50 Capital Winter Skal pints	116 West Mifflin Street, Madison, WI					
+Johnny O's	43.07338	-89.39677	$3 Pinnacle vodka mixers	$3 rail vodka mixers	$6 pitchers of Leinies	622 University Ave, Madison, WI					
+Jordan's Big Ten	43.06788	-89.40829	$4 Skyy and Skyy flavor pints	11am-1pm	$5 pitchers of Bud Light	$5 bucket of 6 domestic shorties	$3 mimosa	$4 Bloody Mary's	1330 Regent St, Madison, WI		
+Kollege Klub	43.07565	-89.39713	$4 Jumbo Long Islands	$4 Stoli mixers	$4 Jack mixers	529 North Lake Street, Madison, WI					
+Lava Lounge	43.07344	-89.39526	$3.50 Tall Boys	$3 Long Islands	461 West Gilman Street, Madison, WI						
+The Library	43.07303	-89.40943	$3 Jack mixers (7pm-close)	$2.50 Tall Boys (7pm-close)	320 North Randall Avenue, Madison, WI						
+Logan's	43.07415	-89.39132	$2 PBR Tall Boys until 11pm	$1 cheese pizzas	*specials may vary by bartender*	322 West Johnson Street, Madison, WI					
+Lucky's	43.0677	-89.41017	Bucket Race Night	$10 Buckets	$3 Captain Lime bite-a-ritas	$3 SoCo Lime shots	$1 rails (11pm-midnight)	2 for 1 rails (midnight-1am)	1421 Regent St, Madison, WI		
+MacKesey's Irish Pub	43.07471	-89.39086	(no specials today)								
+Madhatter's	43.07459	-89.39249	$6 Pinnacle mixers	$5 domestic pitchers (9pm-12pm)	322 West Gorham Street, Madison, WI						
+Madison's	43.07465	-89.38062	(no specials today)	119 King St., Madison, WI							
+Moe's Tavern	43.07474	-89.38659	Karaoke 10pm-2am (free shot if you sing)	$4 Moe's Bombs	$4 Double UV mixers	Moe's Awesome Hour (10pm-11pm): 	2 for 1 rails, taps, calls	118 State Street, Madison, WI			
+Monday's	43.07459	-89.39463	(no specials today)	523 State Street, Madison, WI							
+Nitty Gritty	43.07186	-89.39572	Power Hour (10pm-11pm):	$1.25 rail mixers	$1 Michelob Golden Light taps	$2.25 Drop shots	Daily Specials (9pm-close):	$2.50 Three Olives mixers	$3 Leinies pints and batch 19	223 N Frances St, Madison, WI	
+The Old Fashioned	43.07611	-89.38386	Beer of the month special	23 North Pinckney Street, Madison, WI							
+Opus Lounge	43.07486	-89.38091	(no specials today)	116 King St. Madison, WI							
+The Paradise Lounge	43.07241	-89.38483	$5.50 PBR pitchers	119 W Main St. Madison, WI							
+Paul's Club	43.07487	-89.38856	$2 PBR cans	$3.50 Magic Hats	212 State Street, Madison, WI						
+Plan B	43.08006	-89.36892	Resident DJs	$4.50 Jack mixers	924 Williamson Street  Madison, WI						
+The Plaza	43.0753	-89.39044	$2.50 domestic bottles	319 N Henry St, Madison, WI							
+Red Shed	43.07356	-89.39595	$7 JUMBO Long Islands	406 North Frances Street, Madison, WI							
+Regent Street Retreat	43.06785	-89.40647	$3 Three Olive mixers	$3 Monster mixers	$10 all-you-can-drink (10pm-midnight)	1206 Regent Street, Madison, WI					
+Sotto	43.07486	-89.39004	$4.50 Jack Daniels and Jameson mixers	DJ and dancing	303 N Henry St. Madison, WI						
+Stadium Bar	43.06961	-89.40972	$1 off drinks (3-7pm)	1419 Monroe Street, Madison, WI							
+State Street Brats	43.07488	-89.39601	4pm-9pm specials:	Pabst $2 pints $5 pitchers	9pm-close specials:	$4.50 Rosebowls, LITs, and Double Tall Skyy Flavors	603 State Street, Madison, WI				
+Tiki Shack	43.07504	-89.38738	2 for 1 Bahama Mamas	122 State Street, Madison, WI							
+Up North	43.07716	-89.37696	$1 off all taps	$3 Absolut and Stoli mixers	$4 Bomb shots	150 South Blair Street, Madison, WI					
+The Vintage	43.07299	-89.39551	Bloody Mary Bar (9am-noon)	$1 off Vintage Brewing beer (8pm-close)	529 University Avenue, Madison, WI						
+Wando's	43.07339	-89.39593	$5 Jumbo Russian Standard mixers	$3.50 PBR drafts	602 University Avenue, Madison, WI						
+Whiskey Jack's	43.07514	-89.39483	Live Music	552 State Street, Madison, WI							
