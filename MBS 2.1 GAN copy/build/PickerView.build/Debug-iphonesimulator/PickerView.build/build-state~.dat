@@ -1,0 +1,256 @@
+TPickerView
+v7
+r0
+t339744882.560638
+cCheck dependencies
+cProcessInfoPlistFile /Users/bistrostudios/Documents/PickerView/build/Debug-iphonesimulator/PickerView.app/Info.plist PickerView-Info.plist
+cCompileXIB /Users/bistrostudios/Documents/PickerView/MainWindow.xib
+cCompileXIB /Users/bistrostudios/Documents/PickerView/PickerViewViewController.xib
+cProcessPCH /var/folders/SQ/SQn6I-dFEvC0JXlzH8CnJ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PickerView_Prefix-efmjykzupxauwrduohatqcxykocr/PickerView_Prefix.pch.gch PickerView_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PickerView.build/Debug-iphonesimulator/PickerView.build/Objects-normal/i386/main.o /Users/bistrostudios/Documents/PickerView/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PickerView.build/Debug-iphonesimulator/PickerView.build/Objects-normal/i386/PickerViewAppDelegate.o /Users/bistrostudios/Documents/PickerView/Classes/PickerViewAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PickerView.build/Debug-iphonesimulator/PickerView.build/Objects-normal/i386/PickerViewViewController.o /Users/bistrostudios/Documents/PickerView/Classes/PickerViewViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/bistrostudios/Documents/PickerView/build/Debug-iphonesimulator/PickerView.app/PickerView normal i386
+cGenerateDSYMFile /Users/bistrostudios/Documents/PickerView/build/Debug-iphonesimulator/PickerView.app.dSYM /Users/bistrostudios/Documents/PickerView/build/Debug-iphonesimulator/PickerView.app/PickerView
+cTouch /Users/bistrostudios/Documents/PickerView/build/Debug-iphonesimulator/PickerView.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/bistrostudios/Documents/PickerView/Classes/PickerViewAppDelegate.h
+c000000004E8FDDA900000000000001F3
+t1318051241
+s499
+i<UIKit/UIKit.h>
+
+N/Users/bistrostudios/Documents/PickerView/Classes/PickerViewAppDelegate.m
+c000000004E8FDDA90000000000000ABB
+t1318051241
+s2747
+i"PickerViewAppDelegate.h"
+i"PickerViewViewController.h"
+
+N/Users/bistrostudios/Documents/PickerView/Classes/PickerViewViewController.h
+c000000004E8FDE290000000000000152
+t1318051369
+s338
+i<UIKit/UIKit.h>
+
+N/Users/bistrostudios/Documents/PickerView/Classes/PickerViewViewController.m
+c000000004E8FE0E800000000000008D2
+t1318052072
+s2258
+i"PickerViewViewController.h"
+
+N/Users/bistrostudios/Documents/PickerView/MainWindow.xib
+c000000004E8FDDA90000000000004E4D
+t1318051241
+s20045
+
+N/Users/bistrostudios/Documents/PickerView/PickerViewViewController.xib
+c000000004E8FDDA90000000000001A51
+t1318051241
+s6737
+
+N/Users/bistrostudios/Documents/PickerView/PickerView_Prefix.pch
+c000000004E8FDDA900000000000000BD
+t1318051241
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/bistrostudios/Documents/PickerView/build/Debug-iphonesimulator/PickerView.app
+t1318052082
+s238
+
+N/Users/bistrostudios/Documents/PickerView/build/Debug-iphonesimulator/PickerView.app.dSYM
+t1318052082
+s102
+
+N/Users/bistrostudios/Documents/PickerView/build/Debug-iphonesimulator/PickerView.app/Info.plist
+t1318052080
+s603
+
+N/Users/bistrostudios/Documents/PickerView/build/Debug-iphonesimulator/PickerView.app/MainWindow.nib
+t1318052081
+s1687
+
+N/Users/bistrostudios/Documents/PickerView/build/Debug-iphonesimulator/PickerView.app/PickerView
+t1318052082
+s18708
+
+N/Users/bistrostudios/Documents/PickerView/build/Debug-iphonesimulator/PickerView.app/PickerViewViewController.nib
+t1318052081
+s1269
+
+N/Users/bistrostudios/Documents/PickerView/build/Debug-iphonesimulator/PickerView.app/PkgInfo
+t1318052080
+s8
+
+N/Users/bistrostudios/Documents/PickerView/build/PickerView.build/Debug-iphonesimulator/PickerView.build/Objects-normal/i386/PickerView.LinkFileList
+c000000004E8FE0F000000000000001AE
+t1318052080
+s430
+
+N/Users/bistrostudios/Documents/PickerView/build/PickerView.build/Debug-iphonesimulator/PickerView.build/Objects-normal/i386/PickerViewAppDelegate.o
+t1318052082
+s52348
+
+N/Users/bistrostudios/Documents/PickerView/build/PickerView.build/Debug-iphonesimulator/PickerView.build/Objects-normal/i386/PickerViewViewController.o
+t1318052082
+s44548
+
+N/Users/bistrostudios/Documents/PickerView/build/PickerView.build/Debug-iphonesimulator/PickerView.build/Objects-normal/i386/main.o
+t1318052082
+s6316
+
+N/Users/bistrostudios/Documents/PickerView/main.m
+c000000004E8FDDA9000000000000016E
+t1318051241
+s366
+i<UIKit/UIKit.h>
+
+N/var/folders/SQ/SQn6I-dFEvC0JXlzH8CnJ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PickerView_Prefix-efmjykzupxauwrduohatqcxykocr/PickerView_Prefix.pch.gch
+t1318052082
+s10626972
+
+NPickerView-Info.plist
+c000000004E8FDDA9000000000000038D
+t1318051241
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies339744880#339744880#0(0"0(0#1#0"4261848#0"0#
+
+CCompileC build/PickerView.build/Debug-iphonesimulator/PickerView.build/Objects-normal/i386/PickerViewAppDelegate.o /Users/bistrostudios/Documents/PickerView/Classes/PickerViewAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s339744882.227741
+e339744882.365183
+r1
+xCompileC
+xbuild/PickerView.build/Debug-iphonesimulator/PickerView.build/Objects-normal/i386/PickerViewAppDelegate.o
+x/Users/bistrostudios/Documents/PickerView/Classes/PickerViewAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/bistrostudios/Documents/PickerView/Classes/PickerViewAppDelegate.m339744882#339744882#0(0"0(0#0#73"/Users/bistrostudios/Documents/PickerView/Classes/PickerViewAppDelegate.m2433188384#2049"    cd /Users/bistrostudios/Documents/PickerView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/bistrostudios/Documents/PickerView/build/PickerView.build/Debug-iphonesimulator/PickerView.build/PickerView-generated-files.hmap -I/Users/bistrostudios/Documents/PickerView/build/PickerView.build/Debug-iphonesimulator/PickerView.build/PickerView-own-target-headers.hmap -I/Users/bistrostudios/Documents/PickerView/build/PickerView.build/Debug-iphonesimulator/PickerView.build/PickerView-all-target-headers.hmap -iquote /Users/bistrostudios/Documents/PickerView/build/PickerView.build/Debug-iphonesimulator/PickerView.build/PickerView-project-headers.hmap -F/Users/bistrostudios/Documents/PickerView/build/Debug-iphonesimulator -I/Users/bistrostudios/Documents/PickerView/build/Debug-iphonesimulator/include -I/Users/bistrostudios/Documents/PickerView/build/PickerView.build/Debug-iphonesimulator/PickerView.build/DerivedSources/i386 -I/Users/bistrostudios/Documents/PickerView/build/PickerView.build/Debug-iphonesimulator/PickerView.build/DerivedSources -include /var/folders/SQ/SQn6I-dFEvC0JXlzH8CnJ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PickerView_Prefix-efmjykzupxauwrduohatqcxykocr/PickerView_Prefix.pch -c /Users/bistrostudios/Documents/PickerView/Classes/PickerViewAppDelegate.m -o /Users/bistrostudios/Documents/PickerView/build/PickerView.build/Debug-iphonesimulator/PickerView.build/Objects-normal/i386/PickerViewAppDelegate.o0#
+
+CCompileC build/PickerView.build/Debug-iphonesimulator/PickerView.build/Objects-normal/i386/PickerViewViewController.o /Users/bistrostudios/Documents/PickerView/Classes/PickerViewViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s339744882.322524
+e339744882.471757
+r1
+xCompileC
+xbuild/PickerView.build/Debug-iphonesimulator/PickerView.build/Objects-normal/i386/PickerViewViewController.o
+x/Users/bistrostudios/Documents/PickerView/Classes/PickerViewViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/bistrostudios/Documents/PickerView/Classes/PickerViewViewController.m339744882#339744882#0(0"0(0#0#76"/Users/bistrostudios/Documents/PickerView/Classes/PickerViewViewController.m2433188384#2055"    cd /Users/bistrostudios/Documents/PickerView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/bistrostudios/Documents/PickerView/build/PickerView.build/Debug-iphonesimulator/PickerView.build/PickerView-generated-files.hmap -I/Users/bistrostudios/Documents/PickerView/build/PickerView.build/Debug-iphonesimulator/PickerView.build/PickerView-own-target-headers.hmap -I/Users/bistrostudios/Documents/PickerView/build/PickerView.build/Debug-iphonesimulator/PickerView.build/PickerView-all-target-headers.hmap -iquote /Users/bistrostudios/Documents/PickerView/build/PickerView.build/Debug-iphonesimulator/PickerView.build/PickerView-project-headers.hmap -F/Users/bistrostudios/Documents/PickerView/build/Debug-iphonesimulator -I/Users/bistrostudios/Documents/PickerView/build/Debug-iphonesimulator/include -I/Users/bistrostudios/Documents/PickerView/build/PickerView.build/Debug-iphonesimulator/PickerView.build/DerivedSources/i386 -I/Users/bistrostudios/Documents/PickerView/build/PickerView.build/Debug-iphonesimulator/PickerView.build/DerivedSources -include /var/folders/SQ/SQn6I-dFEvC0JXlzH8CnJ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PickerView_Prefix-efmjykzupxauwrduohatqcxykocr/PickerView_Prefix.pch -c /Users/bistrostudios/Documents/PickerView/Classes/PickerViewViewController.m -o /Users/bistrostudios/Documents/PickerView/build/PickerView.build/Debug-iphonesimulator/PickerView.build/Objects-normal/i386/PickerViewViewController.o0#
+
+CCompileC build/PickerView.build/Debug-iphonesimulator/PickerView.build/Objects-normal/i386/main.o /Users/bistrostudios/Documents/PickerView/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s339744882.225950
+e339744882.322364
+r1
+xCompileC
+xbuild/PickerView.build/Debug-iphonesimulator/PickerView.build/Objects-normal/i386/main.o
+x/Users/bistrostudios/Documents/PickerView/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/bistrostudios/Documents/PickerView/main.m339744882#339744882#0(0"0(0#0#48"/Users/bistrostudios/Documents/PickerView/main.m2433188384#2007"    cd /Users/bistrostudios/Documents/PickerView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/bistrostudios/Documents/PickerView/build/PickerView.build/Debug-iphonesimulator/PickerView.build/PickerView-generated-files.hmap -I/Users/bistrostudios/Documents/PickerView/build/PickerView.build/Debug-iphonesimulator/PickerView.build/PickerView-own-target-headers.hmap -I/Users/bistrostudios/Documents/PickerView/build/PickerView.build/Debug-iphonesimulator/PickerView.build/PickerView-all-target-headers.hmap -iquote /Users/bistrostudios/Documents/PickerView/build/PickerView.build/Debug-iphonesimulator/PickerView.build/PickerView-project-headers.hmap -F/Users/bistrostudios/Documents/PickerView/build/Debug-iphonesimulator -I/Users/bistrostudios/Documents/PickerView/build/Debug-iphonesimulator/include -I/Users/bistrostudios/Documents/PickerView/build/PickerView.build/Debug-iphonesimulator/PickerView.build/DerivedSources/i386 -I/Users/bistrostudios/Documents/PickerView/build/PickerView.build/Debug-iphonesimulator/PickerView.build/DerivedSources -include /var/folders/SQ/SQn6I-dFEvC0JXlzH8CnJ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PickerView_Prefix-efmjykzupxauwrduohatqcxykocr/PickerView_Prefix.pch -c /Users/bistrostudios/Documents/PickerView/main.m -o /Users/bistrostudios/Documents/PickerView/build/PickerView.build/Debug-iphonesimulator/PickerView.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/bistrostudios/Documents/PickerView/MainWindow.xib
+s339744880.614368
+e339744881.304819
+r1
+xCompileXIB
+x/Users/bistrostudios/Documents/PickerView/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib339744880#339744881#0(0"0(0#0#56"/Users/bistrostudios/Documents/PickerView/MainWindow.xib2433188384#582"    cd /Users/bistrostudios/Documents/PickerView    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/bistrostudios/Documents/PickerView/build/Debug-iphonesimulator/PickerView.app/MainWindow.nib /Users/bistrostudios/Documents/PickerView/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/bistrostudios/Documents/PickerView/PickerViewViewController.xib
+s339744880.615617
+e339744881.305044
+r1
+xCompileXIB
+x/Users/bistrostudios/Documents/PickerView/PickerViewViewController.xib
+lSLF07#2@39"CompileXIB PickerViewViewController.xib339744880#339744881#0(0"0(0#0#70"/Users/bistrostudios/Documents/PickerView/PickerViewViewController.xib2433188384#610"    cd /Users/bistrostudios/Documents/PickerView    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/bistrostudios/Documents/PickerView/build/Debug-iphonesimulator/PickerView.app/PickerViewViewController.nib /Users/bistrostudios/Documents/PickerView/PickerViewViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/bistrostudios/Documents/PickerView/build/Debug-iphonesimulator/PickerView.app.dSYM /Users/bistrostudios/Documents/PickerView/build/Debug-iphonesimulator/PickerView.app/PickerView
+s339744882.528227
+e339744882.555896
+r1
+xGenerateDSYMFile
+x/Users/bistrostudios/Documents/PickerView/build/Debug-iphonesimulator/PickerView.app.dSYM
+x/Users/bistrostudios/Documents/PickerView/build/Debug-iphonesimulator/PickerView.app/PickerView
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/PickerView.app.dSYM build/Debug-iphonesimulator/PickerView.app/PickerView339744882#339744882#0(0"0(0#0#95"/Users/bistrostudios/Documents/PickerView/build/Debug-iphonesimulator/PickerView.app/PickerView2433188384#401"    cd /Users/bistrostudios/Documents/PickerView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/bistrostudios/Documents/PickerView/build/Debug-iphonesimulator/PickerView.app/PickerView -o /Users/bistrostudios/Documents/PickerView/build/Debug-iphonesimulator/PickerView.app.dSYM0#
+
+CLd /Users/bistrostudios/Documents/PickerView/build/Debug-iphonesimulator/PickerView.app/PickerView normal i386
+s339744882.471905
+e339744882.528067
+r1
+xLd
+x/Users/bistrostudios/Documents/PickerView/build/Debug-iphonesimulator/PickerView.app/PickerView
+xnormal
+xi386
+lSLF07#2@100"Link /Users/bistrostudios/Documents/PickerView/build/Debug-iphonesimulator/PickerView.app/PickerView339744882#339744882#0(0"0(0#0#0"2433188384#930"    cd /Users/bistrostudios/Documents/PickerView    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/bistrostudios/Documents/PickerView/build/Debug-iphonesimulator -F/Users/bistrostudios/Documents/PickerView/build/Debug-iphonesimulator -filelist /Users/bistrostudios/Documents/PickerView/build/PickerView.build/Debug-iphonesimulator/PickerView.build/Objects-normal/i386/PickerView.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/bistrostudios/Documents/PickerView/build/Debug-iphonesimulator/PickerView.app/PickerView0#
+
+CProcessInfoPlistFile /Users/bistrostudios/Documents/PickerView/build/Debug-iphonesimulator/PickerView.app/Info.plist PickerView-Info.plist
+s339744880.609891
+e339744880.614236
+r1
+xProcessInfoPlistFile
+x/Users/bistrostudios/Documents/PickerView/build/Debug-iphonesimulator/PickerView.app/Info.plist
+xPickerView-Info.plist
+lSLF07#2@29"Process PickerView-Info.plist339744880#339744880#0(0"0(0#0#63"/Users/bistrostudios/Documents/PickerView/PickerView-Info.plist4750400#497"    cd /Users/bistrostudios/Documents/PickerView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility PickerView-Info.plist -genpkginfo /Users/bistrostudios/Documents/PickerView/build/Debug-iphonesimulator/PickerView.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/bistrostudios/Documents/PickerView/build/Debug-iphonesimulator/PickerView.app/Info.plist0#
+
+CProcessPCH /var/folders/SQ/SQn6I-dFEvC0JXlzH8CnJ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PickerView_Prefix-efmjykzupxauwrduohatqcxykocr/PickerView_Prefix.pch.gch PickerView_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s339744881.305215
+e339744882.225731
+r1
+xProcessPCH
+x/var/folders/SQ/SQn6I-dFEvC0JXlzH8CnJ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PickerView_Prefix-efmjykzupxauwrduohatqcxykocr/PickerView_Prefix.pch.gch
+xPickerView_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile PickerView_Prefix.pch339744881#339744882#0(0"0(0#0#63"/Users/bistrostudios/Documents/PickerView/PickerView_Prefix.pch2433188384#1893"    cd /Users/bistrostudios/Documents/PickerView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/bistrostudios/Documents/PickerView/build/PickerView.build/Debug-iphonesimulator/PickerView.build/PickerView-generated-files.hmap -I/Users/bistrostudios/Documents/PickerView/build/PickerView.build/Debug-iphonesimulator/PickerView.build/PickerView-own-target-headers.hmap -I/Users/bistrostudios/Documents/PickerView/build/PickerView.build/Debug-iphonesimulator/PickerView.build/PickerView-all-target-headers.hmap -iquote /Users/bistrostudios/Documents/PickerView/build/PickerView.build/Debug-iphonesimulator/PickerView.build/PickerView-project-headers.hmap -F/Users/bistrostudios/Documents/PickerView/build/Debug-iphonesimulator -I/Users/bistrostudios/Documents/PickerView/build/Debug-iphonesimulator/include -I/Users/bistrostudios/Documents/PickerView/build/PickerView.build/Debug-iphonesimulator/PickerView.build/DerivedSources/i386 -I/Users/bistrostudios/Documents/PickerView/build/PickerView.build/Debug-iphonesimulator/PickerView.build/DerivedSources -c /Users/bistrostudios/Documents/PickerView/PickerView_Prefix.pch -o /var/folders/SQ/SQn6I-dFEvC0JXlzH8CnJ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PickerView_Prefix-efmjykzupxauwrduohatqcxykocr/PickerView_Prefix.pch.gch0#
+
+CTouch /Users/bistrostudios/Documents/PickerView/build/Debug-iphonesimulator/PickerView.app
+s339744882.556028
+e339744882.560570
+r1
+xTouch
+x/Users/bistrostudios/Documents/PickerView/build/Debug-iphonesimulator/PickerView.app
+lSLF07#2@90"Touch /Users/bistrostudios/Documents/PickerView/build/Debug-iphonesimulator/PickerView.app339744882#339744882#0(0"0(0#0#0"2433188384#287"    cd /Users/bistrostudios/Documents/PickerView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/bistrostudios/Documents/PickerView/build/Debug-iphonesimulator/PickerView.app0#
+
