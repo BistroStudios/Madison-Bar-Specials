@@ -218,7 +218,7 @@ Plan B	43.08006	-89.36892	Live DJ	$4 Long Islands	$3 Three Olives mixers	924 Wil
 The Plaza	43.0753	-89.39044	$2 Long Islands	$2.50 Spaten and Ale Asylum pints	$1 off Jamesons	319 N Henry St, Madison, WI					
 Red Shed	43.07356	-89.39595	1/2 off all tap beer	$2.50 Bacardi highballs	$7 JUMBO Long Islands	406 North Frances Street, Madison, WI					
 Regent Street Retreat	43.06785	-89.40647	$10 all-you-can-drink (10pm-midnight)	$4 Long Islands	1206 Regent Street, Madison, WI						
-Sotto	43.07486	-89.39004	College Night	$2 Margaritas	$2 Long Islands	$2 Bud Light Limes	$2 rail mixers	DJ and dancing	303 N Henry St. Madison, WI		
+Sotto	43.07486	-89.39004	College Night	$2 Margaritas	$2 Long Islands	$2 rail mixers	DJ and dancing	303 N Henry St. Madison, WI			
 Stadium Bar	43.06961	-89.40972	$1 off drinks (3-7pm)	$3.50 Irish Coffees	$3 Coors Light silos	$3 Pinnacle mixers	1419 Monroe Street, Madison, WI				
 State Street Brats	43.07488	-89.39601	5 for $5 domestics, rails, mixed shots (9-10pm)	4 for $5 (10-11pm)	3 for $5 (11pm-midnight)	2 for $5 (12-1am)	Beer stock exchange	603 State Street, Madison, WI			
 Tiki Shack	43.07504	-89.38738	$2 rails	122 State Street, Madison, WI							
@@ -264,7 +264,7 @@ Plan B	43.08006	-89.36892	Live DJ	$3 Bacardi mixers	924 Williamson Street  Madis
 The Plaza	43.0753	-89.39044	$2.50 rail mixers	$2 pints	319 N Henry St, Madison, WI						
 Red Shed	43.07356	-89.39595	$7 JUMBO Long Islands	406 North Frances Street, Madison, WI							
 Regent Street Retreat	43.06785	-89.40647	Pool Tourney @ 7:30pm	$3 Bacardi mixers	$3 jager bombs	$2 High Life bottles	1206 Regent Street, Madison, WI				
-Sotto	43.07486	-89.39004	Free shot with any drink purchase	DJ and dancing	303 N Henry St. Madison, WI						
+Sotto	43.07486	-89.39004	Drink and a Shot Night:	buy any drink and get a FREE shot	DJ and dancing	303 N Henry St. Madison, WI					
 Stadium Bar	43.06961	-89.40972	$1 off drinks (3-7pm)	1419 Monroe Street, Madison, WI							
 State Street Brats	43.07488	-89.39601	4pm-9pm specials:	$2 pints, $6 pitchers, $7 boots Leinies	9pm-close specials:	$4.50 Absolut, Jameson, Bacardi double mixers	603 State Street, Madison, WI				
 Tiki Shack	43.07504	-89.38738	2 for 1 Rum Punches	122 State Street, Madison, WI							
