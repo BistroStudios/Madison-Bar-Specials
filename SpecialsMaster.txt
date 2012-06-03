@@ -16,7 +16,7 @@ The Great Dane	43.07453	-89.38002	(no specials today)	123 E Doty St # 1, Madison
 Hawk's	43.07461	-89.39272	Iced Tea Night	$6 bomb bottles	425 State Street, Madison, WI						
 Ivory Room	43.0743	-89.38709	(closed)	116 West Mifflin Street, Madison, WI							
 Johnny O's	43.07338	-89.39677	(closed)	622 University Ave, Madison, WI							
-Jordan's Big Ten	43.06788	-89.40829	$4 Bloody Mary's	$3 mimosas	Buckets of shorties	1330 Regent St, Madison, WI					
+Jordan's Big Ten	43.06788	-89.40829	$3 vodka mixers	$3 mimosas	Buckets of shorties	1330 Regent St, Madison, WI					
 Kollege Klub	43.07565	-89.39713	Bring your own mug under 24 oz for:	$1 ANY tap	$2 call mixed shot	$3 call mixers	529 North Lake Street, Madison, WI				
 Lava Lounge	43.07344	-89.39526	Bartender's choice	461 West Gilman Street, Madison, WI							
 The Library	43.07303	-89.40943	NFL Sunday ticket	320 North Randall Avenue, Madison, WI							
@@ -62,7 +62,7 @@ The Great Dane	43.07453	-89.38002	Happy Hour 4-6pm	123 E Doty St # 1, Madison, W
 Hawk's	43.07461	-89.39272	Pitcher Night	$6 bomb bottles	425 State Street, Madison, WI						
 Ivory Room	43.0743	-89.38709	(closed)	116 West Mifflin Street, Madison, WI							
 Johnny O's	43.07338	-89.39677	(closed)	622 University Ave, Madison, WI							
-Jordan's Big Ten	43.06788	-89.40829	$1 rails	60 cent tacos (6pm till they're gone)	1330 Regent St, Madison, WI						
+Jordan's Big Ten	43.06788	-89.40829	$1 rails	$2.50 beer of the week	60 cent tacos (6pm till they're gone)	1330 Regent St, Madison, WI					
 Kollege Klub	43.07565	-89.39713	(closed)	529 North Lake Street, Madison, WI							
 Lava Lounge	43.07344	-89.39526	Bartender's choice	461 West Gilman Street, Madison, WI							
 The Library	43.07303	-89.40943	$3 Jim Beam mixers (7pm-close)	$2 domestics (9pm-close)	320 North Randall Avenue, Madison, WI						
@@ -106,7 +106,7 @@ The Great Dane	43.07453	-89.38002	Happy Hour 4-6pm	123 E Doty St # 1, Madison, W
 Hawk's	43.07461	-89.39272	Beer and a shot night	$6 bomb bottles	425 State Street, Madison, WI						
 Ivory Room	43.0743	-89.38709	$3 ALL Wisconsin Beers	$5 wine feature	116 West Mifflin Street, Madison, WI						
 Johnny O's	43.07338	-89.39677	(closed)	622 University Ave, Madison, WI							
-Jordan's Big Ten	43.06788	-89.40829	$1 bottles of PBR and Busch Light	$4 Skyy and Skyy flavor pints	$4 Jack pints	$1.25 Sloppy Joes	1330 Regent St, Madison, WI				
+Jordan's Big Ten	43.06788	-89.40829	$3 vodka mixers	$3 micro taps (exclusions apply)	Slider Night	1330 Regent St, Madison, WI					
 Kollege Klub	43.07565	-89.39713	2 for 1 on everything	529 North Lake Street, Madison, WI							
 Lava Lounge	43.07344	-89.39526	Bartender's choice	461 West Gilman Street, Madison, WI							
 The Library	43.07303	-89.40943	$3 double rail mixers	8pm Trivia	$2 domestics (9pm-close)	320 North Randall Avenue, Madison, WI					
@@ -152,7 +152,7 @@ The Great Dane	43.07453	-89.38002	Happy Hour 4-6pm	123 E Doty St # 1, Madison, W
 Hawk's	43.07461	-89.39272	All night is happy hour	$6 bomb bottles	425 State Street, Madison, WI						
 Ivory Room	43.0743	-89.38709	$2.50 Bud Light bottles	$5 Cosmos	116 West Mifflin Street, Madison, WI						
 Johnny O's	43.07338	-89.39677	FREE mini corn dogs with purchase	1/2 off ALL taps & pitchers	Beer Pong	622 University Ave, Madison, WI					
-Jordan's Big Ten	43.06788	-89.40829	$1 taps of PBR	$3 Captain mixers	$3 Malibu mixers	Lake Perch dinner	1330 Regent St, Madison, WI				
+Jordan's Big Ten	43.06788	-89.40829	$2 Spotted Cow taps	$3 Captain mixers	$3 Malibu mixers	Fish Fry Cod Special	1330 Regent St, Madison, WI				
 Kollege Klub	43.07565	-89.39713	Beer and shot night	$3 Miller Lite bottles (comes with free shot)	$5 High Life Light pitchers	$4 Jumbo Long Islands	529 North Lake Street, Madison, WI				
 Lava Lounge	43.07344	-89.39526	Bartender's choice	461 West Gilman Street, Madison, WI							
 The Library	43.07303	-89.40943	$3.25 taps (7pm-close)	$2 domestics (9pm-close)	320 North Randall Avenue, Madison, WI						
@@ -198,7 +198,7 @@ The Great Dane	43.07453	-89.38002	Happy Hour 4-6pm	123 E Doty St # 1, Madison, W
 Hawk's	43.07461	-89.39272	Iced Tea Night	$6 bomb bottles	425 State Street, Madison, WI						
 Ivory Room	43.0743	-89.38709	$3 Skyy vodka mixers	$3.50 Hopalicious taps	116 West Mifflin Street, Madison, WI						
 Johnny O's	43.07338	-89.39677	$3.50 off all pitchers	622 University Ave, Madison, WI							
-Jordan's Big Ten	43.06788	-89.40829	$1 domestic taps	$2-2.50 micro taps	$3 swampwaters	$4 Jack pints	1330 Regent St, Madison, WI				
+Jordan's Big Ten	43.06788	-89.40829	$1 domestic taps	$2.50 micro taps	$3 swampwaters	$4.50 Jack pint mixers	Wing Night	1330 Regent St, Madison, WI			
 Kollege Klub	43.07565	-89.39713	Beer Pong and PlinKKo night	$2 pints	$3 Stoli & Jack mixers	$4 bombs	$5 Bud Light pitchers	529 North Lake Street, Madison, WI			
 Lava Lounge	43.07344	-89.39526	Bartender's choice	461 West Gilman Street, Madison, WI							
 The Library	43.07303	-89.40943	$3 Mount Gay mixers (7pm-close)	$3.50 double Captain mixers (7pm-close)	$2 Tall Boys (4pm-close)	40 cent wings (4pm-10pm)	320 North Randall Avenue, Madison, WI				
@@ -244,7 +244,7 @@ The Great Dane	43.07453	-89.38002	Happy Hour 4-6pm	Student ID special 9pm-close	
 Hawk's	43.07461	-89.39272	$6 bomb bottles	425 State Street, Madison, WI							
 Ivory Room	43.0743	-89.38709	$3 Sweet Tea vodka and lemonades	$5 sangria/$15 sangria pitchers	$3.50 Capital Maibock	$2 Wonder shots	116 West Mifflin Street, Madison, WI				
 Johnny O's	43.07338	-89.39677	$2.50 SoCo Lime shots	$3.50 Captain mixers	$6 Leinies pitcher	622 University Ave, Madison, WI					
-Jordan's Big Ten	43.06788	-89.40829	2 for 1 Bud Light taps	$3 Long Islands 	$3 martini of the week	Friday fish fry	1330 Regent St, Madison, WI				
+Jordan's Big Ten	43.06788	-89.40829	$18 bottles of wine	$3 Long Islands 	$3 martini of the week	$2 domestic taps	1330 Regent St, Madison, WI				
 Kollege Klub	43.07565	-89.39713	$4 Jumbo Long Islands	$4 Stoli mixers	$4 Jack mixers	529 North Lake Street, Madison, WI					
 Lava Lounge	43.07344	-89.39526	$3.50 Tall Boys	$3 Long Islands	461 West Gilman Street, Madison, WI						
 The Library	43.07303	-89.40943	$3.25 Long Islands (4pm-close)	$2 domestics (9pm-close)	$8 Spotted Cow pitchers (4-7pm)	320 North Randall Avenue, Madison, WI					
@@ -290,7 +290,7 @@ The Great Dane	43.07453	-89.38002	(no specials today)	123 E Doty St # 1, Madison
 Hawk's	43.07461	-89.39272	$6 bomb bottles	425 State Street, Madison, WI							
 Ivory Room	43.0743	-89.38709	$3 Sweet Tea vodka and lemonades	$5 sangria/$15 sangria pitchers	$3.50 Capital Winter Skal pints	116 West Mifflin Street, Madison, WI					
 Johnny O's	43.07338	-89.39677	$3 Pinnacle vodka mixers	$3 rail vodka mixers	$6 pitchers of Leinies	622 University Ave, Madison, WI					
-Jordan's Big Ten	43.06788	-89.40829	$4 Skyy and Skyy flavor pints	11am-1pm	$5 pitchers of Bud Light	$5 bucket of 6 domestic shorties	$3 mimosa	$4 Bloody Mary's	1330 Regent St, Madison, WI		
+Jordan's Big Ten	43.06788	-89.40829	$6 domestic pitchers	$3 mimosas	$3 vodka mixers	buckets of shorties	$4 Bloody Mary's till 2pm	1330 Regent St, Madison, WI			
 Kollege Klub	43.07565	-89.39713	$4 Jumbo Long Islands	$4 Stoli mixers	$4 Jack mixers	529 North Lake Street, Madison, WI					
 Lava Lounge	43.07344	-89.39526	$3.50 Tall Boys	$3 Long Islands	461 West Gilman Street, Madison, WI						
 The Library	43.07303	-89.40943	$3 Jack mixers (7pm-close)	$2.50 Tall Boys (7pm-close)	320 North Randall Avenue, Madison, WI						
