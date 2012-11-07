@@ -52,7 +52,7 @@ Brocach Irish Pub	43.07347	-89.38343	Happy Hour Specials: (3-6pm and 10-close)	$
 Buckingham's	43.0677	-89.39957	$2 off Coors Light pitchers	2 for 1 rails	Hammertime (9pm-11pm):	$1  rails and Chevy Nova shots	$1 Coors Light bullets	$2 bartender's choice bombs	802 Regent Street Madison, WI		
 Chaser's	43.07426	-89.39227	$2 domestic taps (open-9pm)	$3 pitchers (open-9pm)	$4 PBR pitchers (open-9pm)	50 cent taps (9pm-close)	$3 rails, vodka redbulls, & Three Olives (9pm-close)	all you can eat wings and fries	$5 pitchers Bud Light 9pm-11pm	319 West Gorham Street, Madison, WI	
 Church Key	43.07353	-89.39705	Specials from 7pm to close:	$2 pints on tap	$2 rails	2 for $4 Bud Cans	$3 Pinnacle mixers	626 University Avenue, Madison, WI			
-The City	43.07488	-89.39572	Trivia at 8:30pm ($50 gift certificate for winner)	$4 Stoli mixers	$3 Wisconsin taps	$9 Wisconsin pitchers	Happy Hour (3pm-7pm):	2 for 1 domestic bottles/taps	2 for 1 rails	$1 off any other drink	636 State Street, Madison, WI
+The City	43.07488	-89.39572	Trivia at 8:30pm ($50 gift certificate for winner)	$4 Stoli mixers	$3 Wisconsin taps	$9 Wisconsin pitchers	Happy Hour (3pm-7pm):	$2 domestic bottles/taps	$2 rails	$1 off any other drink	636 State Street, Madison, WI
 Diego's	43.07474	-89.38659	1/2 off house margaritas	118 State Street, Madison, WI							
 Echo Tap	43.06819	-89.39142	$5 pitchers of Miller High Life & Berghoff	Happy Hour 3-8pm:	$0.75 off all drinks	$5 Cocktail menu drinks	554 West Main Street, Madison, WI				
 Essen Haus	43.07624	-89.37653	(closed)	514 East Wilson St, Madison, WI							
@@ -97,7 +97,7 @@ Brocach Irish Pub	43.07347	-89.38343	Happy Hour Specials: (3-6pm and 10-close)	$
 Buckingham's	43.0677	-89.39957	$2 McGillicudy's shots	$8 Bucket of 6 shorties	Hammertime (9pm-11pm):	$1  rails and Chevy Nova shots	$1 Coors Light bullets	$2 bartender's choice bombs	802 Regent Street Madison, WI		
 Chaser's	43.07426	-89.39227	Trivia 8pm	$3 premium taps and rail mixers (3-9pm)	$6 ALL pitchers (3pm-9pm)	2 for 1 rails and shots (3pm-9pm)	2 taps for $5 (3pm-9pm)	$5 pitchers Bud Light 9pm-11pm	319 West Gorham Street, Madison, WI		
 Church Key	43.07353	-89.39705	Specials from 7pm to close:	$2 pints on tap	$2 rails	2 for $4 Bud Cans	$3 Pinnacle mixers	626 University Avenue, Madison, WI			
-The City	43.07488	-89.39572	$2.50 vodka redbulls	$2 apple pie  and cherry pie shots	$2 domestic bottles	Happy Hour (3pm-7pm):	2 for 1 domestic bottles/taps	2 for 1 rails	$1 off any other drink	636 State Street, Madison, WI	
+The City	43.07488	-89.39572	$2.50 vodka redbulls	$2 apple pie  and cherry pie shots	$2 domestic bottles	Happy Hour (3pm-7pm):	$2 domestic bottles/taps	$2 rails	$1 off any other drink	636 State Street, Madison, WI	
 Diego's	43.07474	-89.38659	$2 tacos	$1 Margaritas	Live DJ	118 State Street, Madison, WI					
 Echo Tap	43.06819	-89.39142	$2 LaBatt Blue cans	Happy Hour 3-8pm:	$0.75 off all drinks	$5 Cocktail menu drinks	554 West Main Street, Madison, WI				
 Essen Haus	43.07624	-89.37653	$3.50 pints, rails, and glasses of wine	$4.50 Half Liters	514 East Wilson St, Madison, WI						
@@ -142,7 +142,7 @@ Brocach Irish Pub	43.07347	-89.38343	Happy Hour Specials: (3-6pm and 10-close)	$
 Buckingham's	43.0677	-89.39957	$2 cans	$2 bombs	Hammertime (9pm-11pm):	$1  rails and Chevy Nova shots	$1 Coors Light bullets	$2 bartender's choice bombs	802 Regent Street Madison, WI		
 Chaser's	43.07426	-89.39227	3 rails for $5 (9pm-close)	50 cent tacos	$3.75 Corona and Dos Equis bottles	$3.75 Jumbo margaritas	$4 Patron, 1800, and Avion shots	$5 pitchers Bud Light 9pm-11pm	319 West Gorham Street, Madison, WI		
 Church Key	43.07353	-89.39705	Specials from 7pm to close:	FREE darts and popcorn (9pm-midnight)	$2 house shot	$5 domestic pitchers	$3.50 3 Olives mixers	$3.50 tall Sangrias	$3.50 benchmark mixers	$4 bomb shots	626 University Avenue, Madison, WI
-The City	43.07488	-89.39572	2 for 1 domestic bottles and taps	2 for 1 rail mixers	$1 off everything else	1/2 off burgers until 10pm	636 State Street, Madison, WI				
+The City	43.07488	-89.39572	$2 domestic bottles/taps	$2 rails	$1 off everything else	1/2 off burgers until 10pm	636 State Street, Madison, WI				
 Diego's	43.07474	-89.38659	$2 Sol, Tecate, Dos Equis bottles	118 State Street, Madison, WI							
 Echo Tap	43.06819	-89.39142	$3 microbrew pints	Happy Hour 3-8pm:	$0.75 off all drinks	$5 Cocktail menu drinks	554 West Main Street, Madison, WI				
 Essen Haus	43.07624	-89.37653	$16 Fishbowls ($15 refills)	514 East Wilson St, Madison, WI							
@@ -232,7 +232,7 @@ Brocach Irish Pub	43.07347	-89.38343	all you can eat Fish Fry $15	Happy Hour Spe
 Buckingham's	43.0677	-89.39957	$3.50 Corona bottles	$3.50 Captain and coke mixers (16oz)	Hammertime (9pm-11pm):	$1  rails and Chevy Nova shots	$1 Coors Light bullets	$2 bartender's choice bombs	802 Regent Street Madison, WI		
 Chaser's	43.07426	-89.39227	$2 taps (3pm-9pm)	$4 pitchers Busch and Rolling Rock (3pm-9pm)	$5 pitchers of Bud Light (3pm-11pm)	Wheel n Deal night (9pm-close)	319 West Gorham Street, Madison, WI				
 Church Key	43.07353	-89.39705	$3 pitchers Bud Light with student ID (2-5pm)	Specials from 9pm to close:	$3 Long Islands	$4 Captain	$3.50 Three Olives mixers	$3.50 Benchmark mixers	$2.50 house shot	626 University Avenue, Madison, WI	
-The City	43.07488	-89.39572	$3 16oz PBR cans	$4 Stoli mixers	9pm-close: Wheel Specials every hour	Happy Hour (3pm-7pm):	2 for 1 domestic bottles/taps	2 for 1 rails	$1 off any other drink	636 State Street, Madison, WI	
+The City	43.07488	-89.39572	$3 16oz PBR cans	$4 Stoli mixers	9pm-close: Wheel Specials every hour	Happy Hour (3pm-7pm):	$2 domestic bottles/taps	$2 rails	$1 off any other drink	636 State Street, Madison, WI	
 Diego's	43.07474	-89.38659	$5 Leinie pitchers	$3 Milagro shots	118 State Street, Madison, WI						
 Echo Tap	43.06819	-89.39142	$3 Leinie's Honey Weiss pints	Fish Fry	Happy Hour 3-8pm:	$0.75 off all drinks	$5 Cocktail menu drinks	554 West Main Street, Madison, WI			
 Essen Haus	43.07624	-89.37653	$7.50 Beer Bongs ($5 refills)	$8.50 mixer Bongs (7.50 refills)	$16 Fishbowls ($15 refills)	514 East Wilson St, Madison, WI					
