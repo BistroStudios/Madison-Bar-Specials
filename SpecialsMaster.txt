@@ -137,7 +137,7 @@ The Vintage	43.07299	-89.39551	Specials from 8pm to close	Skirt Night: 50% off e
 Wando's	43.07339	-89.39593	FREE bacon	$1 cans of Coors Light, PBR, and Miller Lite	$5 Jumbo Absolut mixers	$4 Jumbo rails	602 University Avenue, Madison, WI				
 Whiskey Jack's	43.07514	-89.39483	$2 PBR, Schlitz, Sconnie, and Rolling Rock tall boys	$4 Crown Royal, Jamo, and Devil's Cut drinks	(9pm - bar time)	552 State Street, Madison, WI					
 *****Wednesday*****											
-The Bistro Bar	43.07436	-89.39437	Madison Bar Specials Exclusive Specials:	$3 pitchers of Rolling Rock	$1 rail mixers	430 West Gilman Street, Madison, WI					
+The Bistro Bar	43.07436	-89.39437	Madison Bar Specials Exclusive:	$3 pitchers of Rolling Rock	$1 rail mixers	430 West Gilman Street, Madison, WI					
 Amy's Cafe	43.07453	-89.39407	$2 Schlitz tall boys	414 West Gilman Street, Madison, WI							
 Blue Velvet	43.07436	-89.39437	$4 jumbo Pinnacle mixers	1/2 off bottles of wine	430 West Gilman Street, Madison, WI						
 Brickhouse BBQ	43.07396	-89.3931	$4 double long islands	$3 Upland & Potosi pints	408 West Gorham Street Madison, WI						
