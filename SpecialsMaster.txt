@@ -247,7 +247,7 @@ Genna's	43.0727199	-89.384389	Happy Hour 4:30-6:30pm	40% off rails and select ta
 The Great Dane	43.07453	-89.38002	Happy Hour 4-6pm	Student ID special 9pm-close	123 E Doty St # 1, Madison, WI						
 Hawk's	43.07461	-89.39272	$6 bomb bottles	425 State Street, Madison, WI							
 Ivory Room	43.0743	-89.38709	$3 Sweet Tea vodka and lemonades	$5 sangria/$15 sangria pitchers	$3.50 Capital Brew taps	*Cover charge	116 West Mifflin Street, Madison, WI				
-Johnny O's	43.07338	-89.39677	1/2 off everything with Student ID	$7 pitchers of Leinie's Original	622 University Ave, Madison, WI						
+Johnny O's	43.07338	-89.39677	College Night	1/2 off domestic bottles and taps, mixers, shots, and bomb shots with Student ID	$7 pitchers of Leinie's Original	622 University Ave, Madison, WI					
 Jordan's Big Ten	43.06788	-89.40829	$18 bottles of wine	$3 Long Islands 	$3 martini of the week	$2 domestic taps	1330 Regent St, Madison, WI				
 Kollege Klub	43.07565	-89.39713	$4 Jumbo Long Islands	$4 Stoli mixers	$4 Jack mixers	529 North Lake Street, Madison, WI					
 Lava Lounge	43.07344	-89.39526	$3.50 Tall Boys	$3 Long Islands	461 West Gilman Street, Madison, WI						
