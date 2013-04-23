@@ -46,7 +46,7 @@ Wando's	43.07339	-89.39593	$2 taps of Bud Light, Miller Lite, Coors Lite	$4 Jumb
 Whiskey Jack's	43.07514	-89.39483	$4 bomb shots	$2 drinks	552 State Street, Madison, WI						
 *****Monday*****											
 none	0	0	0								
-Amy's Cafe	43.07453	-89.39407	$2 rails	$6 PBR pitchers	$2 Schlitz tall boys	414 West Gilman Street, Madison, WI					
+Amy's Cafe	43.07453	-89.39407	$1 PBR taps	$2 rails	$2 Schlitz and Hamm's tall boys	$2 specialty shots	414 West Gilman Street, Madison, WI				
 Blue Velvet	43.07436	-89.39437	$3 Tap beers	430 West Gilman Street, Madison, WI							
 Brickhouse BBQ	43.07396	-89.3931	Stag Party Cherry Cokes $4 single $7.50 double	$2.50 Capital pints	408 West Gorham Street Madison, WI						
 Brocach Irish Pub	43.07347	-89.38343	Happy Hour Specials: (3-6pm and 10-close)	$3 Capital Seasonal beer	$6.50 pint of Guinness and shot of Powers	$4.25 pint Murphy's Stout	$5 glass of wine	1/2 off whiskey and scotch ($7-$12)	$5 Stoli Doli martinis	7 West Main Street, Madison, WI	
@@ -92,7 +92,7 @@ Wando's	43.07339	-89.39593	$2 Bud Light bottles	$2 rails	$2 Breakfast shots	$2 B
 Whiskey Jack's	43.07514	-89.39483	Mug Club	$3 any tap beer	552 State Street, Madison, WI						
 *****Tuesday*****											
 none	0	0	0								
-Amy's Cafe	43.07453	-89.39407	$6 PBR pitchers	414 West Gilman Street, Madison, WI							
+Amy's Cafe	43.07453	-89.39407	$1 PBR pints	$3 craft taps	414 West Gilman Street, Madison, WI						
 Blue Velvet	43.07436	-89.39437	$5 Martinis	430 West Gilman Street, Madison, WI							
 Brickhouse BBQ	43.07396	-89.3931	Jack mixers $4 single $7.50 double	$3 Lake Louie pints	$10 bucket PBR tall boys	408 West Gorham Street Madison, WI					
 Brocach Irish Pub	43.07347	-89.38343	Happy Hour Specials: (3-6pm and 10-close)	$3 Capital Seasonal beer	$6.50 pint of Guinness and shot of Powers	$4.25 pint Murphy's Stout	$5 glass of wine	1/2 off whiskey and scotch ($7-$12)	$5 Stoli Doli martinis	7 West Main Street, Madison, WI	
@@ -138,7 +138,7 @@ Wando's	43.07339	-89.39593	FREE bacon	$1 cans of Coors Light, PBR, and Miller Li
 Whiskey Jack's	43.07514	-89.39483	$2 PBR, Schlitz, Sconnie, and Rolling Rock tall boys	$4 Crown Royal, Jamo, and Devil's Cut drinks	(9pm - bar time)	552 State Street, Madison, WI					
 *****Wednesday*****											
 none	0	0	0								
-Amy's Cafe	43.07453	-89.39407	$2 Schlitz tall boys	414 West Gilman Street, Madison, WI							
+Amy's Cafe	43.07453	-89.39407	$2 Schlitz and Hamm's tall boys	414 West Gilman Street, Madison, WI							
 Blue Velvet	43.07436	-89.39437	$4 jumbo Pinnacle mixers	1/2 off bottles of wine	430 West Gilman Street, Madison, WI						
 Brickhouse BBQ	43.07396	-89.3931	$4 double long islands	$3 Upland & Potosi pints	408 West Gorham Street Madison, WI						
 Brocach Irish Pub	43.07347	-89.38343	Happy Hour Specials: (3-6pm and 10-close)	$3 Capital Seasonal beer	$6.50 pint of Guinness and shot of Powers	$4.25 pint Murphy's Stout	$5 glass of wine	1/2 off whiskey and scotch ($7-$12)	$5 Stoli Doli martinis	7 West Main Street, Madison, WI	
@@ -230,7 +230,7 @@ Wando's	43.07339	-89.39593	Red Solo Cup Progressive Specials:	9-10pm $.50 Coors 
 Whiskey Jack's	43.07514	-89.39483	$2 domestic bottles	$3 Three Olives martinis and mixers	$3 Dr. McGuillicuddy's shots and Jumbo Long Islands	552 State Street, Madison, WI					
 *****Friday*****											
 none	0	0	0								
-Amy's Cafe	43.07453	-89.39407	Fish Fry $6.50	414 West Gilman Street, Madison, WI							
+Amy's Cafe	43.07453	-89.39407	$2 Schlitz and Hamm's tall boys	$3.50 rail mixers	$2 specialty shots	414 West Gilman Street, Madison, WI					
 Blue Velvet	43.07436	-89.39437	$4 PBR 24oz Silos	$2 shot specials	430 West Gilman Street, Madison, WI						
 Brickhouse BBQ	43.07396	-89.3931	Absolut mixers $4 single $7.50 double	$3.50 Jameson shots $4 honey shots	$2.50 New Glarus taps	408 West Gorham Street Madison, WI					
 Brocach Irish Pub	43.07347	-89.38343	all you can eat Fish Fry $15	Happy Hour Specials: (3-6pm and 10-close)	$6.50 pint of Guinness and shot of Powers	$4.25 pint Murphy's Stout	$5 glass of wine	1/2 off whiskey and scotch ($7-$12)	$5 Stoli Doli martinis	7 West Main Street, Madison, WI	
@@ -276,7 +276,7 @@ Wando's	43.07339	-89.39593	$5 Jumbo Russian Standard mixers	$7 pitchers Bud Ligh
 Whiskey Jack's	43.07514	-89.39483	Live Music	$2 you-call-its (10pm-midnight)	552 State Street, Madison, WI						
 *****Saturday*****											
 none	0	0	0								
-Amy's Cafe	43.07453	-89.39407	(no specials today)	414 West Gilman Street, Madison, WI							
+Amy's Cafe	43.07453	-89.39407	$2 Schlitz and Hamm's tall boys	$3.50 rail mixers	$2 specialty shots	414 West Gilman Street, Madison, WI					
 Blue Velvet	43.07436	-89.39437	$4 PBR 24oz Silos	$2 shot specials	430 West Gilman Street, Madison, WI						
 Brickhouse BBQ	43.07396	-89.3931	$10 buckets of Bud silos	$3 taps Stella, New Glarus, Hoegaarden	$3.50 Jameson shots $4 honey shots	$5.50 Three Olives and Monster	408 West Gorham Street Madison, WI				
 Brocach Irish Pub	43.07347	-89.38343	Happy Hour Specials: (3-6pm and 10-close)	$3 Capital Seasonal beer	$6.50 pint of Guinness and shot of Powers	$4.25 pint Murphy's Stout	$5 glass of wine	1/2 off whiskey and scotch ($7-$12)	$5 Stoli Doli martinis	7 West Main Street, Madison, WI	
